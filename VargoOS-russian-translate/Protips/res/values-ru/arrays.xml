@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="tips">
+    <item>"Просмотреть все свои приложения.
+ </item>
+    <item>«Перетащите приложения на главный экран.
+ </item>
+    <item>"Переупорядочить главный экран.
+ </item>
+    <item>"Удалить элементы.
+ </item>
+    <item>«Несколько главных экранов.
+ </item>
+    <item>"С этим виджетами?
+ </item>
+  </string-array>
+  <string-array name="tips2">
+    <item>«Дом - это сад
+</item>
+    <item>«Телефон не является водонепроницаемым
+</item>
+    <item>«Хочешь еще несколько домашних экранов?
+</item>
+    <item>«Маленькие главные экранные точки
+</item>
+    <item>"Значки панели состояния
+</item>
+    <item>«Есть трюк
+</item>
+    <item>«Touch Market для приложений»
+</item>
+    <item>«О, и между прочим:
+</item>
+  </string-array>
+</resources>

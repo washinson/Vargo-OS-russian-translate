@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mmi_imei_display">*#06#</string>
+  <string name="prl_version_display">*#0000#</string>
+  <string name="cta_version_display">\#*2008#</string>
+  <string name="soft_version_display">*999#</string>
+  <string name="build_version_display">*#267#</string>
+  <string name="msalog_support">*#7789#</string>
+  <string name="factory_test_for_attachment_display">*937*79#</string>
+  <string name="factory_test_for_attachment">*#2846#</string>
+  <string name="project_test_display">*937*760#</string>
+  <string name="user_factory_mode_change">*937*765#</string>
+  <string name="customer_version_display">*#12345#67890#*</string>
+  <string name="start_sales_count">*#9585#</string>
+  <string name="start_hosin_factory_test">*#66#*</string>
+  <string name="system_version_display">*#102#</string>
+  <string name="start_boway_sale">*#2264482*#</string>
+  <string name="test_start_runin">*#6688#</string>
+  <string name="hw_project_test_display">*#8375#</string>
+  <string name="app_name">Режим двигателя</string>
+  <string name="hello_world">Привет мир!</string>
+  <string name="action_settings">Настройки</string>
+  <string name="engineer_title">Интерфейс запроса инженерных инструкций</string>
+  <string name="build_number">Номер сборки</string>
+  <string name="build_version_time">Сформировать время версии</string>
+  <string name="build_version_info">Информация о версии сборки</string>
+  <string name="build_baseline_info">Базовая версия</string>
+  <string name="cta_version">Версия CTA</string>
+  <string name="software_version">Версия ПО</string>
+  <string name="hardware_version">Версия оборудования</string>
+  <string name="product_version">Версия продукта</string>
+  <string name="build_version">Номер ревизии</string>
+  <string name="master_clear_title">Сброс данных</string>
+  <string name="master_clear_desc">«Это приведет к стиранию всех данных с« внутреннего хранилища »вашего телефона, в том числе:
+
+</string>
+  <string name="menu_noContact">Нет назначенного контакта</string>
+  <string name="device_id">Идентификатор устройства</string>
+  <string name="menu_callNumber">Позвонить:%s</string>
+  <string name="simContacts_emptyLoading">Чтение с SIM-карты ...</string>
+  <string name="simContacts_title">Управление контактами на SIM-карте</string>
+  <string name="meid">MEID</string>
+  <string name="imei">IMEI</string>
+  <string name="uuid">UUID</string>
+  <string name="battery_low_restore_factoryset">Невозможно восстановить заводские настройки, батарея разряжена!</string>
+</resources>

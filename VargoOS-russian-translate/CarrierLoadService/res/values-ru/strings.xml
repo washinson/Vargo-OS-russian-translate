@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="trigger_path" />
+  <string name="trigger_brand" />
+  <string name="trigger_target" />
+  <string name="app_name">CarrierLoadService</string>
+  <string name="edit_title">Триггерные значения</string>
+  <string name="trigger_on_off_title">Транспортер триггера</string>
+  <string name="trigger_path_title">Найти несущую в пути:</string>
+  <string name="trigger_brand_title">Найти перевозчика по бренду:</string>
+  <string name="trigger_target_title">Найти перевозчика по цели:</string>
+  <string name="trigger_path_hint">Сохраненные пути операторов</string>
+  <string name="trigger_brand_hint">Бренд</string>
+  <string name="trigger_target_hint">Цель</string>
+  <string name="trigger_start">Начать в фоновом режиме</string>
+  <string name="trigger_exit">Сохранить и выйти</string>
+  <string name="toast_trigger_enabled">Триггер включен</string>
+  <string name="toast_trigger_disabled">Триггер отключен</string>
+  <string name="toast_trigger_start">Силовой триггер в фоновом режиме</string>
+</resources>

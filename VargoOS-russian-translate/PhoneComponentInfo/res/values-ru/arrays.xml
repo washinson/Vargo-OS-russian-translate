@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_settings_check_frequency_entries">
+        <item>@string/LCDModelInfo</item>
+        <item>@string/TPModelInfo</item>
+        <item>@string/MainCameraModelInfo</item>
+        <item>@string/SubCameraModelInfo</item>
+        <item>@string/FlashInfo</item>
+        <item>@string/EmcpInfo</item>
+        <item>@string/GsensorInfo</item>
+        <item>@string/MsensorInfo</item>
+        <item>@string/Als_ps_Info</item>
+        <item>@string/GyroInfo</item>
+        <item>@string/AdjustNxp</item>
+        <item>@string/FingerPrintInfo</item>
+    </string-array>
+</resources>

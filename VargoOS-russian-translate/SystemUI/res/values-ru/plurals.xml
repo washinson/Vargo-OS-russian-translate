@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="status_bar_accessibility_recent_apps">
+    <item quantity="other">Скриншоты%d в обзоре</item>
+    <item quantity="one">1 в обзоре</item>
+  </plurals>
+  <plurals name="kg_password_wrong_pin_code">
+    <item quantity="other">Неверный PIN-код SIM, у вас осталось%d попыток.</item>
+    <item quantity="one">Неправильный PIN-код SIM-карты, у вас осталось%d попытки, прежде чем вы должны связаться со своим оператором, чтобы разблокировать ваше устройство.</item>
+  </plurals>
+  <plurals name="kg_password_wrong_puk_code">
+    <item quantity="other">Неверный код PUK-кода, у вас осталось%d попыток до того, как SIM-карта станет непригодной для использования.</item>
+    <item quantity="one">Неверный код PUK-кода, у вас осталось%d попытки, прежде чем SIM-карта станет непригодной для использования.</item>
+  </plurals>
+  <plurals name="kg_password_default_pin_message">
+    <item quantity="other">Введите PIN-код SIM, у вас осталось%d попыток.</item>
+    <item quantity="one">Введите PIN-код SIM-карты, у вас осталось%d попытки, прежде чем вы должны связаться со своим оператором, чтобы разблокировать ваше устройство.</item>
+  </plurals>
+  <plurals name="kg_password_default_puk_message">
+    <item quantity="other">SIM-карта отключена. </item>
+    <item quantity="one">SIM-карта отключена. </item>
+  </plurals>
+</resources>

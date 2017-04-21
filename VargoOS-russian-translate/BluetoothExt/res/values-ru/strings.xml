@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="defaultname">Carkit</string>
+  <string name="process" />
+  <string name="bluetooth_remember_choice">Всегда позволяют</string>
+  <string name="dun_notif_ticker">Запрос Bluetooth DUN</string>
+  <string name="dun_notif_title">Запрос ключа сеанса для DUN</string>
+  <string name="dun_notif_message">Нажмите, чтобы подключиться к \"%1$s\".</string>
+  <string name="dun_acceptance_timeout_message">Пришло время принять соединение с %1$s</string>
+  <string name="bluetooth_dun_request">Запрос DUN</string>
+  <string name="bluetooth_dun_acceptance_dialog_text"> %1$s хочет использовать DUN. </string>
+  <string name="ftp_acceptance_dialog_title"> %1$s хочет получить доступ к вашим папкам телефона. </string>
+  <string name="ftp_acceptance_dialog_header">Доступ к папке с телефоном</string>
+  <string name="ftp_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
+  <string name="ftp_session_key_dialog_header">Требуется ключ сеанса Bluetooth.</string>
+  <string name="ftp_acceptance_timeout_message">Пришло время принять соединение с %1$s</string>
+  <string name="ftp_authentication_timeout_message">Время ожидания ввода ключа сеанса с %1$s</string>
+  <string name="ftp_notif_ticker">Запрос на соединение Bluetooth</string>
+  <string name="ftp_notif_title">Запрос ключа сеанса для FTP</string>
+  <string name="ftp_notif_message">Нажмите, чтобы подключиться к \"%1$s\".</string>
+  <string name="ftp_notif_active_session">Активный сеанс Bluetooth FTP</string>
+  <string name="ftp_notif_connected">"Доступ к файлу Bluetooth для доступа к \"%1$s\"."</string>
+  <string name="bluetooth_ftp_request">Запрос Ftp</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text"> %1$s хочет получить доступ к вашим файлам и папкам. </string>
+  <string name="map_acceptance_dialog_title"> %1$s хочет получить доступ к вашим папкам телефона. </string>
+  <string name="map_acceptance_dialog_header">Доступ к папке с телефоном</string>
+  <string name="map_session_key_dialog_title">Введите ключ сеанса для %1$s</string>
+  <string name="map_session_key_dialog_header">Требуется ключ сеанса Bluetooth.</string>
+  <string name="map_acceptance_timeout_message">Пришло время принять соединение с %1$s</string>
+  <string name="map_authentication_timeout_message">Время ожидания ввода ключа сеанса с %1$s</string>
+  <string name="map_notif_ticker">Запрос на соединение Bluetooth</string>
+  <string name="map_notif_active_session">Активный сеанс Bluetooth MAP</string>
+  <string name="map_notif_connected">"Доступ Bluetooth сообщений к \"%1$s\"."</string>
+  <string name="map_notif_title">Запрос ключа сеанса для MAP</string>
+  <string name="map_notif_message">Нажмите, чтобы подключиться к \"%1$s\".</string>
+  <string name="map_alert_conn_failed_message">Сбой подключения Bluetooth MAP.</string>
+  <string name="bluetooth_mas_request">Запрос доступа к сообщению</string>
+  <string name="bluetooth_mas_acceptance_dialog_text"> %1$s хочет получить доступ к вашим сообщениям. </string>
+  <string name="sap_notif_ticker">Запрос доступа к SIM-карте Bluetooth</string>
+  <string name="sap_notif_title">Запрос ключа сеанса для SAP</string>
+  <string name="sap_notif_message">Нажмите, чтобы подключиться к \"%1$s\".</string>
+  <string name="sap_acceptance_timeout_message">Пришло время принять соединение с %1$s</string>
+  <string name="bluetooth_sap_request">Запрос SAP</string>
+  <string name="bluetooth_sap_acceptance_dialog_text"> %1$s хочет получить доступ к вашей SIM-карте. </string>
+</resources>

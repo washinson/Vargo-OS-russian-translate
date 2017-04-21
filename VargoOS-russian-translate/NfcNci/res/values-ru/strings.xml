@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Служба Nfc</string>
+  <string name="nfcUserLabel">Nfc</string>
+  <string name="inbound_me_profile_title">Контакт получен через NFC</string>
+  <string name="inbound_me_profile_text">Нажмите, чтобы добавить этого пользователя в контакт.</string>
+  <string name="outbound_me_profile_title">Завершено взаимодействие с NFC</string>
+  <string name="outbound_me_profile_text">Нажмите, чтобы сообщить этому контактному лицу.</string>
+  <string name="accessibility_nfc_enabled">NFC включен.</string>
+  <string name="touch">Сенсорный луч</string>
+  <string name="beam_progress">Входящий пучок ...</string>
+  <string name="beam_outgoing">Сияние ...</string>
+  <string name="beam_complete">Балка выполнена</string>
+  <string name="beam_failed">Балка не была завершена</string>
+  <string name="beam_canceled">Отмененный луч</string>
+  <string name="cancel">Отмена</string>
+  <string name="beam_touch_to_view">Нажмите, чтобы посмотреть</string>
+  <string name="beam_handover_not_supported">«Устройство приемника не поддерживает передачу больших файлов по лучу».</string>
+  <string name="beam_try_again">Снова объединить устройства</string>
+  <string name="beam_busy">В настоящее время луч работает. </string>
+  <string name="device">Устройство</string>
+  <string name="connecting_peripheral">Подключение %1$s</string>
+  <string name="connected_peripheral">Подключено: %1$s</string>
+  <string name="connect_peripheral_failed">Не удалось подключить %1$s</string>
+  <string name="disconnecting_peripheral">Отключение %1$s</string>
+  <string name="disconnected_peripheral">Отключено %1$s</string>
+  <string name="pairing_peripheral">Спаривание: %1$s</string>
+  <string name="pairing_peripheral_failed">Не удалось подключиться к %1$s</string>
+  <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
+  <string name="confirm_pairing">Вы уверены, что хотите подключить устройство Bluetooth %1$s?</string>
+  <string name="pair_yes">да</string>
+  <string name="pair_no">Нет</string>
+  <string name="tap_again_to_pay">Нажмите еще раз, чтобы заплатить %1$s</string>
+  <string name="tap_again_to_complete">Нажмите еще раз, чтобы завершить работу с %1$s</string>
+  <string name="transaction_failure">«Эта транзакция не может быть выполнена с %1$s.»</string>
+  <string name="could_not_use_app">"Невозможно использовать %1$s."</string>
+  <string name="pay_with">Оплатить с</string>
+  <string name="complete_with">В комплекте с</string>
+  <string name="default_pay_app_removed">Ваш предпочтительный сервис для tap &amp; pay был удален. </string>
+  <string name="ask_nfc_tap">Нажмите другое устройство, чтобы завершить</string>
+  <string name="wifi_connect">Подключиться</string>
+  <string name="status_unable_to_connect">Не удается подключиться к сети</string>
+  <string name="status_wifi_connected">Связанный</string>
+  <string name="title_connect_to_network">Подключение к сети</string>
+  <string name="prompt_connect_to_network">Подключиться к сети %1$s?</string>
+  <string name="beam_requires_nfc_enabled">Для Android Beam требуется включить NFC. </string>
+  <string name="android_beam">Android Beam</string>
+  <item type="string" name="APKTOOL_DUMMY_2d">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2e">false</item>
+  <item type="string" name="APKTOOL_DUMMY_2f">false</item>
+  <item type="string" name="APKTOOL_DUMMY_30">false</item>
+  <item type="string" name="APKTOOL_DUMMY_31">false</item>
+  <item type="string" name="APKTOOL_DUMMY_32">false</item>
+  <item type="string" name="APKTOOL_DUMMY_33">false</item>
+</resources>

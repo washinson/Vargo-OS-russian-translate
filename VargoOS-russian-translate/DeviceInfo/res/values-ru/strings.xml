@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Информация об устройстве</string>
+  <string name="device_info_unknown">Неизвестный</string>
+  <string name="model_number">Номер модели</string>
+  <string name="hardware_version">Версия оборудования</string>
+  <string name="meid">MEID</string>
+  <string name="esn">ESN</string>
+  <string name="baseband_version">Версия для базовой полосы частот</string>
+  <string name="prl_version">Версия PRL</string>
+  <string name="android_version">Версия Android</string>
+  <string name="software_version">Версия ПО</string>
+  <string name="my_number">Мой номер телефона</string>
+  <string name="imsi">IMSI</string>
+  <string name="uim_id">ИД UIM</string>
+  <string name="sid">SID</string>
+  <string name="nid">NID</string>
+  <string name="mspl">Идентификатор MSPL</string>
+  <string name="mlpl">Идентификатор MLPL</string>
+  <string name="eprl">Идентификатор EPRL</string>
+  <string name="iccid">ICCID</string>
+  <string name="imei">IMEI</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="factory_test_commands">
+        <item>*937*70#</item>
+    </string-array>
+    <string-array name="set_log_prop_display">
+        <item>\####7878#</item>
+    </string-array>
+    <string-array name="set_qxdm_log_prop">
+        <item>\####8787#</item>
+        <item>\####8789#</item>
+    </string-array>
+    <string-array name="master_clear_display">
+        <item>*937*762#</item>
+    </string-array>
+    <string-array name="sn_display">
+        <item>*937*764#</item>
+    </string-array>
+    <string-array name="component_info_display">
+        <item>*937*761#</item>
+    </string-array>
+    <string-array name="customer_version_value">
+        <item>ro.build.display.id</item>
+    </string-array>
+    <string-array name="set_adb_prop_display">
+        <item>\####8989#</item>
+        <item>\####8990#</item>
+        <item>\####8991#</item>
+        <item>\####8788#</item>
+        <item>*937*768#</item>
+    </string-array>
+    <string-array name="system_baseline_version">
+        <item>*937*766#</item>
+    </string-array>
+</resources>

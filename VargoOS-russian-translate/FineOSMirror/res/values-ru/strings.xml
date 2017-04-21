@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Зеркало</string>
+  <string name="low_battery_tip">Разрядите батарею, закройте вспышку!</string>
+  <string name="cannot_connect_camera">«Не удается подключиться к камере, выйти!»</string>
+  <item type="string" name="APKTOOL_DUMMY_3">false</item>
+</resources>

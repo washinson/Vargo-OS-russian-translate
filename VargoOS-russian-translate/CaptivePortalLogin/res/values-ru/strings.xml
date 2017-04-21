@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaptivePortalLogin</string>
+    <string name="action_use_network">Используйте эту сеть как</string>
+    <string name="action_do_not_use_network">Не используйте эту сеть</string>
+    <string name="action_bar_label">Вход в систему к сети</string>
+</resources>

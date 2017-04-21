@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="isPrintLog">1</string>
+  <string name="app_name">AudioWeakUp</string>
+  <string name="app_package">com.yep.audioweakup</string>
+  <string name="audio_weak_up">Голосовое оповещение</string>
+  <string name="setting">Настройка</string>
+  <string name="standard_words">Привет, Варго!</string>
+  <string name="custom_words">Произвольные слова для пробуждения</string>
+  <string name="recording_words">Ввод слов для пробуждения</string>
+  <string name="language">Язык</string>
+  <string name="others">Другие</string>
+  <string name="help">Помогите</string>
+  <string name="input_custom_words">Введите собственное имя</string>
+  <string name="say_hellow_vargo">Пожалуйста, скажите Привет, Варго! </string>
+  <string name="hellow_vargo">Привет Варго</string>
+  <string name="custom_record">Пользовательская речь</string>
+  <string name="error">ошибка</string>
+  <string name="warning">Предупреждение</string>
+  <string name="okey">ОК</string>
+  <string name="cancel">Отмена</string>
+  <string name="exit">Выход</string>
+  <string name="start_record">Начать запись</string>
+  <string name="custom_instruct">Пожалуйста, введите ключевые слова вашей речи (желательно более 4 слов)</string>
+  <string name="pass_flag">██</string>
+  <string name="input_new_words">Введите новые ключевые слова</string>
+  <string name="please_wait">Пожалуйста, подождите ...</string>
+  <string name="successed">Успешно! </string>
+  <string name="talk_louder">Голос слишком слабый. </string>
+  <string name="talk_later">Пожалуйста, сделайте паузу перед разговором и снова нажмите для записи</string>
+  <string name="too_nosiy">Слишком шумно! </string>
+  <string name="talk_softer">Пожалуйста, говорите медленно и нажмите, чтобы записать снова</string>
+  <string name="bad_recording">Запись не удалась! </string>
+  <string name="talk_slower">Пожалуйста, говорите медленнее, пожалуйста, попробуйте еще раз</string>
+  <string name="too_many_sound">Слишком много повторяющихся слов. </string>
+  <string name="record_finished">Запись завершена!</string>
+  <string name="record_faild">Ошибка! </string>
+  <string name="do_again">Начать снова</string>
+  <string name="parsing">Анализ и подождите минуту</string>
+  <string name="finish">Завершено</string>
+  <string name="continue_button">Продолжать</string>
+  <string name="helping">Помогите</string>
+  <string name="helping_title1">«В чем заключается функция голосового оповещения?»</string>
+  <string name="helping_title2">Как использовать голосовое оповещение?</string>
+  <string name="helping_title3">Как правильно проснуться?</string>
+  <string name="helping_title4">Примечания к гарнитуре</string>
+  <string name="helping_tips1">"Вы можете попробовать следующие операции с помощью голосового оповещения: 
+ выйти из режима сна, войти в интерфейс «Человек-Машина», просмотреть прогноз погоды, прослушать музыку, отправить сообщение, позвонить и т. д."</string>
+  <string name="helping_tips2">По умолчанию скажите три раза Привет, Варго! </string>
+  <string name="helping_tips3">«1. По умолчанию Vargo может быть распознан с большей точностью, чем другие имена. Таким образом, стандартная настройка Hello, Vargois обычно предпочтительнее.
+</string>
+  <string name="helping_tips4">Как только гарнитура подсоединена, эта функция может быть пробуждена гарнитурой. </string>
+  <string name="already_recorded">Уже записано:</string>
+  <string name="saved_successful">Запись завершена!</string>
+  <string name="recording_cancel">Запись отменена</string>
+  <string name="record1">1/3</string>
+  <string name="record2">2/3</string>
+  <string name="record3">3/3</string>
+  <string name="please_say">Пожалуйста скажи:</string>
+  <string name="most_input">Максимум 14 символов</string>
+  <string name="tips1">Вызов и передача текстовых сообщений</string>
+  <string name="tips2">Голосовой поиск и разблокировка телефона</string>
+  <string name="tips3">Запрос по погоде и запуск приложения</string>
+  <string name="recording_suggest">"Сделайте запись в непосредственной близости от телефона 
+примерно на 30 см"</string>
+  <string name="no_record_remind_title">Заметка:</string>
+  <string name="no_record_remind_message">Раньше вы не записывали ключевые слова, вы хотите записать сейчас? </string>
+  <string name="builder_continue">ПРОДОЛЖАТЬ</string>
+  <string name="builder_cancel">ОТМЕНА</string>
+  <string name="finishing">Закончите настройку, подождите ...</string>
+  <string name="finishing_error">Извините, попробуйте еще раз</string>
+  <string name="low_score">Качество записи низкое, попробуйте еще раз!</string>
+</resources>

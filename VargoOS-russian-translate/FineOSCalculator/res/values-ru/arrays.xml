@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="operators">
+    <item>(</item>
+    <item>).</item>
+    <item>!</item>
+    <item>Ln</item>
+    <item>журнал</item>
+    <item>√</item>
+    <item>÷</item>
+    <item>×</item>
+    <item>+</item>
+    <item>-</item>
+    <item>.</item>
+    <item>^</item>
+    <item>Загар</item>
+    <item>Грешить</item>
+    <item>Cos</item>
+    <item>Π</item>
+    <item>знак равно</item>
+  </string-array>
+  <string-array name="operatorDescs">
+    <item>Левая круглая скобка</item>
+    <item>Правая круглая скобка</item>
+    <item>факториал</item>
+    <item>Натуральный логарифм</item>
+    <item>логарифм</item>
+    <item>квадратный корень</item>
+    <item>деленное на</item>
+    <item>умножается на</item>
+    <item>Плюс</item>
+    <item>минус</item>
+    <item>Точка</item>
+    <item>мощность</item>
+    <item>Касательный</item>
+    <item>синус</item>
+    <item>косинус</item>
+    <item>Пи</item>
+    <item>Равно</item>
+  </string-array>
+  <item type="array" name="APKTOOL_DUMMY_5">false</item>
+  <item type="array" name="APKTOOL_DUMMY_6">false</item>
+  <item type="array" name="APKTOOL_DUMMY_7">false</item>
+  <item type="array" name="APKTOOL_DUMMY_8">false</item>
+  <item type="array" name="APKTOOL_DUMMY_9">false</item>
+  <item type="array" name="APKTOOL_DUMMY_a">false</item>
+  <item type="array" name="APKTOOL_DUMMY_b">false</item>
+  <item type="array" name="APKTOOL_DUMMY_c">false</item>
+  <item type="array" name="APKTOOL_DUMMY_d">false</item>
+  <item type="array" name="APKTOOL_DUMMY_e">false</item>
+  <item type="array" name="APKTOOL_DUMMY_f">false</item>
+  <item type="array" name="APKTOOL_DUMMY_10">false</item>
+  <item type="array" name="APKTOOL_DUMMY_11">false</item>
+  <item type="array" name="APKTOOL_DUMMY_12">false</item>
+  <item type="array" name="APKTOOL_DUMMY_13">false</item>
+  <item type="array" name="APKTOOL_DUMMY_14">false</item>
+</resources>

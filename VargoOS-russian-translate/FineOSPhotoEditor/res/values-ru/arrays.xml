@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baidu_face_edit_label">
+        <item>@string/baidu_face_label_onekey_beauty</item>
+        <item>@string/baidu_face_label_thin</item>
+        <item>@string/baidu_face_label_eyeenlarge</item>
+        <item>@string/baidu_face_label_betterskin</item>
+        <item>@string/baidu_face_label_whelkremove</item>
+        <item>@string/baidu_face_label_blackeyeremove</item>
+        <item>@string/baidu_face_label_redeyeremove</item>
+    </string-array>
+    <string-array name="baidu_face_edit_name">
+        <item>@string/baidu_face_onekey_beauty</item>
+        <item>@string/baidu_face_thin</item>
+        <item>@string/baidu_face_eyeenlarge</item>
+        <item>@string/baidu_face_betterskin</item>
+        <item>@string/baidu_face_whelkremove</item>
+        <item>@string/baidu_face_blackeyeremove</item>
+        <item>@string/baidu_face_redeyeremove</item>
+    </string-array>
+    <string-array name="baidu_face_edit_sdk_type">
+        <item>@string/baidu_face_sdktype_onekey_beauty</item>
+        <item>@string/baidu_face_sdktype_thin</item>
+        <item>@string/baidu_face_sdktype_eyeenlarge</item>
+        <item>@string/baidu_face_sdktype_betterskin</item>
+        <item>@string/baidu_face_sdktype_whelkremove</item>
+        <item>@string/baidu_face_sdktype_blackeyeremove</item>
+        <item>@string/baidu_face_sdktype_redeyeremove</item>
+    </string-array>
+    <string-array name="baidu_face_edit_type">
+        <item>@string/baidu_face_type_onekey_beauty</item>
+        <item>@string/baidu_face_type_thin</item>
+        <item>@string/baidu_face_type_eyeenlarge</item>
+        <item>@string/baidu_face_type_betterskin</item>
+        <item>@string/baidu_face_type_whelkremove</item>
+        <item>@string/baidu_face_type_blackeyeremove</item>
+        <item>@string/baidu_face_type_redeyeremove</item>
+    </string-array>
+    <string-array name="baidu_face_edit_toast">
+        <item>@string/baidu_face_toast_onekey_beauty</item>
+        <item>@string/baidu_face_toast_thin</item>
+        <item>@string/baidu_face_toast_eyeenlarge</item>
+        <item>@string/baidu_face_toast_betterskin</item>
+        <item>@string/baidu_face_toast_whelkremove</item>
+        <item>@string/baidu_face_toast_blackeyeremove</item>
+        <item>@string/baidu_face_toast_redeyeremove</item>
+    </string-array>
+    <string-array name="baidu_blur_edit_label">
+        <item>@string/baidu_face_label_backgroundblurround</item>
+        <item>@string/baidu_face_label_backgroundblurline</item>
+    </string-array>
+    <string-array name="baidu_blur_edit_name">
+        <item>@string/baidu_face_backgroundblurround</item>
+        <item>@string/baidu_face_backgroundblurline</item>
+    </string-array>
+    <string-array name="baidu_effect_edit_name">
+        <item>@string/baidu_effect_name_smart</item>
+        <item>@string/baidu_effect_name_scenery</item>
+        <item>@string/baidu_effect_name_portrait</item>
+        <item>@string/baidu_effect_name_food</item>
+    </string-array>
+    <string-array name="baidu_effect_smart_edit_label">
+        <item></item>
+        <item>@string/baidu_effect_label_smart_1</item>
+        <item>@string/baidu_effect_label_smart_2</item>
+        <item>@string/baidu_effect_label_smart_3</item>
+        <item>@string/baidu_effect_label_smart_4</item>
+        <item>@string/baidu_effect_label_smart_5</item>
+        <item>@string/baidu_effect_label_smart_6</item>
+        <item>@string/baidu_effect_label_smart_7</item>
+        <item>@string/baidu_effect_label_smart_9</item>
+        <item>@string/baidu_effect_label_smart_10</item>
+        <item>@string/baidu_effect_label_smart_11</item>
+    </string-array>
+    <string-array name="baidu_effect_smart_edit_name">
+        <item>@string/baidu_onekey_filter_none</item>
+        <item>@string/baidu_effect_name_smart1</item>
+        <item>@string/baidu_effect_name_smart2</item>
+        <item>@string/baidu_effect_name_smart3</item>
+        <item>@string/baidu_effect_name_smart4</item>
+        <item>@string/baidu_effect_name_smart5</item>
+        <item>@string/baidu_effect_name_smart6</item>
+        <item>@string/baidu_effect_name_smart7</item>
+        <item>@string/baidu_effect_name_smart9</item>
+        <item>@string/baidu_effect_name_smart10</item>
+        <item>@string/baidu_effect_name_smart11</item>
+    </string-array>
+    <string-array name="baidu_effect_scenery_edit_label">
+        <item></item>
+        <item>@string/baidu_effect_label_scenery_1</item>
+        <item>@string/baidu_effect_label_scenery_2</item>
+        <item>@string/baidu_effect_label_scenery_3</item>
+        <item>@string/baidu_effect_label_scenery_4</item>
+        <item>@string/baidu_effect_label_scenery_5</item>
+        <item>@string/baidu_effect_label_scenery_6</item>
+        <item>@string/baidu_effect_label_scenery_7</item>
+        <item>@string/baidu_effect_label_scenery_8</item>
+        <item>@string/baidu_effect_label_scenery_9</item>
+    </string-array>
+    <string-array name="baidu_effect_scenery_edit_name">
+        <item>@string/baidu_onekey_filter_none</item>
+        <item>@string/baidu_effect_name_scenery1</item>
+        <item>@string/baidu_effect_name_scenery2</item>
+        <item>@string/baidu_effect_name_scenery3</item>
+        <item>@string/baidu_effect_name_scenery4</item>
+        <item>@string/baidu_effect_name_scenery5</item>
+        <item>@string/baidu_effect_name_scenery6</item>
+        <item>@string/baidu_effect_name_scenery7</item>
+        <item>@string/baidu_effect_name_scenery8</item>
+        <item>@string/baidu_effect_name_scenery9</item>
+    </string-array>
+    <string-array name="baidu_effect_portrait_edit_label">
+        <item></item>
+        <item>@string/baidu_effect_label_portrait_1</item>
+        <item>@string/baidu_effect_label_portrait_2</item>
+        <item>@string/baidu_effect_label_portrait_3</item>
+        <item>@string/baidu_effect_label_portrait_4</item>
+        <item>@string/baidu_effect_label_portrait_5</item>
+        <item>@string/baidu_effect_label_portrait_6</item>
+        <item>@string/baidu_effect_label_portrait_7</item>
+        <item>@string/baidu_effect_label_portrait_8</item>
+        <item>@string/baidu_effect_label_portrait_9</item>
+    </string-array>
+    <string-array name="baidu_effect_portrait_edit_name">
+        <item>@string/baidu_onekey_filter_none</item>
+        <item>@string/baidu_effect_name_portrait1</item>
+        <item>@string/baidu_effect_name_portrait2</item>
+        <item>@string/baidu_effect_name_portrait3</item>
+        <item>@string/baidu_effect_name_portrait4</item>
+        <item>@string/baidu_effect_name_portrait5</item>
+        <item>@string/baidu_effect_name_portrait6</item>
+        <item>@string/baidu_effect_name_portrait7</item>
+        <item>@string/baidu_effect_name_portrait8</item>
+        <item>@string/baidu_effect_name_portrait9</item>
+    </string-array>
+    <string-array name="baidu_effect_food_edit_label">
+        <item></item>
+        <item>@string/baidu_effect_label_food_1</item>
+        <item>@string/baidu_effect_label_food_2</item>
+        <item>@string/baidu_effect_label_food_3</item>
+        <item>@string/baidu_effect_label_food_4</item>
+        <item>@string/baidu_effect_label_food_5</item>
+        <item>@string/baidu_effect_label_food_6</item>
+    </string-array>
+    <string-array name="baidu_effect_food_edit_name">
+        <item>@string/baidu_onekey_filter_none</item>
+        <item>@string/baidu_effect_name_food1</item>
+        <item>@string/baidu_effect_name_food2</item>
+        <item>@string/baidu_effect_name_food3</item>
+        <item>@string/baidu_effect_name_food4</item>
+        <item>@string/baidu_effect_name_food5</item>
+        <item>@string/baidu_effect_name_food6</item>
+    </string-array>
+    <string-array name="baidu_base_edit_label">
+        <item>@string/baidu_base_label_crop</item>
+        <item>@string/baidu_base_label_mirror</item>
+        <item>@string/baidu_base_label_sharpen</item>
+    </string-array>
+    <string-array name="baidu_base_edit_name">
+        <item>@string/baidu_base_name_crop</item>
+        <item>@string/baidu_base_name_mirror</item>
+        <item>@string/baidu_base_name_sharpen</item>
+    </string-array>
+    <string-array name="baidu_mosaic_edit_name">
+        <item>@string/baidu_mosaic_name_mosaic</item>
+        <item>@string/baidu_mosaic_name_eraze</item>
+    </string-array>
+    <string-array name="baidu_brush_edit_name">
+        <item>@string/baidu_brush_name_pen_style</item>
+        <item>@string/baidu_brush_name_pen_width</item>
+        <item>@string/baidu_brush_name_pen_color</item>
+    </string-array>
+    <string-array name="fineos_beauty_tips">
+        <item>@string/fineos_beauty_type_onekey_beauty</item>
+        <item>@string/fineos_beauty_type_thin</item>
+        <item>@string/fineos_beauty_type_eyeenlarge</item>
+        <item>@string/fineos_beauty_type_betterskin</item>
+        <item>@string/fineos_beauty_type_whelkremove</item>
+        <item>@string/fineos_beauty_type_blackeyeremove</item>
+        <item>@string/fineos_beauty_type_redeyeremove</item>
+    </string-array>
+    <string-array name="fineos_beauty_toast">
+        <item>@string/fineos_beauty_toast_onekey_beauty</item>
+        <item>@string/fineos_beauty_toast_thin</item>
+        <item>@string/fineos_beauty_toast_eyeenlarge</item>
+        <item>@string/fineos_beauty_toast_betterskin</item>
+        <item>@string/fineos_beauty_toast_whelkremove</item>
+        <item>@string/fineos_beauty_toast_blackeyeremove</item>
+        <item>@string/fineos_beauty_toast_redeyeremove</item>
+    </string-array>
+    <string-array name="chartlet_edit_name">
+        <item>@string/chartlet_decorate_label</item>
+        <item>@string/chartlet_mood_label</item>
+        <item>@string/chartlet_art_label</item>
+        <item>@string/chartlet_shield_label</item>
+        <item>@string/chartlet_cute_label</item>
+    </string-array>
+    <string-array name="chartlet_edit_label">
+        <item>@string/chartlet_decorate_label</item>
+        <item>@string/chartlet_mood_label</item>
+        <item>@string/chartlet_art_label</item>
+        <item>@string/chartlet_shield_label</item>
+        <item>@string/chartlet_cute_label</item>
+    </string-array>
+    <string-array name="chartlet_type">
+        <item>@string/chartlet_decorate</item>
+        <item>@string/chartlet_mood</item>
+        <item>@string/chartlet_art</item>
+        <item>@string/chartlet_shieldl</item>
+        <item>@string/chartlet_label</item>
+        <item>@string/chartlet_cute</item>
+    </string-array>
+    <string-array name="color_edit_label">
+        <item>@string/color_edit_sharpen</item>
+        <item>@string/color_edit_brightness</item>
+        <item>@string/color_edit_contrast</item>
+        <item>@string/color_edit_saturation</item>
+    </string-array>
+</resources>

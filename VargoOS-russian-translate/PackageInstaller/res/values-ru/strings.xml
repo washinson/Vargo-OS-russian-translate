@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Установщик пакетов</string>
+  <string name="next">следующий</string>
+  <string name="install">Установить</string>
+  <string name="done">Готово</string>
+  <string name="security_settings_desc">Разрешить этому приложению:</string>
+  <string name="cancel">Отмена</string>
+  <string name="unknown">Неизвестный</string>
+  <string name="installing">Установка ...</string>
+  <string name="install_done">Приложение установлено.</string>
+  <string name="install_confirm_question">Вы хотите установить это приложение? </string>
+  <string name="install_confirm_question_no_perms">Вы хотите установить это приложение? </string>
+  <string name="install_confirm_question_update">Вы хотите установить обновление для этого существующего приложения? </string>
+  <string name="install_confirm_question_update_system">Вы хотите установить обновление для этого встроенного приложения? </string>
+  <string name="install_confirm_question_update_no_perms">Вы хотите установить обновление для этого существующего приложения? </string>
+  <string name="install_confirm_question_update_system_no_perms">Вы хотите установить обновление для этого встроенного приложения? </string>
+  <string name="install_failed">Приложение не установлено.</string>
+  <string name="install_failed_invalid_apk">Пакет выглядит поврежденным.</string>
+  <string name="install_failed_inconsistent_certificates">Существующий пакет с таким же именем с конфликтующей сигнатурой уже установлен.</string>
+  <string name="install_failed_older_sdk">Пакет работает только в новых версиях Android.</string>
+  <string name="install_failed_cpu_abi_incompatible">«Это приложение несовместимо с вашим телефоном».</string>
+  <string name="install_failed_file_not_found">Указанный пакет был удален, прежде чем установка может быть завершена.</string>
+  <string name="install_failed_verify_failed">Пакет не прошел проверку и не может быть установлен.</string>
+  <string name="install_failed_verify_timeout">При проверке этого пакета произошел тайм-аут. </string>
+  <string name="install_failed_msg">« %1$s не удалось установить на вашем телефоне».</string>
+  <string name="launch">открыто</string>
+  <string name="unknown_apps_dlg_title">Установка заблокирована</string>
+  <string name="unknown_apps_dlg_text">В целях безопасности на вашем телефоне запрещена установка приложений, полученных из неизвестных источников.</string>
+  <string name="unknown_apps_admin_dlg_text">«Ваш администратор не разрешает установку приложений, полученных из неизвестных источников».</string>
+  <string name="ok">ОК</string>
+  <string name="settings">Настройки</string>
+  <string name="allow_source_dlg_title">Новый источник приложений</string>
+  <string name="allow_source_dlg_text">« %1$s хочет установить другие приложения.
+
+</string>
+  <string name="manage_applications">Управление приложениями</string>
+  <string name="dlg_app_replacement_title">Заменить приложение?</string>
+  <string name="dlg_app_replacement_statement">«Приложение, которое вы устанавливаете, заменит другое приложение.
+
+</string>
+  <string name="dlg_sys_app_replacement_statement">«Это системное приложение.
+
+</string>
+  <string name="out_of_space_dlg_title">Из космоса</string>
+  <string name="out_of_space_dlg_text">« %1$s не может быть установлен. Освободите место и повторите попытку».</string>
+  <string name="dlg_ok">ОК</string>
+  <string name="app_not_found_dlg_title">Приложение не найдено</string>
+  <string name="app_not_found_dlg_text">«Приложение не было найдено в списке установленных приложений».</string>
+  <string name="uninstall_application_title">Удалить приложение</string>
+  <string name="uninstall_update_title">Удалить обновление</string>
+  <string name="uninstall_activity_text"> %1$s является частью следующего приложения:</string>
+  <string name="uninstall_application_text">Удалить это приложение?</string>
+  <string name="uninstall_application_text_all_users">Удалить это приложение для всех пользователей? </string>
+  <string name="uninstall_application_text_user">Удалить это приложение для пользователя %1$s?</string>
+  <string name="uninstall_update_text">Вы хотите заменить это приложение на заводскую версию?</string>
+  <string name="uninstalling">Удаление ...</string>
+  <string name="uninstall_done">Удаление завершено.</string>
+  <string name="uninstall_failed">Неудачное удаление.</string>
+  <string name="uninstall_failed_device_policy_manager">«Не удается удалить, поскольку этот пакет является активным администратором устройства».</string>
+  <string name="uninstall_blocked_profile_owner">«Это приложение необходимо для вашего профиля %1$s и не может быть удалено».</string>
+  <string name="uninstall_blocked_device_owner">«Это приложение требуется администратором вашего устройства и не может быть удалено».</string>
+  <string name="manage_device_administrators">Управление администраторами устройств</string>
+  <string name="uninstall_failed_msg">« %1$s не удалось удалить».</string>
+  <string name="Parse_error_dlg_title">Ошибка синтаксического анализа</string>
+  <string name="Parse_error_dlg_text">Возникла проблема при разборе пакета.</string>
+  <string name="newPerms">Новый</string>
+  <string name="allPerms">Все</string>
+  <string name="privacyPerms">Конфиденциальность</string>
+  <string name="devicePerms">Доступ к устройству</string>
+  <string name="no_new_perms">Это обновление не требует новых разрешений.</string>
+  <string name="grant_confirm_question">Вы хотите предоставить следующие разрешения? </string>
+  <string name="app_install_location_title">Предпочтительное место установки</string>
+</resources>

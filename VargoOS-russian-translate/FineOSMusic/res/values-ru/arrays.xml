@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="weeklist">
+    <item>1 неделя</item>
+    <item>2 недели</item>
+    <item>3 недели</item>
+    <item>4 недели</item>
+    <item>5 недель.</item>
+    <item>6 недель</item>
+    <item>7 недель</item>
+    <item>8 недель</item>
+    <item>9 недель</item>
+    <item>10 недель</item>
+    <item>11 недель</item>
+    <item>12 недель</item>
+  </string-array>
+  <string-array name="lyrics_edit_item">
+    <item>Ток вперед 0.5 сек</item>
+    <item>Токовая задержка 0,5 с</item>
+    <item>После достижения 0,5 сек.</item>
+    <item>После задержки 0,5 с</item>
+    <item>Все продвижение 0.5 сек.</item>
+    <item>Вся задержка 0,5 с</item>
+    <item>Ничего не делать</item>
+    <item>Сохранить обновление</item>
+  </string-array>
+  <string-array name="tab_titles">
+    <item>@string/tracks_title</item>
+    <item>@string/albums_title</item>
+    <item>@string/artists_title</item>
+    <item>@string/playlists_title</item>
+  </string-array>
+  <string-array name="sleep_time_choise">
+    <item>@string/sleep_time_close</item>
+    <item>@string/sleep_time_10min</item>
+    <item>@string/sleep_time_15min</item>
+    <item>@string/sleep_time_30min</item>
+    <item>@string/sleep_time_45min</item>
+    <item>@string/sleep_time_1hour</item>
+    <item>@string/sleep_time_2hour</item>
+  </string-array>
+  <string-array name="sleep_time_value">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+  </string-array>
+  <string-array name="online_top_list_array">
+    <item>@string/online_toplist_newsongs</item>
+    <item>@string/online_toplist_hotsongs</item>
+    <item>@string/online_toplist_ktvsongs</item>
+    <item>@string/online_toplist_upwestern</item>
+    <item>@string/online_toplist_upchinese</item>
+    <item>@string/online_toplist_rocksongs</item>
+    <item>@string/online_toplist_hegemonysongs</item>
+    <item>@string/online_toplist_jazsongs</item>
+    <item>@string/online_toplist_filmsongs</item>
+    <item>@string/online_toplist_hitosongs</item>
+    <item>@string/online_toplist_dancesongs</item>
+    <item>@string/online_toplist_billboardsongs</item>
+    <item>@string/online_toplist_balladrysongs</item>
+  </string-array>
+  <string-array name="online_top_list_type">
+    <item>1</item>
+    <item>2</item>
+    <item>6</item>
+    <item>17</item>
+    <item>16</item>
+    <item>11</item>
+    <item>7</item>
+    <item>12</item>
+    <item>14</item>
+    <item>18</item>
+    <item>10</item>
+    <item>8</item>
+    <item>13</item>
+  </string-array>
+  <string-array name="tab_online_artist_titles">
+    <item>@string/online_western</item>
+    <item>@string/online_china</item>
+    <item>@string/online_japankorea</item>
+  </string-array>
+  <string-array name="tab_online_artist_detail_titles">
+    <item>@string/online_album</item>
+    <item>@string/online_single_track</item>
+  </string-array>
+</resources>

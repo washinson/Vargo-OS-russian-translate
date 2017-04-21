@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="lte_networks">
+        <item>18</item>
+        <item>20</item>
+    </integer-array>
+</resources>

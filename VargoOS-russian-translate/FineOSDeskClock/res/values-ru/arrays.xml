@@ -1,0 +1,1190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="cities_names">
+    <item>Абиджан</item>
+    <item>Аккра</item>
+    <item>Аддис-Абеба</item>
+    <item>Алжир</item>
+    <item>Блантайр</item>
+    <item>Браззавиль</item>
+    <item>Каир</item>
+    <item>Касабланка</item>
+    <item>Конакри</item>
+    <item>Дакар</item>
+    <item>Дар-эс-Салам</item>
+    <item>Джибути</item>
+    <item>Фритаун</item>
+    <item>Габороне</item>
+    <item>Хараре</item>
+    <item>Йоханнесбург</item>
+    <item>Кампале</item>
+    <item>Хартум</item>
+    <item>Кигали</item>
+    <item>Киншаса</item>
+    <item>Лагос</item>
+    <item>Масеру</item>
+    <item>Могадишо</item>
+    <item>Найроби</item>
+    <item>Сан-Томе</item>
+    <item>Тимбукту</item>
+    <item>Триполи</item>
+    <item>Тунис</item>
+    <item>Анкоридж</item>
+    <item>Мендоса</item>
+    <item>Аруба</item>
+    <item>Асунсьон</item>
+    <item>Барбадосе</item>
+    <item>Белиз</item>
+    <item>Богота</item>
+    <item>Буэнос айрес</item>
+    <item>Канкун</item>
+    <item>Каракас</item>
+    <item>Cayman</item>
+    <item>Чикаго</item>
+    <item>Коста-Рика</item>
+    <item>Кюрасао</item>
+    <item>Доусон-Крик</item>
+    <item>Денвер</item>
+    <item>Детройт</item>
+    <item>Доминика</item>
+    <item>Эдмонтон</item>
+    <item>Сальвадор</item>
+    <item>Форталеза</item>
+    <item>Grand Turk</item>
+    <item>Гренада</item>
+    <item>Гватемала</item>
+    <item>Гайана</item>
+    <item>Галифакс</item>
+    <item>Гавана</item>
+    <item>Indianapolis</item>
+    <item>Нокс</item>
+    <item>Маренго</item>
+    <item>Петербург</item>
+    <item>Скажи город</item>
+    <item>Vevay</item>
+    <item>Vincennes</item>
+    <item>Winamac</item>
+    <item>Кингстон</item>
+    <item>Нуэстра Сеньора де ла Пас</item>
+    <item>Лима</item>
+    <item>Лос-Анджелес</item>
+    <item>Louisville</item>
+    <item>Манагуа</item>
+    <item>Мартиника</item>
+    <item>Мендоса</item>
+    <item>Метлакатля</item>
+    <item>Мехико</item>
+    <item>Monterrey</item>
+    <item>Монтевидео</item>
+    <item>Монреаль</item>
+    <item>Нассау</item>
+    <item>Нью-Йорк</item>
+    <item>Beulah</item>
+    <item>Центр</item>
+    <item>New Salem</item>
+    <item>Панама</item>
+    <item>Феникс</item>
+    <item>Порт-оф-Спейн</item>
+    <item>Порт-о-Пренс</item>
+    <item>Пуэрто-Рико</item>
+    <item>Санто-Доминго</item>
+    <item>Сан-Паулу</item>
+    <item>Сент-Джонс</item>
+    <item>Сент-Китс</item>
+    <item>Сент-Люсия</item>
+    <item>Сент-Томас</item>
+    <item>Тихуана</item>
+    <item>Торонто</item>
+    <item>Ванкувер</item>
+    <item>Виннипег</item>
+    <item>Южный полюс</item>
+    <item>Longyearbyen</item>
+    <item>Алматы</item>
+    <item>Амман</item>
+    <item>Анадырь</item>
+    <item>Актау</item>
+    <item>Багдад</item>
+    <item>Бахрейн</item>
+    <item>Баку</item>
+    <item>Бангкок</item>
+    <item>Бейрут</item>
+    <item>Калькутта</item>
+    <item>Дамаск</item>
+    <item>Дакка</item>
+    <item>Дубаи</item>
+    <item>Сектор Газа</item>
+    <item>Хеврон</item>
+    <item>Хо Ши Мин</item>
+    <item>Гонконг</item>
+    <item>Стамбул</item>
+    <item>Джакарта</item>
+    <item>Иерусалим</item>
+    <item>Кабул</item>
+    <item>Карачи</item>
+    <item>Катманду</item>
+    <item>Куала-Лумпур</item>
+    <item>Кувейт</item>
+    <item>Макао</item>
+    <item>Манила</item>
+    <item>Мускат</item>
+    <item>Пномпень</item>
+    <item>Пхеньян</item>
+    <item>Катар</item>
+    <item>Рангун</item>
+    <item>Эр-Рияд</item>
+    <item>Сайгон</item>
+    <item>Сеул</item>
+    <item>Шанхай</item>
+    <item>Сингапур</item>
+    <item>Тайбэй</item>
+    <item>Тегеран</item>
+    <item>Тель-Авив</item>
+    <item>Токио</item>
+    <item>Улан-Батор</item>
+    <item>Бермудские острова</item>
+    <item>Канарские острова</item>
+    <item>Кабо-Верде</item>
+    <item>Рейкьявик</item>
+    <item>Стэнли</item>
+    <item>Аделаида</item>
+    <item>Брисбен</item>
+    <item>Канберра</item>
+    <item>Дарвин</item>
+    <item>Мельбурн</item>
+    <item>Новый Южный Уэльс</item>
+    <item>Квинсленд</item>
+    <item>Сидней</item>
+    <item>Виктория</item>
+    <item>Ньюфаундленд</item>
+    <item>Саскачеван</item>
+    <item>остров Пасхи</item>
+    <item>Амстердам</item>
+    <item>Андорра</item>
+    <item>Афины</item>
+    <item>Белфаст</item>
+    <item>Белград</item>
+    <item>Берлин</item>
+    <item>Братислава</item>
+    <item>Брюссель</item>
+    <item>Бухарест</item>
+    <item>Будапешт</item>
+    <item>Кишинев</item>
+    <item>Копенгаген</item>
+    <item>Дублин</item>
+    <item>Хельсинки</item>
+    <item>Остров Мэн</item>
+    <item>Стамбул</item>
+    <item>Киев</item>
+    <item>Лиссабон</item>
+    <item>Лондон</item>
+    <item>Люксембург</item>
+    <item>Мадрид</item>
+    <item>Мальта</item>
+    <item>Минск</item>
+    <item>Монако</item>
+    <item>Москва</item>
+    <item>Осло</item>
+    <item>Париж</item>
+    <item>Прага</item>
+    <item>Рига</item>
+    <item>Рим</item>
+    <item>Сан-Марино</item>
+    <item>Сараево</item>
+    <item>Симферополь</item>
+    <item>Скопье</item>
+    <item>София</item>
+    <item>Стокгольм</item>
+    <item>Таллинн</item>
+    <item>Вена</item>
+    <item>Вильнюс</item>
+    <item>Варшава</item>
+    <item>Zagreb</item>
+    <item>Цюрих</item>
+    <item>Антананариву</item>
+    <item>Мальдивы</item>
+    <item>Маврикий</item>
+    <item>Окленд</item>
+    <item>Guam</item>
+    <item>Гонолулу</item>
+    <item>Киритимати</item>
+    <item>Нумеа</item>
+    <item>Самоа</item>
+    <item>Таити</item>
+    <item>Антигуа</item>
+    <item>Austin</item>
+    <item>Бостон</item>
+    <item>Калгари</item>
+    <item>Колумбус</item>
+    <item>Даллас</item>
+    <item>Knoxville</item>
+    <item>Мемфис</item>
+    <item>Майами</item>
+    <item>Миннеаполис</item>
+    <item>Оттава</item>
+    <item>Филадельфия</item>
+    <item>Портленд</item>
+    <item>Сан Диего</item>
+    <item>Сан-Франциско</item>
+    <item>Солт-Лейк-Сити</item>
+    <item>Сан - Хосе</item>
+    <item>Сан-Сальвадор</item>
+    <item>Сиэтл</item>
+    <item>Святой Луи</item>
+    <item>Вашингтон.</item>
+    <item>Хьюстон</item>
+    <item>Сан Антонио</item>
+    <item>Jacksonville</item>
+    <item>Балтимор</item>
+    <item>Нашвилл</item>
+    <item>Милуоки</item>
+    <item>Оклахома-Сити</item>
+    <item>Лас Вегас</item>
+    <item>Альбукерке</item>
+    <item>Тусон</item>
+    <item>Сакраменто</item>
+    <item>Атланта</item>
+    <item>Кливленд</item>
+    <item>Жители Нового Орлеана</item>
+    <item>Тампа</item>
+    <item>Питтсбург</item>
+    <item>Цинциннати</item>
+    <item>вид на горы</item>
+    <item>Рено</item>
+    <item>Черный город</item>
+    <item>Доха</item>
+    <item>Пекин</item>
+    <item>Мумбаи</item>
+    <item>Дели</item>
+    <item>Осака</item>
+    <item>Лахор</item>
+    <item>«Сана»</item>
+    <item>Барселона</item>
+    <item>Мюнхен</item>
+    <item>Милан</item>
+    <item>Франкфурт</item>
+    <item>Ханой</item>
+    <item>Анкара</item>
+    <item>Бангалор</item>
+    <item>Бразилиа</item>
+    <item>Кейптаун</item>
+    <item>Исламабад</item>
+    <item>Рио де Жанейро</item>
+    <item>Энн-Арбор</item>
+    <item>Боулдер</item>
+    <item>Кембридж</item>
+    <item>Kirkland</item>
+    <item>Мэдисон</item>
+    <item>Гуанчжоу</item>
+    <item>Хайдарабад</item>
+    <item>Отдыхай</item>
+    <item>Белу-Оризонти</item>
+    <item>Сантьяго</item>
+    <item>Монровия</item>
+    <item>Коломбо</item>
+    <item>Чихуахуа</item>
+    <item>Сальвадор</item>
+    <item>Гургаон</item>
+    <item>Манчестер</item>
+    <item>Киев</item>
+    <item>Санкт-Петербург</item>
+    <item>Краков</item>
+    <item>Вроцлав</item>
+    <item>Гамбург</item>
+    <item>Оулу</item>
+    <item>Хайфа</item>
+    <item>Сан-Хуан</item>
+    <item>Тегусигальпа</item>
+    <item>Парамарибо</item>
+    <item>Кито</item>
+  </string-array>
+  <string-array name="cities_tz">
+    <item>Африка / Абиджан</item>
+    <item>Африка / Аккра</item>
+    <item>Africa / Addis_Ababa</item>
+    <item>Африка / Алжир</item>
+    <item>Африка / Блантайр</item>
+    <item>Африка / Браззавиль</item>
+    <item>Африка / Каир</item>
+    <item>Африка / Касабланка</item>
+    <item>Африка / Конакри</item>
+    <item>Африка / Дакар</item>
+    <item>Africa / Dar_es_Salaam</item>
+    <item>Африка / Джибути</item>
+    <item>Африка / Фритаун</item>
+    <item>Африка / Габороне</item>
+    <item>Африка / Хараре</item>
+    <item>Африка / Йоханнесбург</item>
+    <item>Африка / Кампала</item>
+    <item>Африка / Хартум</item>
+    <item>Африка / Кигали</item>
+    <item>Африка / Киншаса</item>
+    <item>Африка / Лагос</item>
+    <item>Африка / Масеру</item>
+    <item>Африка / Могадишо</item>
+    <item>Африка / Найроби</item>
+    <item>Африка / Sao_Tome</item>
+    <item>Африка / Тимбукту</item>
+    <item>Африка / Триполи</item>
+    <item>Африка / Тунис</item>
+    <item>Америка / Анкоридж</item>
+    <item>Америка / Аргентина / Мендоса</item>
+    <item>Америка / Аруба</item>
+    <item>Америка / Асунсьон</item>
+    <item>Америка / Барбадос</item>
+    <item>Америка / Белиз</item>
+    <item>Америка / Богота</item>
+    <item>America / Buenos_Aires</item>
+    <item>America / Cancun</item>
+    <item>Америка / Каракас</item>
+    <item>America / Cayman</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Коста-Рика</item>
+    <item>America / Curacao</item>
+    <item>America / Dawson_Creek</item>
+    <item>Америка / Денвер</item>
+    <item>Америка / Детройт</item>
+    <item>Америка / Доминика</item>
+    <item>America / Edmonton</item>
+    <item>Америка / Эль-Сальвадор</item>
+    <item>Америка / Форталеза</item>
+    <item>America / Grand_Turk</item>
+    <item>Америка / Гренада</item>
+    <item>Америка / Гватемала</item>
+    <item>Америка / Гайана</item>
+    <item>America / Halifax</item>
+    <item>Америка / Гавана</item>
+    <item>Америка / Индиана / Индианаполис</item>
+    <item>Америка / Индиана / Нокс</item>
+    <item>Америка / Индиана / Маренго</item>
+    <item>Америка / Индиана / Петербург</item>
+    <item>Америка / Индиана / Tell_City</item>
+    <item>Америка / Индиана / Вевей</item>
+    <item>Америка / Индиана / Венсен</item>
+    <item>Америка / Индиана / Винамак</item>
+    <item>Америка / Ямайка</item>
+    <item>America / La_Paz</item>
+    <item>America / Lima</item>
+    <item>America / Los_Angeles</item>
+    <item>America / Louisville</item>
+    <item>America / Managua</item>
+    <item>Америка / Мартиника</item>
+    <item>Америка / Мендоса</item>
+    <item>America / Metlakatla</item>
+    <item>America / Mexico_City</item>
+    <item>America / Monterrey</item>
+    <item>America / Montevideo</item>
+    <item>America / Montreal</item>
+    <item>America / Nassau</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>America / North_Dakota / Beulah</item>
+    <item>Америка / Северная_Дакота / Центр</item>
+    <item>Америка / Северная_Дакота / Нью-Салем</item>
+    <item>America / Panama</item>
+    <item>America / Phoenix</item>
+    <item>America / Port_of_Spain</item>
+    <item>Америка / Порт-о-Пренс</item>
+    <item>Америка / Пуэрто-Рико</item>
+    <item>America / Santo_Domingo</item>
+    <item>Америка / Sao_Paulo</item>
+    <item>America / St_Johns</item>
+    <item>America / St_Kitts</item>
+    <item>America / St_Lucia</item>
+    <item>America / St_Thomas</item>
+    <item>America / Tijuana</item>
+    <item>America / Toronto</item>
+    <item>America / Vancouver</item>
+    <item>Америка / Виннипег</item>
+    <item>Antarctica / South_Pole</item>
+    <item>Arctic / Longyearbyen</item>
+    <item>Азия / Алматы</item>
+    <item>Asia / Amman</item>
+    <item>Asia / Anadyr</item>
+    <item>Asia / Aqtau</item>
+    <item>Asia / Baghdad</item>
+    <item>Азия / Бахрейн</item>
+    <item>Азия / Баку</item>
+    <item>Asia / Bangkok</item>
+    <item>Asia / Beirut</item>
+    <item>Asia / Calcutta</item>
+    <item>Asia / Damascus</item>
+    <item>Азия / Дакка</item>
+    <item>Asia / Dubai</item>
+    <item>Азия / Газа</item>
+    <item>Азия / Хеврон</item>
+    <item>Asia / Ho_Chi_Minh</item>
+    <item>Asia / Hong_Kong</item>
+    <item>Азия / Стамбул</item>
+    <item>Asia / Jakarta</item>
+    <item>Азия / Иерусалим</item>
+    <item>Asia / Kabul</item>
+    <item>Asia / Karachi</item>
+    <item>Asia / Kathmandu</item>
+    <item>Asia / Kuala_Lumpur</item>
+    <item>Asia / Kuwait</item>
+    <item>Asia / Macau</item>
+    <item>Asia / Manila</item>
+    <item>Азия / Маскат</item>
+    <item>Asia / Phnom_Penh</item>
+    <item>Азия / Пхеньян</item>
+    <item>Asia / Qatar</item>
+    <item>Азия / Рангун</item>
+    <item>Asia / Riyadh</item>
+    <item>Asia / Saigon</item>
+    <item>Asia / Seoul</item>
+    <item>Азия / Шанхай</item>
+    <item>Азия / Сингапур</item>
+    <item>Asia / Taipei</item>
+    <item>Asia / Tehran</item>
+    <item>Asia / Tel_Aviv</item>
+    <item>Азия / Токио</item>
+    <item>Азия / Улан-Батор</item>
+    <item>Атлантика / Бермудские острова</item>
+    <item>Atlantic / Canary</item>
+    <item>Atlantic / Cape_Verde</item>
+    <item>Atlantic / Reykjavik</item>
+    <item>Atlantic / Stanley</item>
+    <item>Австралия / Аделаида</item>
+    <item>Австралия / Брисбен</item>
+    <item>Австралия / Канберра</item>
+    <item>Австралия / Дарвин</item>
+    <item>Австралия / Мельбурн</item>
+    <item>Австралия / NSW</item>
+    <item>Австралия / Квинсленд</item>
+    <item>Австралия / Сидней</item>
+    <item>Австралия / Виктория</item>
+    <item>Канада / Ньюфаундленд</item>
+    <item>Канада / Саскачеван</item>
+    <item>Чили / EasterIsland</item>
+    <item>Европа / Амстердам</item>
+    <item>Европа / Андорра</item>
+    <item>Европа / Афины</item>
+    <item>Европа / Белфаст</item>
+    <item>Европа / Белград</item>
+    <item>Европа / Берлин</item>
+    <item>Европа / Братислава</item>
+    <item>Европа / Брюссель</item>
+    <item>Европа / Бухарест</item>
+    <item>Европа / Будапешт</item>
+    <item>Европа / Кишинев</item>
+    <item>Европа / Копенгаген</item>
+    <item>Europe / Dublin</item>
+    <item>Европа / Хельсинки</item>
+    <item>Europe / Isle_of_Man</item>
+    <item>Европа / Стамбул</item>
+    <item>Европа / Киев</item>
+    <item>Европа / Лиссабон</item>
+    <item>Европа / Лондон</item>
+    <item>Европа / Люксембург</item>
+    <item>Европа / Мадрид</item>
+    <item>Европа / Мальта</item>
+    <item>Европа / Минск</item>
+    <item>Европа / Монако</item>
+    <item>Европа / Москва</item>
+    <item>Европа / Осло</item>
+    <item>Европа / Париж</item>
+    <item>Европа / Прага</item>
+    <item>Европа / Рига</item>
+    <item>Европа / Рим</item>
+    <item>Европа / Сан-Мартино</item>
+    <item>Европа / Сараево</item>
+    <item>Европа / Симферополь</item>
+    <item>Европа / Скопье</item>
+    <item>Европа / София</item>
+    <item>Европа / Стокгольм</item>
+    <item>Европа / Таллинн</item>
+    <item>Европа / Вена</item>
+    <item>Европа / Вильнюс</item>
+    <item>Европа / Варшава</item>
+    <item>Европа / Загреб</item>
+    <item>Европа / Цюрих</item>
+    <item>Индийский / Антананариву</item>
+    <item>Индийский / Мальдивы</item>
+    <item>Индийский / Маврикий</item>
+    <item>Тихий океан / Окленд</item>
+    <item>Pacific / Guam</item>
+    <item>Pacific / Honolulu</item>
+    <item>Тихий океан / Киритимати</item>
+    <item>Тихий океан / Нумеа</item>
+    <item>Тихий океан / Самоа</item>
+    <item>Тихий океан / Таити</item>
+    <item>Америка / Антигуа</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Денвер</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>America / Los_Angeles</item>
+    <item>America / Los_Angeles</item>
+    <item>America / Los_Angeles</item>
+    <item>Америка / Денвер</item>
+    <item>America / Los_Angeles</item>
+    <item>Америка / Гватемала</item>
+    <item>America / Los_Angeles</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Чикаго</item>
+    <item>America / Los_Angeles</item>
+    <item>Америка / Денвер</item>
+    <item>MST</item>
+    <item>America / Los_Angeles</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Чикаго</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>America / Los_Angeles</item>
+    <item>America / Los_Angeles</item>
+    <item>America / Los_Angeles</item>
+    <item>Asia / Riyadh</item>
+    <item>Азия / Шанхай</item>
+    <item>Asia / Kolkata</item>
+    <item>Asia / Kolkata</item>
+    <item>Азия / Токио</item>
+    <item>Asia / Karachi</item>
+    <item>Asia / Riyadh</item>
+    <item>Европа / Мадрид</item>
+    <item>Европа / Берлин</item>
+    <item>Европа / Рим</item>
+    <item>Европа / Берлин</item>
+    <item>Asia / Bangkok</item>
+    <item>Европа / Стамбул</item>
+    <item>Asia / Kolkata</item>
+    <item>Америка / Sao_Paulo</item>
+    <item>Африка / Йоханнесбург</item>
+    <item>Asia / Karachi</item>
+    <item>Америка / Sao_Paulo</item>
+    <item>Америка / Детройт</item>
+    <item>Америка / Денвер</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>America / Los_Angeles</item>
+    <item>Америка / Чикаго</item>
+    <item>Азия / Шанхай</item>
+    <item>Asia / Kolkata</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Sao_Paulo</item>
+    <item>America / Santiago</item>
+    <item>Африка / Монровия</item>
+    <item>Asia / Colombo</item>
+    <item>Америка / Чихуаха</item>
+    <item>Америка / Sao_Paulo</item>
+    <item>Asia / Kolkata</item>
+    <item>Европа / Лондон</item>
+    <item>Европа / Бухарест</item>
+    <item>Европа / Москва</item>
+    <item>Европа / Варшава</item>
+    <item>Европа / Варшава</item>
+    <item>Европа / Берлин</item>
+    <item>Европа / Бухарест</item>
+    <item>Азия / Иерусалим</item>
+    <item>Америка / Пуэрто-Рико</item>
+    <item>America / Tegucigalpa</item>
+    <item>Америка / Парамарибо</item>
+    <item>America / Panama</item>
+  </string-array>
+  <string-array name="cities_id">
+    <item>C1</item>
+    <item>C2</item>
+    <item>C3</item>
+    <item>C4</item>
+    <item>C5</item>
+    <item>C6</item>
+    <item>C7</item>
+    <item>C8</item>
+    <item>C9</item>
+    <item>C10</item>
+    <item>C11</item>
+    <item>C12</item>
+    <item>C13</item>
+    <item>C14</item>
+    <item>C15</item>
+    <item>C16</item>
+    <item>C17</item>
+    <item>C18</item>
+    <item>C19</item>
+    <item>C20</item>
+    <item>C21</item>
+    <item>C22</item>
+    <item>C23</item>
+    <item>C24</item>
+    <item>C25</item>
+    <item>C26</item>
+    <item>C27</item>
+    <item>C28</item>
+    <item>C29</item>
+    <item>C0</item>
+    <item>C31</item>
+    <item>C32</item>
+    <item>C33</item>
+    <item>C34</item>
+    <item>C35</item>
+    <item>C36</item>
+    <item>C37</item>
+    <item>C38</item>
+    <item>C39</item>
+    <item>C40</item>
+    <item>C41</item>
+    <item>C42</item>
+    <item>C43</item>
+    <item>C44</item>
+    <item>C45</item>
+    <item>C46</item>
+    <item>C47</item>
+    <item>C48</item>
+    <item>C49</item>
+    <item>C50</item>
+    <item>C51</item>
+    <item>C52</item>
+    <item>C53</item>
+    <item>C54</item>
+    <item>C55</item>
+    <item>C56</item>
+    <item>C57</item>
+    <item>C58</item>
+    <item>C59</item>
+    <item>C60</item>
+    <item>C61</item>
+    <item>C62</item>
+    <item>C63</item>
+    <item>C64</item>
+    <item>C65</item>
+    <item>C66</item>
+    <item>C67</item>
+    <item>C68</item>
+    <item>C69</item>
+    <item>C70</item>
+    <item>C71</item>
+    <item>C72</item>
+    <item>C73</item>
+    <item>C74</item>
+    <item>C75</item>
+    <item>C76</item>
+    <item>C77</item>
+    <item>C78</item>
+    <item>C79</item>
+    <item>C80</item>
+    <item>C81</item>
+    <item>C82</item>
+    <item>C83</item>
+    <item>C84</item>
+    <item>C85</item>
+    <item>C86</item>
+    <item>C87</item>
+    <item>C88</item>
+    <item>C89</item>
+    <item>C90</item>
+    <item>C91</item>
+    <item>C92</item>
+    <item>C93</item>
+    <item>C94</item>
+    <item>C95</item>
+    <item>C96</item>
+    <item>C97</item>
+    <item>C98</item>
+    <item>C99</item>
+    <item>C100</item>
+    <item>C101</item>
+    <item>C102</item>
+    <item>C103</item>
+    <item>C104</item>
+    <item>C105</item>
+    <item>С106</item>
+    <item>C107</item>
+    <item>C108</item>
+    <item>C109</item>
+    <item>C110</item>
+    <item>C111</item>
+    <item>C112</item>
+    <item>C113</item>
+    <item>C114</item>
+    <item>C115</item>
+    <item>C0</item>
+    <item>C117</item>
+    <item>C118</item>
+    <item>C119</item>
+    <item>C120</item>
+    <item>C121</item>
+    <item>C122</item>
+    <item>C123</item>
+    <item>C124</item>
+    <item>C125</item>
+    <item>C126</item>
+    <item>C127</item>
+    <item>C128</item>
+    <item>C0</item>
+    <item>C130</item>
+    <item>C131</item>
+    <item>C132</item>
+    <item>C133</item>
+    <item>C134</item>
+    <item>C135</item>
+    <item>C136</item>
+    <item>C137</item>
+    <item>C138</item>
+    <item>C139</item>
+    <item>C140</item>
+    <item>C141</item>
+    <item>C142</item>
+    <item>C143</item>
+    <item>C144</item>
+    <item>C145</item>
+    <item>C146</item>
+    <item>C147</item>
+    <item>C148</item>
+    <item>C149</item>
+    <item>C150</item>
+    <item>C151</item>
+    <item>C153</item>
+    <item>C154</item>
+    <item>C155</item>
+    <item>C156</item>
+    <item>C157</item>
+    <item>C158</item>
+    <item>C159</item>
+    <item>C160</item>
+    <item>C161</item>
+    <item>C162</item>
+    <item>C163</item>
+    <item>C164</item>
+    <item>C165</item>
+    <item>C166</item>
+    <item>C167</item>
+    <item>C168</item>
+    <item>C169</item>
+    <item>C170</item>
+    <item>C171</item>
+    <item>C173</item>
+    <item>C174</item>
+    <item>C175</item>
+    <item>C176</item>
+    <item>C177</item>
+    <item>C178</item>
+    <item>C179</item>
+    <item>C180</item>
+    <item>C181</item>
+    <item>C182</item>
+    <item>C183</item>
+    <item>C184</item>
+    <item>C185</item>
+    <item>C186</item>
+    <item>C187</item>
+    <item>C188</item>
+    <item>C189</item>
+    <item>C190</item>
+    <item>C191</item>
+    <item>C192</item>
+    <item>C193</item>
+    <item>C194</item>
+    <item>C195</item>
+    <item>C196</item>
+    <item>C198</item>
+    <item>C199</item>
+    <item>C200</item>
+    <item>C201</item>
+    <item>C202</item>
+    <item>C203</item>
+    <item>C204</item>
+    <item>C205</item>
+    <item>C206</item>
+    <item>C208</item>
+    <item>C209</item>
+    <item>C210</item>
+    <item>C211</item>
+    <item>C212</item>
+    <item>C213</item>
+    <item>C214</item>
+    <item>C215</item>
+    <item>C216</item>
+    <item>C217</item>
+    <item>C218</item>
+    <item>C219</item>
+    <item>C220</item>
+    <item>C221</item>
+    <item>C222</item>
+    <item>C223</item>
+    <item>C224</item>
+    <item>C225</item>
+    <item>C226</item>
+    <item>C227</item>
+    <item>C228</item>
+    <item>C229</item>
+    <item>C230</item>
+    <item>C231</item>
+    <item>C232</item>
+    <item>C233</item>
+    <item>C234</item>
+    <item>C235</item>
+    <item>C236</item>
+    <item>C237</item>
+    <item>C238</item>
+    <item>C239</item>
+    <item>C240</item>
+    <item>C241</item>
+    <item>C242</item>
+    <item>C243</item>
+    <item>C244</item>
+    <item>C245</item>
+    <item>C246</item>
+    <item>C247</item>
+    <item>C248</item>
+    <item>C249</item>
+    <item>C250</item>
+    <item>C251</item>
+    <item>C252</item>
+    <item>C253</item>
+    <item>C254</item>
+    <item>C255</item>
+    <item>C256</item>
+    <item>C257</item>
+    <item>C258</item>
+    <item>C259</item>
+    <item>C260</item>
+    <item>C261</item>
+    <item>C262</item>
+    <item>C263</item>
+    <item>C264</item>
+    <item>C265</item>
+    <item>C266</item>
+    <item>C267</item>
+    <item>C268</item>
+    <item>C269</item>
+    <item>C270</item>
+    <item>C271</item>
+    <item>C272</item>
+    <item>C273</item>
+    <item>C274</item>
+    <item>C275</item>
+    <item>C276</item>
+    <item>C277</item>
+    <item>C278</item>
+    <item>C279</item>
+    <item>C280</item>
+    <item>C281</item>
+    <item>C282</item>
+    <item>C283</item>
+    <item>C284</item>
+    <item>C285</item>
+    <item>C286</item>
+    <item>C287</item>
+    <item>C288</item>
+    <item>C289</item>
+    <item>C290</item>
+    <item>C291</item>
+    <item>C292</item>
+    <item>C293</item>
+    <item>C294</item>
+    <item>C295</item>
+    <item>C296</item>
+    <item>C297</item>
+    <item>C298</item>
+    <item>C299</item>
+  </string-array>
+  <array name="snooze_dismiss_drawables">
+    <item>@drawable/ic_alarm_alert_dismiss</item>
+    <item>@null</item>
+    <item>@drawable/ic_alarm_alert_snooze</item>
+    <item>@null</item>
+  </array>
+  <string-array name="snooze_dismiss_descriptions">
+    <item>@string/alarm_alert_dismiss_text</item>
+    <item>@null</item>
+    <item>@string/alarm_alert_snooze_text</item>
+    <item>@null</item>
+  </string-array>
+  <string-array name="snooze_dismiss_direction_descriptions">
+    <item>@string/description_direction_right</item>
+    <item>@null</item>
+    <item>@string/description_direction_left</item>
+    <item>@null</item>
+  </string-array>
+  <array name="dismiss_drawables">
+    <item>@drawable/ic_alarm_alert_dismiss</item>
+    <item>@null</item>
+    <item>@null</item>
+    <item>@null</item>
+  </array>
+  <string-array name="dismiss_descriptions">
+    <item>@string/alarm_alert_dismiss_text</item>
+    <item>@null</item>
+    <item>@null</item>
+    <item>@null</item>
+  </string-array>
+  <string-array name="dismiss_direction_descriptions">
+    <item>@string/description_direction_right</item>
+    <item>@null</item>
+    <item>@null</item>
+    <item>@null</item>
+  </string-array>
+  <string-array name="timezone_labels">
+    <item>Маршалловы острова</item>
+    <item>Остров Мидуэй</item>
+    <item>Гавайи</item>
+    <item>Аляска</item>
+    <item>Тихоокеанский часовой пояс</item>
+    <item>Тихуана</item>
+    <item>Аризона</item>
+    <item>Чихуахуа</item>
+    <item>Горное время</item>
+    <item>Центральная Америка</item>
+    <item>Центральное время</item>
+    <item>Мехико</item>
+    <item>Саскачеван</item>
+    <item>Богота</item>
+    <item>по восточному времени</item>
+    <item>Венесуэла</item>
+    <item>Атлантическое время (Барбадос)</item>
+    <item>Время в Атлантике (Канада)</item>
+    <item>Манаус</item>
+    <item>Сантьяго</item>
+    <item>Ньюфаундленд</item>
+    <item>Бразилиа</item>
+    <item>Буэнос айрес</item>
+    <item>Гренландия</item>
+    <item>Монтевидео</item>
+    <item>Среднеатлантический</item>
+    <item>Азорские острова</item>
+    <item>Острова Зеленого Мыса</item>
+    <item>Касабланка</item>
+    <item>Лондон, Дублин</item>
+    <item>Амстердам, Берлин</item>
+    <item>Белград</item>
+    <item>Брюссель</item>
+    <item>Сараево</item>
+    <item>Виндхук</item>
+    <item>Время в Западной Африке</item>
+    <item>Амман, Иордания</item>
+    <item>Афины, Стамбул</item>
+    <item>Бейрут, Ливан</item>
+    <item>Каир</item>
+    <item>Хельсинки</item>
+    <item>Иерусалим</item>
+    <item>Минск</item>
+    <item>Хараре</item>
+    <item>Багдад</item>
+    <item>Москва</item>
+    <item>Кувейт</item>
+    <item>Найроби</item>
+    <item>Тегеран</item>
+    <item>Баку</item>
+    <item>Тбилиси</item>
+    <item>Ереван</item>
+    <item>Дубаи</item>
+    <item>Кабул</item>
+    <item>Исламабад, Карачи</item>
+    <item>"Уральск"</item>
+    <item>Екатеринбург</item>
+    <item>Kolkata</item>
+    <item>Шри-Ланка</item>
+    <item>Катманду</item>
+    <item>Астана</item>
+    <item>Янгон</item>
+    <item>Красноярск</item>
+    <item>Бангкок</item>
+    <item>Пекин</item>
+    <item>Гонконг</item>
+    <item>Иркутск</item>
+    <item>Куала-Лумпур</item>
+    <item>Перт</item>
+    <item>Тайбэй</item>
+    <item>Сеул</item>
+    <item>Токио, Осака</item>
+    <item>Якутск</item>
+    <item>Аделаида</item>
+    <item>Дарвин</item>
+    <item>Брисбен</item>
+    <item>Хобарт</item>
+    <item>Сидней, Канберра</item>
+    <item>Владивосток</item>
+    <item>Guam</item>
+    <item>Магадан</item>
+    <item>Окленд</item>
+    <item>Фиджи</item>
+    <item>Тонга</item>
+    <item>Джакарта</item>
+  </string-array>
+  <string-array name="timer_notifications">
+    <item>Осталось менее минуты</item>
+    <item>Осталось: %1$s</item>
+    <item>Осталось: %2$s</item>
+    <item>Осталось %1$s %2$s</item>
+  </string-array>
+  <string-array name="alarm_set">
+    <item>Будильник установлен менее чем через 1 минуту.</item>
+    <item>Тревога установлена ​​для %1$s.</item>
+    <item>Будильник установлен для %2$s.</item>
+    <item>Тревога установлена ​​для %1$s и %2$s.</item>
+    <item>Тревога установлена ​​для %3$s.</item>
+    <item>Тревога установлена ​​для %1$s и %3$s.</item>
+    <item>Будильник установлен для %2$s и %3$s.</item>
+    <item>Тревога установлена ​​для %1$s, %2$s и %3$s.</item>
+  </string-array>
+  <string-array name="auto_silence_entries">
+    <item>5 минут</item>
+    <item>10 минут</item>
+    <item>15 минут</item>
+    <item>20 минут</item>
+    <item>25 минут</item>
+    <item>30 минут</item>
+    <item>Никогда</item>
+  </string-array>
+  <string-array name="auto_silence_values">
+    <item>5</item>
+    <item>10</item>
+    <item>15</item>
+    <item>20</item>
+    <item>25</item>
+    <item>30</item>
+    <item>-1</item>
+  </string-array>
+  <string-array name="volume_button_setting_entries">
+    <item>Отложить</item>
+    <item>Отклонить</item>
+    <item>Ничего не делать</item>
+  </string-array>
+  <string-array name="volume_button_setting_values">
+    <item>1</item>
+    <item>2</item>
+    <item>0</item>
+  </string-array>
+  <string-array name="stopwatch_format_set">
+    <item>%2$02d:%3$02d%5$c%4$02d</item>
+    <item>%2$02d:%3$02d%5$c%4$02d</item>
+    <item>%1$d:%2$02d:%3$02d%5$c%4$02d</item>
+    <item>%1$02d:%2$02d:%3$02d%5$c%4$02d</item>
+    <item>%1$03d:%2$02d:%3$02d%5$c%4$02d</item>
+  </string-array>
+  <string-array name="shared_laps_format_set">
+    <item>%6$d%5$c%2$d%3$02d%5$c%4$02d</item>
+    <item>%6$d%5$c%2$02d%3$02d%5$c%4$02d</item>
+    <item>%6$d%5$c%1$d%2$02d%3$02d%5$c%4$02d</item>
+    <item>%6$d%5$c%1$02d%2$02d%3$02d%5$c%4$02d</item>
+    <item>%6$d%5$c%1$03d%2$02d%3$02d%5$c%4$02d</item>
+  </string-array>
+  <string-array name="sw_lap_number_set">
+    <item>%d</item>
+    <item>%02d</item>
+  </string-array>
+  <string-array name="sw_share_strings">
+    <item>«Ты довольно быстрый демон».</item>
+    <item>Наслаждайтесь плодами своего труда.</item>
+    <item>Известно, что андроиды работают быстро, но не так быстро, как вы!</item>
+    <item>Уф.</item>
+    <item>L33t раз.</item>
+    <item>Такая потрясающая скорость.</item>
+    <item>«Давай снова нарисуем время».</item>
+    <item>Просто прыжок влево.</item>
+    <item>У вас есть палитра для спешки.</item>
+    <item>Фотонная скорость.</item>
+  </string-array>
+  <string-array name="clock_style_entries">
+    <item>Аналоговый</item>
+    <item>Цифровой</item>
+  </string-array>
+  <string-array name="clock_style_values">
+    <item>Аналоговый</item>
+    <item>Цифровой</item>
+  </string-array>
+  <string-array name="timezone_values">
+    <item>Тихий океан / Маджуро</item>
+    <item>Pacific / Midway</item>
+    <item>Pacific / Honolulu</item>
+    <item>Америка / Анкоридж</item>
+    <item>America / Los_Angeles</item>
+    <item>America / Tijuana</item>
+    <item>America / Phoenix</item>
+    <item>America / Chihuahua</item>
+    <item>Америка / Денвер</item>
+    <item>Америка / Коста-Рика</item>
+    <item>Америка / Чикаго</item>
+    <item>America / Mexico_City</item>
+    <item>Америка / Регина</item>
+    <item>Америка / Богота</item>
+    <item>Америка / Нью-Йорк</item>
+    <item>Америка / Каракас</item>
+    <item>Америка / Барбадос</item>
+    <item>America / Halifax</item>
+    <item>Америка / Манаус</item>
+    <item>America / Santiago</item>
+    <item>America / St_Johns</item>
+    <item>Америка / Sao_Paulo</item>
+    <item>Америка / Аргентина / Буэнос-Айрес</item>
+    <item>America / Godthab</item>
+    <item>America / Montevideo</item>
+    <item>Atlantic / South_Georgia</item>
+    <item>Atlantic / Azores</item>
+    <item>Atlantic / Cape_Verde</item>
+    <item>Африка / Касабланка</item>
+    <item>Европа / Лондон</item>
+    <item>Европа / Амстердам</item>
+    <item>Европа / Белград</item>
+    <item>Европа / Брюссель</item>
+    <item>Европа / Сараево</item>
+    <item>Африка / Виндхук</item>
+    <item>Африка / Браззавиль</item>
+    <item>Asia / Amman</item>
+    <item>Европа / Афины</item>
+    <item>Asia / Beirut</item>
+    <item>Африка / Каир</item>
+    <item>Европа / Хельсинки</item>
+    <item>Азия / Иерусалим</item>
+    <item>Европа / Минск</item>
+    <item>Африка / Хараре</item>
+    <item>Asia / Baghdad</item>
+    <item>Европа / Москва</item>
+    <item>Asia / Kuwait</item>
+    <item>Африка / Найроби</item>
+    <item>Asia / Tehran</item>
+    <item>Азия / Баку</item>
+    <item>Азия / Тбилиси</item>
+    <item>Азия / Ереван</item>
+    <item>Asia / Dubai</item>
+    <item>Asia / Kabul</item>
+    <item>Asia / Karachi</item>
+    <item>Asia / Oral</item>
+    <item>Азия / Екатеринбург</item>
+    <item>Asia / Calcutta</item>
+    <item>Asia / Colombo</item>
+    <item>Asia / Katmandu</item>
+    <item>Азия / Алматы</item>
+    <item>Азия / Рангун</item>
+    <item>Азия / Красноярск</item>
+    <item>Asia / Bangkok</item>
+    <item>Азия / Шанхай</item>
+    <item>Asia / Hong_Kong</item>
+    <item>Asia / Irkutsk</item>
+    <item>Asia / Kuala_Lumpur</item>
+    <item>Австралия / Перт</item>
+    <item>Asia / Taipei</item>
+    <item>Asia / Seoul</item>
+    <item>Азия / Токио</item>
+    <item>Asia / Yakutsk</item>
+    <item>Австралия / Аделаида</item>
+    <item>Австралия / Дарвин</item>
+    <item>Австралия / Брисбен</item>
+    <item>Австралия / Хобарт</item>
+    <item>Австралия / Сидней</item>
+    <item>Азия / Владивосток</item>
+    <item>Pacific / Guam</item>
+    <item>Азия / Магадан</item>
+    <item>Тихий океан / Окленд</item>
+    <item>Тихий океан / Фиджи</item>
+    <item>Тихий океан / Тонгатапу</item>
+    <item>Asia / Jakarta</item>
+  </string-array>
+  <string-array name="timer_format_set">
+    <item>%2$02d:%3$02d</item>
+    <item>%1$d:%2$02d:%3$02d</item>
+  </string-array>
+</resources>

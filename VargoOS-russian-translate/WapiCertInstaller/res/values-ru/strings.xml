@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Диспетчер сертификатов WAPI</string>
+  <string name="wifi_wapi_certification_dont_exist">Вы ввели неверный сетевой пароль. </string>
+  <string name="please_type_passphrase">Пароль беспроводной сети</string>
+  <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
+  <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
+  <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
+  <string name="wifi_certificate">Сертификат</string>
+  <string name="wifi_wapi_cert_mgmt_titlebar">Управление сертификатами WAPI</string>
+  <string name="wifi_wapi_cert_install">Установить сертификат WAPI</string>
+  <string name="wifi_wapi_cert_install_button">Установить</string>
+  <string name="wifi_wapi_cert_uninstall_button">Удалить</string>
+  <string name="wifi_wapi_cert_cancel_button">Отмена</string>
+  <string name="wifi_wapi_cert_uninstall">Удаление сертификата WAPI</string>
+  <string name="wifi_wapi_cert_create_subdir">Создание directroy</string>
+  <string name="wifi_wapi_cert_delet_subdir">Выберите сертификат на костюм</string>
+  <string name="wifi_wapi_as_cert">Сертификат AS</string>
+  <string name="wifi_wapi_user_cert">Сертификат пользователя</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">Пожалуйста, введите имя каталога, который вы хотите создать!</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_exist">Введите другое имя каталога, это одно существует</string>
+  <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Ошибка создания каталога</string>
+  <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введите имя сертификата</string>
+  <string name="wifi_wapi_cert_mgmt_as_dont_exist">SDCard не имеет сертификата AS, пожалуйста, проверьте его!</string>
+  <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Неверный формат сертификата! </string>
+  <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Неверный формат сертификата пользователя! </string>
+  <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Введите имя сертификата пользователя</string>
+  <string name="wifi_wapi_cert_mgmt_user_dont_exist">Введите имя сертификата пользователя</string>
+  <string name="wifi_context_menu_connect">Подключение к сети</string>
+  <string name="wifi_context_menu_forget">Забыть сеть</string>
+  <string name="wifi_context_menu_change_password">Изменить пароль</string>
+  <string name="wifi_context_menu_change_wapi_certificate">Изменить сертификат WAPI</string>
+  <string name="error_title" />
+</resources>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Управление уведомлениями</string>
+  <string name="header_text_sub_text">Вы заблокировали приложения%d для отправки уведомлений</string>
+</resources>

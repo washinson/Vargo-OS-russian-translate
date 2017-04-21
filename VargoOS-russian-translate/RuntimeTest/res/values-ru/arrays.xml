@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="preset_24h">
+        <item>24</item>
+        <item>50</item>
+        <item>1</item>
+        <item>50</item>
+        <item>120</item>
+        <item>120</item>
+        <item>180</item>
+        <item>120</item>
+        <item>100</item>
+        <item>180</item>
+        <item>240</item>
+        <item>480</item>
+        <item>50</item>
+    </integer-array>
+    <integer-array name="preset_16h">
+        <item>16</item>
+        <item>32</item>
+        <item>1</item>
+        <item>32</item>
+        <item>90</item>
+        <item>90</item>
+        <item>90</item>
+        <item>90</item>
+        <item>75</item>
+        <item>160</item>
+        <item>160</item>
+        <item>160</item>
+        <item>32</item>
+    </integer-array>
+    <integer-array name="preset_8h">
+        <item>8</item>
+        <item>16</item>
+        <item>1</item>
+        <item>16</item>
+        <item>45</item>
+        <item>45</item>
+        <item>45</item>
+        <item>45</item>
+        <item>40</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>16</item>
+    </integer-array>
+    <integer-array name="preset_4h">
+        <item>4</item>
+        <item>8</item>
+        <item>1</item>
+        <item>8</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>40</item>
+        <item>40</item>
+        <item>40</item>
+        <item>8</item>
+        <item>8</item>
+    </integer-array>
+    <integer-array name="preset_2h">
+        <item>2</item>
+        <item>4</item>
+        <item>1</item>
+        <item>4</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="default_enabled">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="preset_battery_level">
+        <item>50</item>
+        <item>60</item>
+    </integer-array>
+    <string-array name="preset_list">
+        <item>24H Run-in</item>
+        <item>16H Run-in</item>
+        <item>8H Run-in</item>
+        <item>4H Run-in</item>
+        <item>2H Run-in</item>
+    </string-array>
+</resources>

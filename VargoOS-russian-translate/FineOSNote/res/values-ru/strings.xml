@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Заметки</string>
+  <string name="cancel">Отмена</string>
+  <string name="done">Готово</string>
+  <string name="back">Вернуться назад</string>
+  <string name="details_hint">Детали</string>
+  <string name="date_hint">Дата</string>
+  <string name="new_note">Новые заметки</string>
+  <string name="edit_note">Заметка</string>
+  <string name="add_folder">Новая папка</string>
+  <string name="edit_folder_name">Изменить имя папки</string>
+  <string name="confirm_cancel">Отмена</string>
+  <string name="confirm_done">Готово</string>
+  <string name="delete_warning">Удалить?</string>
+  <string name="delete_folder_warning">Подтвердить удаление этой папки и ее заметок?</string>
+  <string name="folder_name">Имя папки</string>
+  <string name="folder_call">Запись звонков</string>
+  <string name="my_folders">Мои папки</string>
+  <string name="please_enter_name">Введите название</string>
+  <string name="please_enter_content">Укажите содержание</string>
+  <string name="no_file_text">Папка пуста</string>
+  <string name="note_tips_1">Нажмите кнопку «Добавить», чтобы добавить заметки.</string>
+  <string name="note_tips_2">Можно добавить непосредственно в соответствующую папку</string>
+  <string name="move_note_warning">Переместить в пользовательскую папку?</string>
+  <string name="save_note_warning">Сохранить изменения?</string>
+  <string name="hint_invalid_file_name">Неверное имя файла!</string>
+  <string name="file_name_already_exists">Имя файла уже существует!</string>
+</resources>

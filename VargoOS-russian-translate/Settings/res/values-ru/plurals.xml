@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="protected_apps_tip">
+    <item quantity="other">После \"Очистка экрана\", %d несистемных приложений могут оставаться запущенными.</item>
+    <item quantity="one">После \"Screen off cleanup\" остается только одно несистемное приложение.</item>
+  </plurals>
+  <plurals name="show_dev_countdown">
+    <item quantity="other">Вы теперь на%1$d шагах от разработчика.</item>
+    <item quantity="one">Теперь вы на%1$d шага от разработчика.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_letters">
+    <item quantity="other">Пароль должен содержать не менее%d букв.</item>
+    <item quantity="one">Пароль должен содержать не менее 1 буквы.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_lowercase">
+    <item quantity="other">Пароль должен содержать не менее%d строчных букв.</item>
+    <item quantity="one">Пароль должен содержать не менее 1 строчной буквы.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_uppercase">
+    <item quantity="other">Пароль должен содержать не менее%d букв в верхнем регистре.</item>
+    <item quantity="one">Пароль должен содержать хотя бы одну букву в верхнем регистре.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_numeric">
+    <item quantity="other">Пароль должен содержать не менее%d цифр.</item>
+    <item quantity="one">Пароль должен содержать не менее 1 цифры.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_symbols">
+    <item quantity="other">Пароль должен содержать не менее%d специальных символов.</item>
+    <item quantity="one">Пароль должен содержать как минимум 1 специальный символ.</item>
+  </plurals>
+  <plurals name="lockpassword_password_requires_nonletter">
+    <item quantity="other">Пароль должен содержать не менее%d небуквенных символов.</item>
+    <item quantity="one">Пароль должен содержать хотя бы один небуквенный символ.</item>
+  </plurals>
+  <plurals name="wrong_pin_code">
+    <item quantity="other">Неверный PIN-код SIM, у вас осталось%d попыток.</item>
+    <item quantity="one">Неправильный PIN-код SIM-карты, у вас осталось%d попытки, прежде чем вы должны связаться со своим оператором, чтобы разблокировать ваше устройство.</item>
+  </plurals>
+  <plurals name="manage_notification_access_summary_nonzero">
+    <item quantity="other">Приложения%d могут читать уведомления</item>
+    <item quantity="one">Приложение%d может читать уведомления</item>
+  </plurals>
+  <plurals name="manage_condition_providers_summary_nonzero">
+    <item quantity="other">Приложения%d обеспечивают условия</item>
+    <item quantity="one">Приложение%d предоставляет условия</item>
+  </plurals>
+</resources>

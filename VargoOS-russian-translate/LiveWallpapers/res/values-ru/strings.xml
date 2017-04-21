@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="wallpapers">Обои для рабочего стола Android Live</string>
+  <string name="wallpaper_walkaround">Смотреть сквозь</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Просматривайте свой телефон и обойдите без риска несчастных случаев.</string>
+  <string name="wallpaper_clock">Полярные часы</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Отображает дату и время по часовой стрелке: месяц, день, час, минута и секунда.</string>
+  <string name="clock_settings">Настройки полярных часов</string>
+  <string name="show_seconds">Показывать секунды</string>
+  <string name="variable_line_width">Различная ширина колец</string>
+  <string name="palette">Цветовая палитра</string>
+  <string name="palette_gray">Железо</string>
+  <string name="palette_violet">Полночь</string>
+  <string name="palette_matrix">Зеленый экран</string>
+  <string name="palette_white_c">Белый медведь (динамический)</string>
+  <string name="palette_black_c">Черная дыра (динамическая)</string>
+  <string name="palette_halloween">Тыквенный пирог</string>
+  <string name="palette_zenburn">Салат из фруктов и овощей</string>
+  <string name="palette_oceanic">Голубой лазер</string>
+</resources>
