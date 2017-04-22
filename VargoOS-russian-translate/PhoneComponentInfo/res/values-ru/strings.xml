@@ -1,24 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="hello">Hello World, ControlCenter!</string>
-  <string name="app_name">PhoneComponentInfo</string>
-  <string name="LCDModelInfo">Информация о модели LCD</string>
-  <string name="TPModelInfo">Информация о модели TP</string>
-  <string name="MainCameraModelInfo">Информация о модели основной камеры</string>
-  <string name="SubCameraModelInfo">Информация о модели вспомогательной камеры</string>
-  <string name="FlashInfo">Информация о Flash</string>
-  <string name="GsensorInfo">Информация о Gsensor</string>
-  <string name="MsensorInfo">Информация о Msensor</string>
-  <string name="Als_ps_Info">Информация о Als PS</string>
-  <string name="GyroInfo">Информация о гироскопе</string>
-  <string name="EmcpInfo">Информация о Emcp</string>
-  <string name="ROMInfo">Информация о ROM</string>
-  <string name="RAMInfo">Информация о RAM</string>
-  <string name="nullInfo">Этот компонент отсутствует в телефонной трубке или не удалось получить информацию о компоненте, обратитесь к инженерам.</string>
-  <string name="null_activity">Пустая деятельность</string>
-  <string name="AdjustNxp">Настройка звука</string>
-  <string name="AdjustStart">Начало</string>
-  <string name="AdjustCancel">Отмена</string>
-  <string name="AdjustInfo">Запустится AudioAdjust и перезагрузится при нажатии кнопки «Пуск»!</string>
-  <string name="FingerPrintInfo">Информация отпечатка пальца</string>
+    <string name="hello">Hello World, ControlCenter!</string>
+    <string name="app_name">PhoneComponentInfo</string>
+    <string name="LCDModelInfo">Информация о модели LCD</string>
+    <string name="TPModelInfo">Информация о модели TP</string>
+    <string name="MainCameraModelInfo">Информация о модели основной камеры</string>
+    <string name="SubCameraModelInfo">Информация о модели вспомогательной камеры</string>
+    <string name="FlashInfo">Информация о Flash</string>
+    <string name="GsensorInfo">Информация о Gsensor</string>
+    <string name="MsensorInfo">Информация о Msensor</string>
+    <string name="Als_ps_Info">Информация о Als PS</string>
+    <string name="GyroInfo">Информация о гироскопе</string>
+    <string name="EmcpInfo">Информация о Emcp</string>
+    <string name="ROMInfo">Информация о ROM</string>
+    <string name="RAMInfo">Информация о RAM</string>
+    <string name="nullInfo">Этот компонент отсутствует в телефонной трубке или не удалось получить информацию о компоненте, обратитесь к инженерам.</string>
+    <string name="null_activity">Пустая деятельность</string>
+    <string name="AdjustNxp">Настройка звука</string>
+    <string name="AdjustStart">Начало</string>
+    <string name="AdjustCancel">Отмена</string>
+    <string name="AdjustInfo">Запустится AudioAdjust и перезагрузится при нажатии кнопки «Пуск»!</string>
+    <string name="FingerPrintInfo">Информация отпечатка пальца</string>
 </resources>
+

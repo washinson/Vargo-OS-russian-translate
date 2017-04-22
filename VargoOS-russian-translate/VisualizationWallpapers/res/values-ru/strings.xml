@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="wallpaper_vis1">Визуализатор</string>
-  <string name="wallpaper_vis2">Форма волны</string>
-  <string name="wallpaper_vis3">Спектр</string>
-  <string name="wallpaper_vis4">Измеритель VU</string>
-  <string name="wallpaper_vis5">Многие</string>
-  <string name="wallpapers">Обои для рабочего стола</string>
-  <string name="author">Google</string>
-  <string name="vis2_desc">Рисует звуковую волну любой воспроизводимой музыки.</string>
-  <string name="vis3_desc">Показывает частотный спектр любой воспроизводимой музыки.</string>
-  <string name="vis4_desc">Имитирует аналоговый звуковой измеритель.</string>
-  <string name="vis5_desc">Все визуализации музыки вместе, медленно вращается в 3D.</string>
+    <string name="wallpaper_vis1">Визуализатор</string>
+    <string name="wallpaper_vis2">Форма волны</string>
+    <string name="wallpaper_vis3">Спектр</string>
+    <string name="wallpaper_vis4">Измеритель VU</string>
+    <string name="wallpaper_vis5">Многие</string>
+    <string name="wallpapers">Обои для рабочего стола</string>
+    <string name="author">Google</string>
+    <string name="vis2_desc">Рисует звуковую волну любой воспроизводимой музыки.</string>
+    <string name="vis3_desc">Показывает частотный спектр любой воспроизводимой музыки.</string>
+    <string name="vis4_desc">Имитирует аналоговый звуковой измеритель.</string>
+    <string name="vis5_desc">Все визуализации музыки вместе, медленно вращается в 3D.</string>
 </resources>
+

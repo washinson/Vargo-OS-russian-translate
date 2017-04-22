@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="intro">Отображение разрешения для интерфейса</string>
-  <string name="app_name">Интерфейс</string>
-  <string name="label">Интерфейс</string>
-  <string name="desc1">Отображение разрешений DIAG</string>
-  <string name="desc2">Отображение разрешения для радио</string>
-  <string name="desc3">Отображение разрешений Net_raw</string>
+    <string name="intro">Отображение разрешения для интерфейса</string>
+    <string name="app_name">Интерфейс</string>
+    <string name="label">Интерфейс</string>
+    <string name="desc1">Отображение разрешений DIAG</string>
+    <string name="desc2">Отображение разрешения для радио</string>
+    <string name="desc3">Отображение разрешений Net_raw</string>
 </resources>
+

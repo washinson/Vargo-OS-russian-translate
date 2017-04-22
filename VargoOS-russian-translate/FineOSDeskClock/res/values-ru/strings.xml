@@ -1,279 +1,280 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
-  <string name="full_wday_month_day_no_year">EEEEMMMMd</string>
-  <string name="default_clock_style">Цифровой</string>
-  <string name="app_label">Часы</string>
-  <string name="alarm_list_title">Аварийная сигнализация</string>
-  <string name="add_alarm">Добавить будильник</string>
-  <string name="alarm_timeline_title_text">СЛЕДУЮЩИЕ СИГНАЛЫ</string>
-  <string name="menu_desk_clock">Настольные часы</string>
-  <string name="menu_edit_alarm">Изменить будильник</string>
-  <string name="delete_alarm">Удалить будильник</string>
-  <string name="enable_alarm">Включить будильник</string>
-  <string name="disable_alarm">Выключить будильник</string>
-  <string name="delete_alarm_confirm">Удалить этот сигнал?</string>
-  <string name="show_clock">Показать часы</string>
-  <string name="hide_clock">Скрыть часы</string>
-  <string name="label">метка</string>
-  <string name="default_label">Аварийная сигнализация</string>
-  <string name="set_alarm">Установить будильник</string>
-  <string name="alarm_vibrate">Вибрировать</string>
-  <string name="alarm_repeat">Повторение</string>
-  <string name="alert">Сигнал будильника</string>
-  <string name="ringtone">Рингтон</string>
-  <string name="time">Время</string>
-  <string name="alarm_alert_dismiss_text">Отклонить</string>
-  <string name="alarm_alert_dismiss_now_text">Закрыть сейчас</string>
-  <string name="alarm_missed_title">Пропущенная тревога</string>
-  <string name="alarm_missed_text" formatted="false">%s-%s</string>
-  <string name="alarm_alert_snooze_text">Отложить</string>
-  <string name="alarm_alert_snooze_until">Отсрочка до%s</string>
-  <string name="alarm_alert_predismiss_title">Ожидаемый сигнал тревоги</string>
-  <string name="missed_alarm_has_been_deleted">Ваш пропущенный сигнал был удален</string>
-  <string name="day">1 день</string>
-  <string name="days">%s дн.</string>
-  <string name="hour">1 час</string>
-  <string name="hours">%s ч.</string>
-  <string name="minute">1 минута</string>
-  <string name="minutes">%s мин.</string>
-  <string name="every_day">Каждый день</string>
-  <string name="never">Никогда</string>
-  <string name="day_concat">«,</string>
-  <string name="clock_instructions">Выберите часы</string>
-  <string name="analog_gadget">Аналоговые часы</string>
-  <string name="help">Помогите</string>
-  <string name="settings">Настройки</string>
-  <string name="snooze_duration_title">Длительность повтора</string>
-  <string name="auto_silence_title">Молчание после</string>
-  <string name="auto_silence_summary">%d мин.</string>
-  <string name="auto_silence_never">Никогда</string>
-  <string name="done">Готово</string>
-  <string name="revert">Отменить</string>
-  <string name="delete">Удалить</string>
-  <string name="alarm_volume_title">Громкость будильника</string>
-  <string name="silent_alarm_summary">Беззвучный режим</string>
-  <string name="alarm_notify_text">Отложить или отключить будильник.</string>
-  <string name="alarm_notify_snooze_label">%s (отложен)</string>
-  <string name="alarm_notify_snooze_text">Будильник установлен для%s. </string>
-  <string name="volume_button_setting_title">Кнопки регулировки громкости</string>
-  <string name="volume_button_dialog_title">Эффект кнопки</string>
-  <string name="default_ringtone_setting_title">Рингтон</string>
-  <string name="alarm_button_description">Сигналы тревоги</string>
-  <string name="gallery_button_description">Галерея</string>
-  <string name="music_button_description">Музыка</string>
-  <string name="nightmode_button_description">Тусклый</string>
-  <string name="home_button_description">Пусковая установка</string>
-  <string name="desk_clock_button_description">Дисплей часов</string>
-  <string name="label_description">метка</string>
-  <string name="ringtone_description">Рингтон</string>
-  <string name="battery_charging_level">%d %%</string>
-  <string name="weather_fetch_failure">«Погода сейчас недоступна».</string>
-  <string name="alarm_klaxon_service_desc">Служба воспроизведения звука для сигналов тревоги, установленных в часах.</string>
-  <string name="loading_ringtone">Загрузка рингтона ...</string>
-  <string name="timer_ring_service_desc">Воспроизведение звука для таймеров, установленных в Clock.</string>
-  <string name="control_set_alarm">Установить будильник</string>
-  <string name="control_set_alarm_with_existing">%s</string>
-  <string name="menu_alarm">Аварийная сигнализация</string>
-  <string name="menu_timer">Таймер</string>
-  <string name="menu_clock">Часы</string>
-  <string name="menu_stopwatch">Секундомер</string>
-  <string name="button_alarms">Сигналы тревоги</string>
-  <string name="button_cities">Города</string>
-  <string name="button_menu">Больше вариантов</string>
-  <string name="menu_item_settings">Настройки</string>
-  <string name="menu_item_help">Помогите</string>
-  <string name="menu_item_night_mode">Ночной режим</string>
-  <string name="menu_item_sort_by_gmt_offset">Сортировать по времени</string>
-  <string name="menu_item_sort_by_name">Сортировать по имени</string>
-  <string name="selected_cities_label">Избранные города</string>
-  <string name="sw_resume_button">Продолжить</string>
-  <string name="sw_start_button">Начало</string>
-  <string name="sw_stop_button">Стоп</string>
-  <string name="sw_lap_button">Круг</string>
-  <string name="sw_reset_button">Сброс</string>
-  <string name="sw_share_button">Поделиться</string>
-  <string name="hours_label">час</string>
-  <string name="minutes_label">М</string>
-  <string name="seconds_label">С</string>
-  <string name="hours_label_description">Часы работы</string>
-  <string name="minutes_label_description">Минуты</string>
-  <string name="seconds_label_description">Секунды</string>
-  <string name="zero">0</string>
-  <string name="sw_share_main">Мое время%s</string>
-  <string name="sw_share_laps">Время круга:</string>
-  <string name="sw_notification_lap_number">Круг%d</string>
-  <string name="timer_add_timer">Добавить таймер</string>
-  <string name="timer_start">Начало</string>
-  <string name="timer_delete">Удалить</string>
-  <string name="timer_plus_one">Добавить 1 минута</string>
-  <string name="timer_plus_1_min">Добавить 1 мин.</string>
-  <string name="timer_stop">Стоп</string>
-  <string name="timer_done">Готово</string>
-  <string name="timer_reset">Сброс</string>
-  <string name="timer_cancel">Отмена</string>
-  <string name="timer_times_up">"Время вышло"</string>
-  <string name="timer_notification_label">Таймер</string>
-  <string name="home_label">Главная</string>
-  <string name="cities_activity_title">Города</string>
-  <string name="clock_settings">ЧАСЫ</string>
-  <string name="clock_style">Стиль</string>
-  <string name="automatic_home_clock">Автоматические домашние часы</string>
-  <string name="automatic_home_clock_summary">Во время путешествия в районе, где время отличается, добавьте часы для дома</string>
-  <string name="home_time_zone">Часовой пояс</string>
-  <string name="home_time_zone_title">Часовой пояс</string>
-  <string name="time_picker_cancel">Отмена</string>
-  <string name="time_picker_set">ОК</string>
-  <string name="time_picker_time_seperator">:</string>
-  <string name="time_picker_ampm_label">-</string>
-  <string name="time_picker_00_label">: 00</string>
-  <string name="time_picker_30_label">: 30</string>
-  <string name="alarm_settings">ТРЕВОГИ</string>
-  <string name="see_all">Увидеть все…</string>
-  <string name="desk_clock_help_url" />
-  <string name="stopwatch_service_desc">Служба секундомера для запуска уведомления.</string>
-  <string name="swn_stopped">Остановлен</string>
-  <string name="description_direction_right">Сдвиньте вправо, чтобы закрыть</string>
-  <string name="description_direction_left">Слайд влево, чтобы отложить</string>
-  <string name="description_direction_up">Сдвиньте вверх, чтобы закрыть</string>
-  <string name="description_direction_down">Сдвиньте вниз, чтобы отложить</string>
-  <string name="timer_stopped">Таймер остановлен</string>
-  <string name="timers_stopped">Таймеры%d остановлены</string>
-  <string name="all_timers_stopped_notif">Нажмите, чтобы увидеть свои таймеры</string>
-  <string name="timers_in_use">Таймеры%d</string>
-  <string name="next_timer_notif">Следующий таймер:%s</string>
-  <string name="screensaver_settings">Настройки Dream</string>
-  <string name="night_mode_title">Ночной режим</string>
-  <string name="night_mode_summary">Очень тусклый дисплей (для темных помещений)</string>
-  <string name="expand_alarm">Развернуть будильник</string>
-  <string name="collapse_alarm">Сбросить будильник</string>
-  <string name="alarm_undo">Отменить</string>
-  <string name="alarm_deleted">Тревога удалена.</string>
-  <string name="slash">/</string>
-  <string name="world_day_of_week_label">/%s</string>
-  <string name="next_alarm_description">Следующий сигнал:%s</string>
-  <string name="label_unlabeled" />
-  <string name="alarms_selected">Выбрано%d</string>
-  <string name="deleted_message">Удалено</string>
-  <string name="timer_delete_confirmation">Удалить этот таймер?</string>
-  <string name="city_delete_confirmation">Удалить этот город?</string>
-  <string name="digital_gadget">Цифровые часы</string>
-  <string name="clock_24_hours_format">Kk: мм</string>
-  <string name="main_widget_12_hours_format">Ч: мм</string>
-  <string name="wc_widget_12_hours_format">Ч: мм a</string>
-  <string name="main_clock_12_hours_format">Ч: мм a</string>
-  <string name="world_clock_12_hours_format">Ч: мм a</string>
-  <string name="alarm_time_12_hours_format">Ч: мм a</string>
-  <string name="no_alarms">Нет предупреждений</string>
-  <string name="no_upcoming_alarms">НЕТ ПРЕДПОЛАГАЕМЫХ СИГНАЛОВ</string>
-  <string name="capital_on">НА</string>
-  <string name="capital_off">ВЫКЛ</string>
-  <string name="confirm">Подтвердить</string>
-  <string name="cancel">Отмена</string>
-  <string name="plus_symbol">+</string>
-  <string name="no_alarm">Пожалуйста, добавьте будильник</string>
-  <string name="alarm_add">Добавить будильник</string>
-  <string name="alarm_edit">Изменить будильник</string>
-  <string name="edit_label">Отмена</string>
-  <string name="label_confirm">Подтвердить</string>
-  <string name="repeat">Повторение</string>
-  <string name="repeat_no">Нет повторения</string>
-  <string name="user_defined">Определяемые пользователем</string>
-  <string name="weekday">День недели</string>
-  <string name="weekday_description">(С понедельника по пятницу)</string>
-  <string name="everyday">Каждый день</string>
-  <string name="Monday">Пн.</string>
-  <string name="Tuesday">Вт.</string>
-  <string name="Wednesday">Мы б.</string>
-  <string name="Thursday">Тейр.</string>
-  <string name="Friday">Пт.</string>
-  <string name="Saturday">Сидел.</string>
-  <string name="Sunday">Солнце.</string>
-  <string name="number_of_alarms_selected">"%s выбрано"</string>
-  <string name="today">Cегодня</string>
-  <string name="tomorrow">Завтра</string>
-  <string name="day_after_tomorrow">Послезавтра</string>
-  <string name="delete_selected_alarm">Удалить выбранный сигнал?</string>
-  <string name="close">Закрыть</string>
-  <string name="snooze_hint">Произвольное скольжение в течение 5 минут</string>
-  <string name="get_up">вставай</string>
-  <string name="local">Местный</string>
-  <string name="am">Am</string>
-  <string name="pm">вечера</string>
-  <string name="yesterday">вчера</string>
-  <string name="number_of_cities_selected">"%s выбрано"</string>
-  <string name="search">Поиск</string>
-  <string name="no_search_results">Нет Результатов Поиска</string>
-  <string name="delete_worldclock">Удалить</string>
-  <string name="keep_screen_on">Экран включен</string>
-  <string name="known">Я знал</string>
-  <string name="time_up">Время вышло</string>
-  <string name="timer_continue">Продолжать</string>
-  <string name="cancel_timer_ringtone">Мелодия канна</string>
-  <string name="timer_event">мероприятие</string>
-  <string name="stopwatch_start">Начало</string>
-  <string name="stopwatch_continue">Продолжать</string>
-  <string name="stopwatch_reset">Сброс</string>
-  <string name="stopwatch_stop">Стоп</string>
-  <string name="stopwatch_count">Подсчет</string>
-  <string name="dialog_data_tip_title">Указатель потока данных</string>
-  <string name="dialog_data_tip_content">Часы должны подключаться к сети, службе нужно потреблять небольшой поток данных, следует ли продолжать использовать?</string>
-  <string name="dialog_data_tip_again">Больше не запрашивать</string>
-  <string name="dialog_exit">Выход</string>
-  <string name="dialog_continue">Продолжать</string>
-  <string name="getup">Вставай</string>
-  <string name="beautify_sleep">Спать</string>
-  <string name="beautify_mask">Маска</string>
-  <string name="custom_label">Настраиваемая метка</string>
-  <string name="face_mask">Лицо</string>
-  <string name="hair_mask">Волосы</string>
-  <string name="yoga">Йога</string>
-  <string name="midday_reset">Сброс</string>
-  <string name="alarmclock">Аварийная сигнализация</string>
-  <string name="worldclock">Часы</string>
-  <string name="timerclock">Таймер</string>
-  <string name="stopwatchclock">Секундомер</string>
-  <string name="duplicate_city">Добавить выход из города!</string>
-  <item type="string" name="circle_radius_multiplier">0.82</item>
-  <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
-  <item type="string" name="selection_radius_multiplier">0.16</item>
-  <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
-  <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
-  <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
-  <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
-  <item type="string" name="text_size_multiplier_normal">0.17</item>
-  <item type="string" name="text_size_multiplier_inner">0.14</item>
-  <item type="string" name="text_size_multiplier_outer">0.11</item>
-  <string name="done_label">Готово</string>
-  <string name="hour_picker_description">Часы круглые слайдеры</string>
-  <string name="minute_picker_description">Минутный круглый слайдер</string>
-  <string name="select_hours">Выбрать часы</string>
-  <string name="select_minutes">Выбрать минуты</string>
-  <string name="day_picker_description">Месяц дней в месяцах</string>
-  <string name="year_picker_description">Список лет</string>
-  <string name="select_day">Выберите месяц и день</string>
-  <string name="select_year">Выберите год</string>
-  <string name="item_is_selected">Выбрано: %1$s</string>
-  <string name="deleted_key"> %1$s удалено</string>
-  <string name="time_placeholder">-</string>
-  <string name="time_separator">:</string>
-  <string name="radial_numbers_typeface">без засечек</string>
-  <string name="sans_serif">без засечек</string>
-  <string name="day_of_week_label_typeface">без засечек</string>
-  <item type="string" name="APKTOOL_DUMMY_3">false</item>
-  <item type="string" name="APKTOOL_DUMMY_4">false</item>
-  <item type="string" name="APKTOOL_DUMMY_5">false</item>
-  <item type="string" name="APKTOOL_DUMMY_6">false</item>
-  <item type="string" name="APKTOOL_DUMMY_7">false</item>
-  <item type="string" name="APKTOOL_DUMMY_8">false</item>
-  <item type="string" name="APKTOOL_DUMMY_f2">false</item>
-  <item type="string" name="APKTOOL_DUMMY_f3">false</item>
-  <item type="string" name="APKTOOL_DUMMY_f4">false</item>
-  <item type="string" name="APKTOOL_DUMMY_f5">false</item>
-  <item type="string" name="APKTOOL_DUMMY_f6">false</item>
-  <item type="string" name="APKTOOL_DUMMY_f7">false</item>
-  <item type="string" name="APKTOOL_DUMMY_f8">false</item>
-  <item type="string" name="APKTOOL_DUMMY_f9">false</item>
-  <item type="string" name="APKTOOL_DUMMY_fa">false</item>
-  <item type="string" name="APKTOOL_DUMMY_fb">false</item>
+    <string name="abbrev_wday_month_day_no_year">EEEMMMMd</string>
+    <string name="full_wday_month_day_no_year">EEEEMMMMd</string>
+    <string name="default_clock_style">Цифровой</string>
+    <string name="app_label">Часы</string>
+    <string name="alarm_list_title">Аварийная сигнализация</string>
+    <string name="add_alarm">Добавить будильник</string>
+    <string name="alarm_timeline_title_text">СЛЕДУЮЩИЕ СИГНАЛЫ</string>
+    <string name="menu_desk_clock">Настольные часы</string>
+    <string name="menu_edit_alarm">Изменить будильник</string>
+    <string name="delete_alarm">Удалить будильник</string>
+    <string name="enable_alarm">Включить будильник</string>
+    <string name="disable_alarm">Выключить будильник</string>
+    <string name="delete_alarm_confirm">Удалить этот сигнал?</string>
+    <string name="show_clock">Показать часы</string>
+    <string name="hide_clock">Скрыть часы</string>
+    <string name="label">метка</string>
+    <string name="default_label">Аварийная сигнализация</string>
+    <string name="set_alarm">Установить будильник</string>
+    <string name="alarm_vibrate">Вибрировать</string>
+    <string name="alarm_repeat">Повторение</string>
+    <string name="alert">Сигнал будильника</string>
+    <string name="ringtone">Рингтон</string>
+    <string name="time">Время</string>
+    <string name="alarm_alert_dismiss_text">Отклонить</string>
+    <string name="alarm_alert_dismiss_now_text">Закрыть сейчас</string>
+    <string name="alarm_missed_title">Пропущенная тревога</string>
+    <string name="alarm_missed_text" formatted="false">%s - %s</string>
+    <string name="alarm_alert_snooze_text">Отложить</string>
+    <string name="alarm_alert_snooze_until">Отсрочка до %s</string>
+    <string name="alarm_alert_predismiss_title">Ожидаемый сигнал тревоги</string>
+    <string name="missed_alarm_has_been_deleted">Ваш пропущенный сигнал был удален</string>
+    <string name="day">1 день</string>
+    <string name="days">%s дн.</string>
+    <string name="hour">1 час</string>
+    <string name="hours">%s ч.</string>
+    <string name="minute">1 минута</string>
+    <string name="minutes">%s мин.</string>
+    <string name="every_day">Каждый день</string>
+    <string name="never">Никогда</string>
+    <string name="day_concat">«,</string>
+    <string name="clock_instructions">Выберите часы</string>
+    <string name="analog_gadget">Аналоговые часы</string>
+    <string name="help">Помогите</string>
+    <string name="settings">Настройки</string>
+    <string name="snooze_duration_title">Длительность повтора</string>
+    <string name="auto_silence_title">Молчание после</string>
+    <string name="auto_silence_summary">%d мин.</string>
+    <string name="auto_silence_never">Никогда</string>
+    <string name="done">Готово</string>
+    <string name="revert">Отменить</string>
+    <string name="delete">Удалить</string>
+    <string name="alarm_volume_title">Громкость будильника</string>
+    <string name="silent_alarm_summary">Беззвучный режим</string>
+    <string name="alarm_notify_text">Отложить или отключить будильник.</string>
+    <string name="alarm_notify_snooze_label">%s (отложен)</string>
+    <string name="alarm_notify_snooze_text">Будильник установлен для %s Нажмите, чтобы отменить.</string>
+    <string name="volume_button_setting_title">Кнопки регулировки громкости</string>
+    <string name="volume_button_dialog_title">Эффект кнопки</string>
+    <string name="default_ringtone_setting_title">Рингтон</string>
+    <string name="alarm_button_description">Сигналы тревоги</string>
+    <string name="gallery_button_description">Галерея</string>
+    <string name="music_button_description">Музыка</string>
+    <string name="nightmode_button_description">Тусклый</string>
+    <string name="home_button_description">Пусковая установка</string>
+    <string name="desk_clock_button_description">Дисплей часов</string>
+    <string name="label_description">метка</string>
+    <string name="ringtone_description">Рингтон</string>
+    <string name="battery_charging_level">%d %%</string>
+    <string name="weather_fetch_failure">«Погода сейчас недоступна».</string>
+    <string name="alarm_klaxon_service_desc">Служба воспроизведения звука для сигналов тревоги, установленных в часах.</string>
+    <string name="loading_ringtone">Загрузка мелодии... |</string>
+    <string name="timer_ring_service_desc">Воспроизведение звука для таймеров, установленных в Clock.</string>
+    <string name="control_set_alarm">Установить будильник</string>
+    <string name="control_set_alarm_with_existing">%s</string>
+    <string name="menu_alarm">Аварийная сигнализация</string>
+    <string name="menu_timer">Таймер</string>
+    <string name="menu_clock">Часы</string>
+    <string name="menu_stopwatch">Секундомер</string>
+    <string name="button_alarms">Сигналы тревоги</string>
+    <string name="button_cities">Города</string>
+    <string name="button_menu">Больше вариантов</string>
+    <string name="menu_item_settings">Настройки</string>
+    <string name="menu_item_help">Помогите</string>
+    <string name="menu_item_night_mode">Ночной режим</string>
+    <string name="menu_item_sort_by_gmt_offset">Сортировать по времени</string>
+    <string name="menu_item_sort_by_name">Сортировать по имени</string>
+    <string name="selected_cities_label">Избранные города</string>
+    <string name="sw_resume_button">Продолжить</string>
+    <string name="sw_start_button">Начало</string>
+    <string name="sw_stop_button">Стоп</string>
+    <string name="sw_lap_button">Круг</string>
+    <string name="sw_reset_button">Сброс</string>
+    <string name="sw_share_button">Поделиться</string>
+    <string name="hours_label">час</string>
+    <string name="minutes_label">М</string>
+    <string name="seconds_label">С</string>
+    <string name="hours_label_description">Часы работы</string>
+    <string name="minutes_label_description">Минуты</string>
+    <string name="seconds_label_description">Секунды</string>
+    <string name="zero">0</string>
+    <string name="sw_share_main">Мое время %s</string>
+    <string name="sw_share_laps">Время круга:</string>
+    <string name="sw_notification_lap_number">Круг %d</string>
+    <string name="timer_add_timer">Добавить таймер</string>
+    <string name="timer_start">Начало</string>
+    <string name="timer_delete">Удалить</string>
+    <string name="timer_plus_one">Добавить 1 минута</string>
+    <string name="timer_plus_1_min">Добавить 1 мин.</string>
+    <string name="timer_stop">Стоп</string>
+    <string name="timer_done">Готово</string>
+    <string name="timer_reset">Сброс</string>
+    <string name="timer_cancel">Отмена</string>
+    <string name="timer_times_up">"Время вышло"</string>
+    <string name="timer_notification_label">Таймер</string>
+    <string name="home_label">Главная</string>
+    <string name="cities_activity_title">Города</string>
+    <string name="clock_settings">ЧАСЫ</string>
+    <string name="clock_style">Стиль</string>
+    <string name="automatic_home_clock">Автоматические домашние часы</string>
+    <string name="automatic_home_clock_summary">Во время путешествия в районе, где время отличается, добавьте часы для дома</string>
+    <string name="home_time_zone">Часовой пояс</string>
+    <string name="home_time_zone_title">Часовой пояс</string>
+    <string name="time_picker_cancel">Отмена</string>
+    <string name="time_picker_set">ОК</string>
+    <string name="time_picker_time_seperator">:</string>
+    <string name="time_picker_ampm_label">-</string>
+    <string name="time_picker_00_label">: 00</string>
+    <string name="time_picker_30_label">: 30</string>
+    <string name="alarm_settings">ТРЕВОГИ</string>
+    <string name="see_all">Посмотреть allâ € |</string>
+    <string name="desk_clock_help_url" />
+    <string name="stopwatch_service_desc">Служба секундомера для запуска уведомления.</string>
+    <string name="swn_stopped">Остановлен</string>
+    <string name="description_direction_right">Сдвиньте вправо, чтобы закрыть</string>
+    <string name="description_direction_left">Слайд влево, чтобы отложить</string>
+    <string name="description_direction_up">Сдвиньте вверх, чтобы закрыть</string>
+    <string name="description_direction_down">Сдвиньте вниз, чтобы отложить</string>
+    <string name="timer_stopped">Таймер остановлен</string>
+    <string name="timers_stopped">Таймеры %d остановлены</string>
+    <string name="all_timers_stopped_notif">Нажмите, чтобы увидеть свои таймеры</string>
+    <string name="timers_in_use">Таймеры %d</string>
+    <string name="next_timer_notif">Следующий таймер: %s</string>
+    <string name="screensaver_settings">Настройки Dream</string>
+    <string name="night_mode_title">Ночной режим</string>
+    <string name="night_mode_summary">Очень тусклый дисплей (для темных помещений)</string>
+    <string name="expand_alarm">Развернуть будильник</string>
+    <string name="collapse_alarm">Сбросить будильник</string>
+    <string name="alarm_undo">Отменить</string>
+    <string name="alarm_deleted">Тревога удалена.</string>
+    <string name="slash">/</string>
+    <string name="world_day_of_week_label">/ %s</string>
+    <string name="next_alarm_description">Следующий сигнал: %s</string>
+    <string name="label_unlabeled" />
+    <string name="alarms_selected">Выбрано %d</string>
+    <string name="deleted_message">Удалено</string>
+    <string name="timer_delete_confirmation">Удалить этот таймер?</string>
+    <string name="city_delete_confirmation">Удалить этот город?</string>
+    <string name="digital_gadget">Цифровые часы</string>
+    <string name="clock_24_hours_format">Kk: мм</string>
+    <string name="main_widget_12_hours_format">Ч: мм</string>
+    <string name="wc_widget_12_hours_format">Ч: мм<font size="14" face="sans-serif-condensed"><b>a</b></font></string>
+    <string name="main_clock_12_hours_format">Ч: мм<font size="16" face="sans-serif-condensed"><b>a</b></font></string>
+    <string name="world_clock_12_hours_format">Ч: мм<font size="14" face="sans-serif-condensed"><b>a</b></font></string>
+    <string name="alarm_time_12_hours_format">Ч: мм<font size="14" face="sans-serif-condensed"><b>a</b></font></string>
+    <string name="no_alarms">Нет предупреждений</string>
+    <string name="no_upcoming_alarms">НЕТ ПРЕДПОЛАГАЕМЫХ СИГНАЛОВ</string>
+    <string name="capital_on">НА</string>
+    <string name="capital_off">ВЫКЛ</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="cancel">Отмена</string>
+    <string name="plus_symbol">+</string>
+    <string name="no_alarm">Пожалуйста, добавьте будильник</string>
+    <string name="alarm_add">Добавить будильник</string>
+    <string name="alarm_edit">Изменить будильник</string>
+    <string name="edit_label">Отмена</string>
+    <string name="label_confirm">Подтвердить</string>
+    <string name="repeat">Повторение</string>
+    <string name="repeat_no">Нет повторения</string>
+    <string name="user_defined">Определяемые пользователем</string>
+    <string name="weekday">День недели</string>
+    <string name="weekday_description">(С понедельника по пятницу)</string>
+    <string name="everyday">Каждый день</string>
+    <string name="Monday">Пн.</string>
+    <string name="Tuesday">Вт.</string>
+    <string name="Wednesday">Мы б.</string>
+    <string name="Thursday">Тейр.</string>
+    <string name="Friday">Пт.</string>
+    <string name="Saturday">Сидел.</string>
+    <string name="Sunday">Солнце.</string>
+    <string name="number_of_alarms_selected">" %s выбрано"</string>
+    <string name="today">Cегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="day_after_tomorrow">Послезавтра</string>
+    <string name="delete_selected_alarm">Удалить выбранный сигнал?</string>
+    <string name="close">Закрыть</string>
+    <string name="snooze_hint">Произвольное скольжение в течение 5 минут</string>
+    <string name="get_up">вставай</string>
+    <string name="local">Местный</string>
+    <string name="am">Am</string>
+    <string name="pm">вечера</string>
+    <string name="yesterday">вчера</string>
+    <string name="number_of_cities_selected">" %s выбрано"</string>
+    <string name="search">Поиск</string>
+    <string name="no_search_results">Нет Результатов Поиска</string>
+    <string name="delete_worldclock">Удалить</string>
+    <string name="keep_screen_on">Экран включен</string>
+    <string name="known">Я знал</string>
+    <string name="time_up">Время вышло</string>
+    <string name="timer_continue">Продолжать</string>
+    <string name="cancel_timer_ringtone">Мелодия канна</string>
+    <string name="timer_event">мероприятие</string>
+    <string name="stopwatch_start">Начало</string>
+    <string name="stopwatch_continue">Продолжать</string>
+    <string name="stopwatch_reset">Сброс</string>
+    <string name="stopwatch_stop">Стоп</string>
+    <string name="stopwatch_count">Подсчет</string>
+    <string name="dialog_data_tip_title">Указатель потока данных</string>
+    <string name="dialog_data_tip_content">Часы должны подключаться к сети, службе нужно потреблять небольшой поток данных, следует ли продолжать использовать?</string>
+    <string name="dialog_data_tip_again">Больше не запрашивать</string>
+    <string name="dialog_exit">Выход</string>
+    <string name="dialog_continue">Продолжать</string>
+    <string name="getup">Вставай</string>
+    <string name="beautify_sleep">Спать</string>
+    <string name="beautify_mask">Маска</string>
+    <string name="custom_label">Настраиваемая метка</string>
+    <string name="face_mask">Лицо</string>
+    <string name="hair_mask">Волосы</string>
+    <string name="yoga">Йога</string>
+    <string name="midday_reset">Сброс</string>
+    <string name="alarmclock">Аварийная сигнализация</string>
+    <string name="worldclock">Часы</string>
+    <string name="timerclock">Таймер</string>
+    <string name="stopwatchclock">Секундомер</string>
+    <string name="duplicate_city">Добавить выход из города!</string>
+    <item type="string" name="circle_radius_multiplier">0.82</item>
+    <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
+    <item type="string" name="selection_radius_multiplier">0.16</item>
+    <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
+    <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
+    <item type="string" name="text_size_multiplier_normal">0.17</item>
+    <item type="string" name="text_size_multiplier_inner">0.14</item>
+    <item type="string" name="text_size_multiplier_outer">0.11</item>
+    <string name="done_label">Готово</string>
+    <string name="hour_picker_description">Часы круглые слайдеры</string>
+    <string name="minute_picker_description">Минутный круглый слайдер</string>
+    <string name="select_hours">Выбрать часы</string>
+    <string name="select_minutes">Выбрать минуты</string>
+    <string name="day_picker_description">Месяц дней в месяцах</string>
+    <string name="year_picker_description">Список лет</string>
+    <string name="select_day">Выберите месяц и день</string>
+    <string name="select_year">Выберите год</string>
+    <string name="item_is_selected">Выбрано: %1$s</string>
+    <string name="deleted_key">Удалено: %1$s</string>
+    <string name="time_placeholder">-</string>
+    <string name="time_separator">:</string>
+    <string name="radial_numbers_typeface">без засечек</string>
+    <string name="sans_serif">без засечек</string>
+    <string name="day_of_week_label_typeface">без засечек</string>
+    <item type="string" name="APKTOOL_DUMMY_3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_fb">false</item>
 </resources>
+

@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
-  <string name="dialog_title">Срок действия пробной версии Clean Master SDK истек</string>
-  <string name="dialog_content">Срок действия пробной версии Clean Master SDK в течение 30 дней истек. </string>
-  <string name="ok">ОК</string>
-  <string name="notify_bar_down">Нажмите, чтобы загрузить оригинальный мастер очистки</string>
-  <string name="notify_bar_success">Мастер очистки успешно загружен, нажмите, чтобы установить</string>
-  <string name="notify_bar_failure">Не удалось загрузить Clean Master</string>
-  <string name="notify_title">Уборщик</string>
-  <string name="notify_success">Загрузка успешно завершена, нажмите, чтобы установить.</string>
-  <string name="notify_failure">Ошибка загрузки, ошибка данных или сбой сетевого подключения</string>
-  <string name="notify_title_down">Загрузка ... %1$s %%</string>
+    <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+    <string name="dialog_title">Срок действия пробной версии Clean Master SDK истек</string>
+    <string name="dialog_content">Срок действия пробной версии Clean Master SDK в течение 30 дней истек. Пожалуйста, свяжитесь с Cheetah Mobile Inc. Спасибо.</string>
+    <string name="ok">ОК</string>
+    <string name="notify_bar_down">Нажмите, чтобы загрузить оригинальный мастер очистки</string>
+    <string name="notify_bar_success">Мастер очистки успешно загружен, нажмите, чтобы установить</string>
+    <string name="notify_bar_failure">Не удалось загрузить Clean Master</string>
+    <string name="notify_title">Уборщик</string>
+    <string name="notify_success">Загрузка успешно завершена, нажмите, чтобы установить.</string>
+    <string name="notify_failure">Ошибка загрузки, ошибка данных или сбой сетевого подключения</string>
+    <string name="notify_title_down">Загрузка... %1$s %%</string>
 </resources>
+

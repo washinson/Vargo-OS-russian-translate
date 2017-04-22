@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на главную страницу</string>
+    <string name="abc_action_bar_up_description">Перемещение вверх</string>
+    <string name="abc_action_menu_overflow_description">Больше вариантов</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Увидеть все</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_searchview_description_clear">Очистить запрос</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_search_hint">Поиск... |</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="accept">ÆŽ ¥ å -</string>
+    <string name="accept_from">Æ ¥ è ‡ ª %1$sçš "å¯¹è®²é, € è¯ ·</string>
+    <string name="action_settings">Настройки</string>
+    <string name="app_name">VTalkie</string>
+    <string name="appbar_scrolling_view_behavior">Android.support.design.widget.AppBarLayout $ ScrollingViewBehavior</string>
+    <string name="cancel">Å -æ</string>
+    <string name="delete">Å é ™ ¤</string>
+    <string name="destroy">È§ £ æ • £</string>
+    <string name="destroy_warning">È§ £ æ • £ å Žï¼Œè¯ ¥ å¯¹è®²ç »« å ° † è ¢ «å é ™ ¤</string>
+    <string name="detail">È¯|æƒ...</string>
+    <string name="detail_title">%1$så 'èμ · å¯¹è®² (% 2 $ d)</string>
+    <string name="get_mic_failed">Å½ "å ‰ æœ ‰ äººæ £ å¨¨¯¯è¯ ï¼Œè¯ · ç¨ å Žå † è¯ •</string>
+    <string name="group_owner_exit_title">«Предыдущая страница | Следующая страница» Следующая страница »</string>
+    <string name="ok">Ç¡®å®š</string>
+    <string name="open_memeber_phone_number">Å... ¬å¼ € æ å'~å · ç</string>
+    <string name="quit">É €€ å ‡ º</string>
+    <string name="refuse">Æ <'ç »</string>
+    <string name="someone_speaking">%1$sæ £ åœ¨è¯'è¯</string>
+    <string name="speaking">È¯'è¯ ä¸â € |</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="talk_from_who">%1$så 'èμ · çš' å¯¹è®²</string>
+    <string name="talk_member_count">Äººæ • °: %1$s / %2$s</string>
+    <string name="talklist">Å¯¹è®²å-è¡¨</string>
+    <string name="title_activity_talk">TalkActivity</string>
+</resources>
+

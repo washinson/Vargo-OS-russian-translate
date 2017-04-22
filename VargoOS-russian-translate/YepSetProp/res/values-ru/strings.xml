@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="set_adb_prop_display">\ #### 8989 #</string>
+    <string name="set_aplog_code">\ #### 7878 #</string>
+    <string name="set_qxdmlog_code">\ #### 8787 #</string>
+    <string name="set_usb_sn_code">\ #### 8789 #</string>
+    <string name="app_name">Настройки свойств</string>
+    <string name="activity_name">Задать свойства</string>
+    <string name="activity_enabled">включить</string>
+    <string name="activity_disabled">Отключить</string>
+    <string name="activity_pass_name">Успешный</string>
+    <string name="adb_enabled_msg">Настройка отладки ADB, вступает в силу после перезагрузки или снова подключить USB-кабель</string>
+    <string name="menu_settings">Меню</string>
+    <string name="log_activity_name">Настройка отображения журнала</string>
+    <string name="log_activity_enabled">включить</string>
+    <string name="log_activity_disabled">Отключить</string>
+    <string name="log_activity_pass_name">Успешный</string>
+    <string name="qxdmlog_activity_name">Сохранить журнал QXDM</string>
+    <string name="chinese_language_name">Включить китайский язык</string>
+    <string name="set_unique_sn_activity_name">Установить уникальный серийный номер USB</string>
+    <string name="open_factory_mode">Начать фабричный режим</string>
+    <string name="open_user_mode">Запуск пользовательского режима</string>
+    <string name="current_factory_mode">Msgstr "Текущий телефон до заводского режима!
+Чтобы изменить режим телефона, необходимо перезапустить его.
+Щелчок будет автоматически перезагружен после установки телефона!" </string>
+    <string name="current_user_mode">Msgstr "Текущий телефон в пользовательском режиме!
+Чтобы изменить режим телефона, необходимо перезапустить его.
+Щелчок будет автоматически перезагружен после установки телефона!" </string>
+    <string name="caveat_user_mode">Текущий телефон - это уже пользовательский режим!</string>
+    <string name="caveat_factory_mode">Текущий телефон уже является заводским!</string>
+    <string name="close_activity">Закрыть</string>
+    <string name="dump_enabled_msg">«Get AP Log будет включен.
+Если вы хотите получить журнал дампов, вставьте SD-карту и обеспечьте свободное место не менее 1 ГБ для хранения журнала аварийных дампов. "</string>
+    <string name="dump_disabled_msg">Журнал AP будет отключен.</string>
+</resources>
+

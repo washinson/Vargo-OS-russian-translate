@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="prompt">Запрос подключения</string>
-  <string name="warning">%s хочет установить VPN-соединение, которое позволяет ему контролировать сетевой трафик. </string>
-  <string name="legacy_title">VPN подключен</string>
-  <string name="configure">Настроить</string>
-  <string name="disconnect">Отключить</string>
-  <string name="session">Сессия:</string>
-  <string name="duration">Продолжительность:</string>
-  <string name="data_transmitted">Отправлено:</string>
-  <string name="data_received">Получено:</string>
-  <string name="data_value_format">Пакеты %1$s / %2$s</string>
-  <item type="string" name="APKTOOL_DUMMY_a">false</item>
+    <string name="prompt">Запрос подключения</string>
+    <string name="warning">%s хочет установить VPN-соединение, которое позволяет ему контролировать сетевой трафик. Принимайте только, если вы доверяете источнику. &Lt; br /> &lt; br /> &lt; img src = vpn_icon /> появляется в верхней части экрана, когда VPN активен.</string>
+    <string name="legacy_title">VPN подключен</string>
+    <string name="configure">Настроить</string>
+    <string name="disconnect">Отключить</string>
+    <string name="session">Сессия:</string>
+    <string name="duration">Продолжительность:</string>
+    <string name="data_transmitted">Отправлено:</string>
+    <string name="data_received">Получено:</string>
+    <string name="data_value_format">Пакеты %1$s / %2$s</string>
+    <item type="string" name="APKTOOL_DUMMY_a">false</item>
 </resources>
+

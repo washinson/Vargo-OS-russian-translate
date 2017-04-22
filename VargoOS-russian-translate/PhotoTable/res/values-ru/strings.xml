@@ -1,14 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Заставки для фотографий</string>
-  <string name="table_screensaver_name">Фото таблица</string>
-  <string name="flipper_screensaver_name">Фоторамка</string>
-  <string name="posts_album_name">Фотографии из сообщений</string>
-  <string name="unknown_album_name">Альбом «Без названия»</string>
-  <string name="stock_photo_album_name">Фотографии</string>
-  <string name="local_source_name">Фотографии на устройстве</string>
-  <string name="need_to_configure">Фотографии не выбраны.</string>
-  <string name="photodream_select_all">Выбрать все</string>
-  <string name="photodream_select_none">Убрать выделение со всего</string>
-  <string name="no_photos">На устройстве нет фотографий.</string>
+    <string name="app_name">Заставки для фотографий</string>
+    <string name="table_screensaver_name">Фото таблица</string>
+    <string name="flipper_screensaver_name">Фоторамка</string>
+    <string name="posts_album_name">Фотографии из сообщений</string>
+    <string name="unknown_album_name">Альбом «Без названия»</string>
+    <string name="stock_photo_album_name">Фотографии</string>
+    <string name="local_source_name">Фотографии на устройстве</string>
+    <string name="need_to_configure">Фотографии не выбраны.</string>
+    <string name="photodream_select_all">Выбрать все</string>
+    <string name="photodream_select_none">Убрать выделение со всего</string>
+    <string name="no_photos">На устройстве нет фотографий.</string>
 </resources>
+

@@ -1,34 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Установщик сертификатов</string>
-  <string name="pick_file_title">Выберите сертификат</string>
-  <string name="pkcs12_password_dialog_title">Извлечь сертификат</string>
-  <string name="extracting_pkcs12">Извлечение ...</string>
-  <string name="pkcs12_file_password_dialog_title">Выдержка из%s</string>
-  <string name="name_credential_dialog_title">Назовите сертификат</string>
-  <string name="credential_name">Название сертификата:</string>
-  <string name="credential_password">Введите пароль для извлечения сертификатов.</string>
-  <string name="credential_info">Пакет содержит:</string>
-  <string name="p12_description">Сертификаты в хранилище ключей PKCS12.</string>
-  <string name="one_userkey">Один ключ пользователя</string>
-  <string name="one_usercrt">Один сертификат пользователя</string>
-  <string name="one_cacrt">Один сертификат ЦС</string>
-  <string name="n_cacrts">%d сертификатов CA</string>
-  <string name="password_error">Введите правильный пароль.</string>
-  <string name="password_empty_error">Введите пароль.</string>
-  <string name="name_empty_error">Введите имя.</string>
-  <string name="name_char_error">Введите имя, которое содержит только буквы и цифры.</string>
-  <string name="storage_error">«Не удалось сохранить сертификат. Нажмите« ОК », чтобы повторить попытку».</string>
-  <string name="unable_to_save_cert">«Не удалось сохранить сертификат. Хранилище учетных данных не включено или не инициализировано должным образом».</string>
-  <string name="cert_not_saved">Сертификат не установлен.</string>
-  <string name="no_cert_to_saved">Нет сертификата для установки.</string>
-  <string name="invalid_cert">Сертификат недействителен.</string>
-  <string name="cert_is_added">Установлен%s.</string>
-  <string name="cert_too_large_error">«Не удалось установить, потому что размер сертификата слишком велик».</string>
-  <string name="cert_missing_error">«Не удалось установить, потому что не удалось найти файл сертификата».</string>
-  <string name="cert_read_error">«Не удалось установить, потому что файл сертификата не может быть прочитан».</string>
-  <string name="no_cert_file_found">На USB-накопителе не найден файл сертификата.</string>
-  <string name="sdcard_not_present">USB-накопитель недоступен.</string>
-  <string name="only_primary_user_allowed">Только владельцы этого устройства могут устанавливать сертификаты.</string>
-  <string name="credential_usage_label">Использование учетных данных:</string>
+    <string name="app_name">Установщик сертификатов</string>
+    <string name="pick_file_title">Выберите сертификат</string>
+    <string name="pkcs12_password_dialog_title">Извлечь сертификат</string>
+    <string name="extracting_pkcs12">Извлечение... |</string>
+    <string name="pkcs12_file_password_dialog_title">Выдержка из %s</string>
+    <string name="name_credential_dialog_title">Назовите сертификат</string>
+    <string name="credential_name">Название сертификата:</string>
+    <string name="credential_password">Введите пароль для извлечения сертификатов.</string>
+    <string name="credential_info">Пакет содержит:</string>
+    <string name="p12_description">Сертификаты в хранилище ключей PKCS12.</string>
+    <string name="one_userkey">Один ключ пользователя</string>
+    <string name="one_usercrt">Один сертификат пользователя</string>
+    <string name="one_cacrt">Один сертификат ЦС</string>
+    <string name="n_cacrts">%d сертификатов CA</string>
+    <string name="password_error">Введите правильный пароль.</string>
+    <string name="password_empty_error">Введите пароль.</string>
+    <string name="name_empty_error">Введите имя.</string>
+    <string name="name_char_error">Введите имя, которое содержит только буквы и цифры.</string>
+    <string name="storage_error">«Не удалось сохранить сертификат. Нажмите« ОК », чтобы повторить попытку».</string>
+    <string name="unable_to_save_cert">«Не удалось сохранить сертификат. Хранилище учетных данных не включено или не инициализировано должным образом».</string>
+    <string name="cert_not_saved">Сертификат не установлен.</string>
+    <string name="no_cert_to_saved">Нет сертификата для установки.</string>
+    <string name="invalid_cert">Сертификат недействителен.</string>
+    <string name="cert_is_added">Установлен %s</string>
+    <string name="cert_too_large_error">«Не удалось установить, потому что размер сертификата слишком велик».</string>
+    <string name="cert_missing_error">«Не удалось установить, потому что не удалось найти файл сертификата».</string>
+    <string name="cert_read_error">«Не удалось установить, потому что файл сертификата не может быть прочитан».</string>
+    <string name="no_cert_file_found">На USB-накопителе не найден файл сертификата.</string>
+    <string name="sdcard_not_present">USB-накопитель недоступен.</string>
+    <string name="only_primary_user_allowed">Только владельцы этого устройства могут устанавливать сертификаты.</string>
+    <string name="credential_usage_label">Использование учетных данных:</string>
 </resources>
+

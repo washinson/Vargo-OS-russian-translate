@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_action_bar_home_description">Перейти на главную страницу</string>
+    <string name="abc_action_bar_up_description">Перемещение вверх</string>
+    <string name="abc_action_menu_overflow_description">Больше вариантов</string>
+    <string name="abc_toolbar_collapse_description">Свернуть</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_clear">Очистить запрос</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abc_activity_chooser_view_see_all">Увидеть все</string>
+    <string name="abc_shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="abc_shareactionprovider_share_with">Поделиться</string>
+    <string name="cloudpush_version_value">2527</string>
+    <string name="permlab_downloadManager">Доступ к диспетчеру загрузки.</string>
+    <string name="permdesc_downloadManager">Позволяет приложению получать доступ к диспетчеру загрузки и использовать его для загрузки файлов. Вредоносные программы могут использовать эту возможность, чтобы прервать загрузку и получить доступ к конфиденциальной информации.</string>
+    <string name="permlab_downloadManagerAdvanced">Расширенные функции менеджера загрузок.</string>
+    <string name="permdesc_downloadManagerAdvanced">«Позволяет приложению получать доступ к расширенным функциям менеджера загрузок. Вредоносные приложения могут использовать это, чтобы нарушить загрузку и получить доступ к конфиденциальной информации».</string>
+    <string name="permlab_downloadCompletedIntent">Отправлять уведомления о загрузке.</string>
+    <string name="permdesc_downloadCompletedIntent">Позволяет приложению отправлять уведомления о завершенных загрузках. Вредоносные программы могут использовать это, чтобы ввести в заблуждение другие приложения, которые скачивают файлы.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Зарезервировать место в кеше загрузки</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Позволяет приложению загружать файлы в кеш загрузки, которые не могут быть автоматически удалены, когда менеджер загрузок требует больше места.</string>
+    <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам системы</string>
+    <string name="permdesc_accessAllDownloads">Позволяет приложению просматривать и изменять все, инициированные любым приложением в системе.</string>
+    <string name="download_unknown_title">&Lt; Без названия></string>
+    <string name="notification_filename_separator">«,</string>
+    <string name="notification_filename_extras">"И %d больше"</string>
+    <string name="notification_download_complete">Загрузка завершена</string>
+    <string name="notification_download_failed">Ошибка загрузки</string>
+    <string name="notification_need_wifi_for_size">Для загрузки требуется Wi-Fi</string>
+    <string name="wifi_required_title">Загрузка слишком велика для сети оператора</string>
+    <string name="wifi_required_body" formatted="false">Msgstr "Вы должны использовать WiFi, чтобы завершить загрузку %s
+
+Нажмите %s, чтобы начать загрузку при следующем подключении к сети Wi-Fi." </string>
+    <string name="wifi_recommended_title">Очередь для загрузки позже?</string>
+    <string name="wifi_recommended_body" formatted="false">«Запуск этой %s загрузки теперь может сократить время работы от батареи и / или привести к чрезмерному использованию вашего мобильного соединения для передачи данных, что может привести к расходам вашего мобильного оператора в зависимости от вашего тарифного плана.
+
+ Нажмите %s ниже, чтобы начать загрузку при следующем подключении к сети Wi-Fi. "</string>
+    <string name="button_queue_for_wifi">Очередь</string>
+    <string name="button_cancel_download">Отмена</string>
+    <string name="button_start_now">Начать сейчас</string>
+    <string name="app_name">Менеджер шрифтов</string>
+    <string name="author">Автор</string>
+    <string name="coooie">Coooie</string>
+    <string name="use">Использовать</string>
+    <string name="useing">С помощью</string>
+    <string name="download">Скачать</string>
+    <string name="downloading">Скачивание</string>
+    <string name="local">Местный</string>
+    <string name="online">В сети</string>
+    <string name="fonts">Шрифт</string>
+    <string name="file_isnot_exsits">Повреждение файлов</string>
+    <string name="no_storage">Вам необходимо вставить SD-карту.</string>
+    <string name="preparing_sd">Подготовка SD-карты... |</string>
+    <string name="delete_title">Внимание</string>
+    <string name="delete_massage">Подтвердить удаление?</string>
+    <string name="use_font_title">Незамедлительный</string>
+    <string name="use_font_massage">Использовать шрифт?</string>
+    <string name="list_item_text_reset">Восстановление системы по умолчанию</string>
+    <string name="not_exist">Файл не существует</string>
+    <string name="price">Priceï¼š</string>
+    <string name="pay_no_support">Ваш телефон не поддерживает эту функцию</string>
+    <string name="pay_ok">Успешный платеж</string>
+    <string name="pay_error">Платеж не прошел......</string>
+    <string name="default_font">По умолчанию</string>
+    <string name="update_dialog_title">Обновить</string>
+    <string name="update_dialog_massage">Будет ли обновление приложения</string>
+    <string name="free">Свободно</string>
+    <string name="loading">Загрузка € |</string>
+    <string name="list_view_use">ИСПОЛЬЗОВАНИЕ</string>
+    <string name="details">Детали</string>
+    <string name="maker">Makerï ¼šyiqi</string>
+    <string name="designer">Designerï ¼šyiqi</string>
+    <string name="font_version">Versionï¼š</string>
+    <string name="font_size">Sizeï¼š</string>
+    <string name="wait">Загружается...</string>
+    <string name="expectations_more">Извините, несколько шрифтов подряд на линии, пожалуйста, подождите</string>
+    <string name="check_network">Проверьте сетевое соединение</string>
+    <string name="buy">купить</string>
+    <string name="sdcard_is_mounted">SD-карта заполнена или удалена, повторите попытку позже.</string>
+    <string name="data_is_full">Система заполнена, очистите</string>
+    <string name="font_text">FINEOS Построить для вас</string>
+    <string name="watch">Я надеюсь, что земля плоская, поэтому я смотрю вниз, вы можете видеть.</string>
+    <string name="reboot">перезапуск</string>
+    <string name="new_version">новая версия!!!</string>
+</resources>
+

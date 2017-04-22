@@ -1,23 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">FineOS</string>
-  <string name="day">D</string>
-  <string name="month">M</string>
-  <string name="year">Y</string>
-  <string name="hour">ЧАС</string>
-  <string name="minute">M</string>
-  <string name="folder1">Система</string>
-  <string name="folder2">инструменты</string>
-  <string name="folder3">Игры</string>
-  <string name="folder4">Google</string>
-  <string name="folder5">Другие</string>
-  <string name="phone_brand">FineOS</string>
-  <string name="phone_sign">Как дела? </string>
-  <string name="fineostheme_channel_info">Иварго</string>
-  <string name="fineostheme_root_uri">Http://theme.fineos.cn:8080/fineos-theme-api</string>
-  <string name="fineostheme_otherchannel_info">Иварго</string>
-  <string name="permlab_accessThemeService">Позволяет получить доступ к службе диспетчера тем. </string>
-  <string name="permdesc_accessThemeService">Позволяет приложению устанавливать / сбрасывать темы. </string>
-  <string name="text_default">По умолчанию</string>
-  <string name="folder6">Системные инструменты</string>
+    <string name="app_name">FineOS</string>
+    <string name="day">D</string>
+    <string name="month">M</string>
+    <string name="year">Y</string>
+    <string name="hour">ЧАС</string>
+    <string name="minute">M</string>
+    <string name="folder1">Система</string>
+    <string name="folder2">инструменты</string>
+    <string name="folder3">Игры</string>
+    <string name="folder4">Google</string>
+    <string name="folder5">Другие</string>
+    <string name="phone_brand">FineOS</string>
+    <string name="phone_sign">Как дела? Я - это.</string>
+    <string name="fineostheme_channel_info">Иварго</string>
+    <string name="fineostheme_root_uri">Http://theme.fineos.cn:8080/fineos-theme-api</string>
+    <string name="fineostheme_otherchannel_info">Иварго</string>
+    <string name="permlab_accessThemeService">Позволяет получить доступ к службе диспетчера тем. Не для использования обычными приложениями.</string>
+    <string name="permdesc_accessThemeService">Позволяет приложению устанавливать / сбрасывать темы. Не для использования обычными приложениями.</string>
+    <string name="text_default">По умолчанию</string>
+    <string name="folder6">Системные инструменты</string>
 </resources>
+

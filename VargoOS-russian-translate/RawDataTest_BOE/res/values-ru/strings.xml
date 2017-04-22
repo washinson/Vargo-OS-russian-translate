@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RawDataTest</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="title_activity_main">Тест RawData</string>
+    <string name="red_settings_device_node">/ Dev / rmi0</string>
+    <string name="red_settings_device_enabled_node">/ Sys / android_touch / enabled</string>
+    <string name="red_settings_device_node_text">Узел устройства</string>
+    <string name="red_settings_device_enabled_node_text">Атрибут с включенным устройством</string>
+    <string name="red_settings_sysfs_enabled">ложный</string>
+    <string name="title_activity_f54">F54Активность</string>
+    <string name="start_button">Начало</string>
+    <string name="title_activity_blue_tooth">Тест BlueTooth</string>
+    <string name="action_settings">Настройки</string>
+    <string name="btn_start">Æ •'æœºTPæμ <è¯ •</string>
+    <string name="processing_msg">Æμ <è¯ • ä¸è¯ · å <¿è§|æ'¸TP</string>
+    <string name="pass_msg">É € šè¿ ‡</string>
+    <string name="fail_msg">Å¤ ± è'¥</string>
+    <string name="error_msg">È »» å -æμ <è¯ • æ • ° æ ®å¼,å¸¸</string>
+</resources>
+

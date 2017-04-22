@@ -1,48 +1,49 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_label">Документы</string>
-  <string name="title_open">Открыть с</string>
-  <string name="title_save">Сохранить</string>
-  <string name="menu_create_dir">Создать папку</string>
-  <string name="menu_grid">Вид сетки</string>
-  <string name="menu_list">Посмотреть список</string>
-  <string name="menu_sort">Сортировать по</string>
-  <string name="menu_search">Поиск</string>
-  <string name="menu_settings">Настройки</string>
-  <string name="menu_open">открыто</string>
-  <string name="menu_save">Сохранить</string>
-  <string name="menu_share">Поделиться</string>
-  <string name="menu_delete">Удалить</string>
-  <string name="menu_select">Выберите \"^1\"</string>
-  <string name="menu_advanced_show">Показать внутреннюю память</string>
-  <string name="menu_advanced_hide">Скрыть внутреннюю память</string>
-  <string name="menu_file_size_show">Показать размер файла</string>
-  <string name="menu_file_size_hide">Скрыть размер файла</string>
-  <string name="mode_selected_count">Выбрано%1$d</string>
-  <string name="sort_name">По имени</string>
-  <string name="sort_date">По дате изменения</string>
-  <string name="sort_size">По размеру</string>
-  <string name="drawer_open">Показать корни</string>
-  <string name="drawer_close">Скрыть корни</string>
-  <string name="save_error">Не удалось сохранить документ.</string>
-  <string name="create_error">Не удалось создать папку</string>
-  <string name="query_error">Ошибка запроса документов</string>
-  <string name="root_recent">Недавние</string>
-  <string name="root_available_bytes"> %1$s бесплатно</string>
-  <string name="root_type_service">Складские услуги</string>
-  <string name="root_type_shortcut">Горячие клавиши</string>
-  <string name="root_type_device">Устройства</string>
-  <string name="root_type_apps">Больше приложений</string>
-  <string name="empty">Нет товаров</string>
-  <string name="toast_no_application">«Не удается открыть файл»</string>
-  <string name="toast_failed_delete">Невозможно удалить некоторые документы</string>
-  <string name="share_via">Отправить по</string>
-  <string name="no_permission_for_drm">К сожалению, DRM-файл нельзя предоставить</string>
-  <string name="drm_license_info">Информация о лицензии Drm</string>
-  <string name="action_consumes_rights">Права на использование этого медиа будут использованы</string>
-  <string name="rights_expired">Срок действия прав на песню истек</string>
-  <string name="toast_not_show_thumbnail">Невозможно показать миниатюру на устройстве с низким уровнем заряда.</string>
-  <item type="string" name="APKTOOL_DUMMY_2a">false</item>
-  <item type="string" name="APKTOOL_DUMMY_2b">false</item>
-  <item type="string" name="APKTOOL_DUMMY_2c">false</item>
+    <string name="app_label">Документы</string>
+    <string name="title_open">Открыть с</string>
+    <string name="title_save">Сохранить</string>
+    <string name="menu_create_dir">Создать папку</string>
+    <string name="menu_grid">Вид сетки</string>
+    <string name="menu_list">Посмотреть список</string>
+    <string name="menu_sort">Сортировать по</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_open">открыто</string>
+    <string name="menu_save">Сохранить</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_select">Выберите \"^ 1 \"</string>
+    <string name="menu_advanced_show">Показать внутреннюю память</string>
+    <string name="menu_advanced_hide">Скрыть внутреннюю память</string>
+    <string name="menu_file_size_show">Показать размер файла</string>
+    <string name="menu_file_size_hide">Скрыть размер файла</string>
+    <string name="mode_selected_count">Выбрано% 1 $ d</string>
+    <string name="sort_name">По имени</string>
+    <string name="sort_date">По дате изменения</string>
+    <string name="sort_size">По размеру</string>
+    <string name="drawer_open">Показать корни</string>
+    <string name="drawer_close">Скрыть корни</string>
+    <string name="save_error">Не удалось сохранить документ.</string>
+    <string name="create_error">Не удалось создать папку</string>
+    <string name="query_error">Ошибка запроса документов</string>
+    <string name="root_recent">Недавние</string>
+    <string name="root_available_bytes">%1$s бесплатно</string>
+    <string name="root_type_service">Складские услуги</string>
+    <string name="root_type_shortcut">Горячие клавиши</string>
+    <string name="root_type_device">Устройства</string>
+    <string name="root_type_apps">Больше приложений</string>
+    <string name="empty">Нет товаров</string>
+    <string name="toast_no_application">«Не удается открыть файл»</string>
+    <string name="toast_failed_delete">Невозможно удалить некоторые документы</string>
+    <string name="share_via">Отправить по</string>
+    <string name="no_permission_for_drm">К сожалению, DRM-файл нельзя предоставить</string>
+    <string name="drm_license_info">Информация о лицензии Drm</string>
+    <string name="action_consumes_rights">Права на использование этого медиа будут использованы</string>
+    <string name="rights_expired">Срок действия прав на песню истек</string>
+    <string name="toast_not_show_thumbnail">Невозможно показать миниатюру на устройстве с низким уровнем заряда.</string>
+    <item type="string" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c">false</item>
 </resources>
+

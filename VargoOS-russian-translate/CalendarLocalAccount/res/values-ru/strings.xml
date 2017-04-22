@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">Календарная локальная учетная запись</string>
-  <string name="local_account_name">Местный</string>
+    <string name="app_name">Календарная локальная учетная запись</string>
+    <string name="local_account_name">Местный</string>
 </resources>
+
