@@ -2,26 +2,26 @@
 <resources>
     <string name="backup_confirm_title">Полное резервное копирование</string>
     <string name="restore_confirm_title">Полное восстановление</string>
-    <string name="backup_confirm_text">Запрошена полная резервная копия всех данных на подключенный настольный компьютер. Разрешить ли это?
+    <string name="backup_confirm_text">Получен запрос на передачу полной резервной копии всех данных на подключенный настольный компьютер. Разрешить?
 
-Если вы не запрашивали резервное копирование самостоятельно, не позволяйте операции продолжать. "</string>
+Если вы не запрашивали это самостоятельно, отклоните"</string>
     <string name="allow_backup_button_label">Резервное копирование данных</string>
     <string name="deny_backup_button_label">Не выполнять резервное копирование</string>
-    <string name="restore_confirm_text">Запрошено полное восстановление всех данных с подключенного настольного компьютера. Разрешить ли это?
+    <string name="restore_confirm_text">Получен запрос на полное восстановление всех данных с подключенного настольного компьютера. Разрешить?
 
-Если вы не запрашивали восстановление самостоятельно, не разрешайте этой операции. Это заменит любые данные, хранящиеся на устройстве! "</string>
+Если вы не запрашивали это самостоятельно, отклоните. Это заменит любые данные, хранящиеся на устройстве! "</string>
     <string name="allow_restore_button_label">Восстановить мои данные</string>
     <string name="deny_restore_button_label">Не восстанавливать</string>
     <string name="current_password_text">Введите текущий пароль для резервного копирования ниже:</string>
     <string name="device_encryption_restore_text">Введите ниже пароль для шифрования устройства.</string>
     <string name="device_encryption_backup_text">Введите ниже пароль для шифрования устройства. Это также будет использоваться для шифрования архива резервных копий.</string>
-    <string name="backup_enc_password_text">Введите пароль для шифрования полных данных резервного копирования. Если этот параметр не указан, используется текущий пароль резервного копирования:</string>
-    <string name="backup_enc_password_optional">Если вы хотите зашифровать полные данные резервного копирования, введите пароль ниже:</string>
+    <string name="backup_enc_password_text">Введите пароль для шифрования всех данных резервного копирования. Если этот параметр не указан, используется текущий пароль резервного копирования:</string>
+    <string name="backup_enc_password_optional">Если вы хотите зашифровать все данные резервного копирования, введите пароль ниже:</string>
     <string name="backup_enc_password_required">Поскольку ваше устройство зашифровано, вам необходимо зашифровать вашу резервную копию. Введите пароль ниже:</string>
     <string name="restore_enc_password_text">Если данные восстановления зашифрованы, введите ниже пароль:</string>
     <string name="toast_backup_started">Начало резервного копирования...</string>
     <string name="toast_backup_ended">Резервное копирование завершено</string>
-    <string name="toast_restore_started">Восстановить начало...</string>
+    <string name="toast_restore_started">Начало восстановления...</string>
     <string name="toast_restore_ended">Восстановление завершено</string>
     <string name="toast_timeout">Время ожидания истекло.</string>
 </resources>
