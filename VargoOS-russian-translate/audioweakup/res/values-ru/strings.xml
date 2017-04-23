@@ -2,74 +2,74 @@
 <resources>
     <string name="isPrintLog">1</string>
     <string name="app_name">AudioWeakUp</string>
-    <string name="app_package">Com.yep.audioweakup</string>
-    <string name="audio_weak_up">Голосовое оповещение</string>
-    <string name="setting">Настройка</string>
-    <string name="standard_words">Привет, Варго!</string>
+    <string name="app_package">com.yep.audioweakup</string>
+    <string name="audio_weak_up">Голосовое пробуждение</string>
+    <string name="setting">Настройки</string>
+    <string name="standard_words">"Hello, Vargo"</string>
     <string name="custom_words">Произвольные слова для пробуждения</string>
     <string name="recording_words">Ввод слов для пробуждения</string>
     <string name="language">Язык</string>
     <string name="others">Другие</string>
-    <string name="help">Помогите</string>
-    <string name="input_custom_words">Введите собственное имя</string>
-    <string name="say_hellow_vargo">Пожалуйста, скажите Привет, Варго! На свой телефон.</string>
-    <string name="hellow_vargo">Привет Варго</string>
+    <string name="help">Помощь</string>
+    <string name="input_custom_words">Введите ваше имя</string>
+    <string name="say_hellow_vargo">Пожалуйста, скажите "Hello, Vargo"</string>
+    <string name="hellow_vargo">"Hello, Vargo"</string>
     <string name="custom_record">Пользовательская речь</string>
-    <string name="error">ошибка</string>
+    <string name="error">Ошибка</string>
     <string name="warning">Предупреждение</string>
     <string name="okey">ОК</string>
     <string name="cancel">Отмена</string>
     <string name="exit">Выход</string>
     <string name="start_record">Начать запись</string>
     <string name="custom_instruct">Пожалуйста, введите ключевые слова вашей речи (желательно более 4 слов)</string>
-    <string name="pass_flag">Â-â-â-</string>
+    <string name="pass_flag">██</string>
     <string name="input_new_words">Введите новые ключевые слова</string>
     <string name="please_wait">Пожалуйста, подождите...</string>
-    <string name="successed">Успешно! Нажмите «Запись» и повторите попытку:</string>
-    <string name="talk_louder">Голос слишком слабый. Пожалуйста, говорите громче и нажмите, чтобы записать снова</string>
-    <string name="talk_later">Пожалуйста, сделайте паузу перед разговором и снова нажмите для записи</string>
+    <string name="successed">Успешно! Нажмите "Запись" и повторите попытку:</string>
+    <string name="talk_louder">Голос слишком слабый. Пожалуйста, говорите громче. Нажмите, чтобы записать снова</string>
+    <string name="talk_later">Пожалуйста, сделайте паузу перед разговором и снова нажмите кнопку записи</string>
     <string name="too_nosiy">Слишком шумно! Повторите попытку в тихом месте</string>
-    <string name="talk_softer">Пожалуйста, говорите медленно и нажмите, чтобы записать снова</string>
+    <string name="talk_softer">Пожалуйста, говорите медленно. Нажмите, чтобы записать снова</string>
     <string name="bad_recording">Запись не удалась! Пожалуйста, попробуйте еще раз</string>
-    <string name="talk_slower">Пожалуйста, поговорите slowerï¼Œ пожалуйста, попробуйте еще раз</string>
+    <string name="talk_slower">Пожалуйста, говорите медленней. Попробуйте еще раз</string>
     <string name="too_many_sound">Слишком много повторяющихся слов. Нажмите, чтобы снова записать</string>
     <string name="record_finished">Запись завершена!</string>
     <string name="record_faild">Ошибка! Три разных записи, попробуйте еще раз!</string>
     <string name="do_again">Начать снова</string>
-    <string name="parsing">Анализ и подождите минуту</string>
+    <string name="parsing">Анализ, подождите немного</string>
     <string name="finish">Завершено</string>
-    <string name="continue_button">Продолжать</string>
-    <string name="helping">Помогите</string>
-    <string name="helping_title1">«В чем заключается функция голосового оповещения?»</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="helping">Помощь</string>
+    <string name="helping_title1">"В чем заключается функция голосового оповещения?"</string>
     <string name="helping_title2">Как использовать голосовое оповещение?</string>
     <string name="helping_title3">Как правильно проснуться?</string>
     <string name="helping_title4">Примечания к гарнитуре</string>
-    <string name="helping_tips1">«Вы можете попробовать следующие действия через голосовое оповещение:
- Просыпайся от экрана, заходи в интерфейс Man-Machine, смотри погоду, слушай музыку, отправляй сообщение, звони и т. Д. "</string>
-    <string name="helping_tips2">По умолчанию скажите три раза Привет, Варго! В тихом месте, то первоначальный распознаватель устанавливается легко. Конечно, Vargo - это только имя по умолчанию, которое может быть изменено на любое.</string>
-    <string name="helping_tips3">«1. По умолчанию Vargo может быть распознан с большей точностью, чем другие имена. Таким образом, значение по умолчанию Hello, Vargois обычно предпочтительнее.
-.2 Запись должна выполняться в спокойной обстановке с нормальной скоростью и с сохранением интонации.
-.3 Запись и пробуждение должны осуществляться на расстоянии около 30 см от телефона ».</string>
-    <string name="helping_tips4">Как только гарнитура подсоединена, эта функция может быть пробуждена гарнитурой. Но голос принимается микрофоном внизу, а не гарнитурой. Таким образом, голос телефона не будет сильно затронут, кроме влияния на громкость ответа, независимо от того, доступна гарнитура или нет.</string>
+    <string name="helping_tips1">"Вы можете попробовать следующие действия через голосовое оповещение:
+ включить телефон, зайти в интерфейс Man-Machine, посмотреть погоду, послушать музыку, отправить сообщение, позвонить и т.д."</string>
+    <string name="helping_tips2">По умолчанию скажите три раза "Hello, Vargo" в тихом месте, первоначальный распознаватель установится легко. Конечно, Vargo - это только имя по умолчанию, которое может быть изменено на любое другое.</string>
+    <string name="helping_tips3">"1. По умолчанию Vargo может быть распознан с большей точностью, чем что-то другое. Таким образом, значение по умолчанию "Hello, Vargo" обычно предпочтительнее.
+.2 Запись должна выполняться в тихой обстановке с нормальной скоростью и с сохранением интонации.
+.3 Запись и пробуждение должны осуществляться на расстоянии около 30 см от телефона ".</string>
+    <string name="helping_tips4">Как только гарнитура будет подсоединена, функция сможет её использовать. Но голос будет приниматься микрофоном телефона, а не гарнитурой. Таким образом голос не изменится, независимо от того, подключена гарнитура или нет.</string>
     <string name="already_recorded">Уже записано:</string>
     <string name="saved_successful">Запись завершена!</string>
     <string name="recording_cancel">Запись отменена</string>
     <string name="record1">1/3</string>
     <string name="record2">2/3</string>
     <string name="record3">3/3</string>
-    <string name="please_say">Пожалуйста скажи:</string>
+    <string name="please_say">Пожалуйста, скажите:</string>
     <string name="most_input">Максимум 14 символов</string>
     <string name="tips1">Вызов и передача текстовых сообщений</string>
     <string name="tips2">Голосовой поиск и разблокировка телефона</string>
-    <string name="tips3">Запрос по погоде и запуск приложения</string>
-    <string name="recording_suggest">«Пожалуйста, сделайте запись в довольно
-30см от телефона "</string>
+    <string name="tips3">Запрос погоды и запуск приложения</string>
+    <string name="recording_suggest">"Пожалуйста, сделайте запись на расстоянии
+30см от телефона"</string>
     <string name="no_record_remind_title">Заметка:</string>
-    <string name="no_record_remind_message">Раньше вы не записывали ключевые слова, вы хотите записать сейчас? Нажмите ПРОДОЛЖИТЬ, чтобы сделать запись сейчас и ОТМЕНА, чтобы вернуться.</string>
-    <string name="builder_continue">ПРОДОЛЖАТЬ</string>
+    <string name="no_record_remind_message">Раньше вы не записывали ключевые слова, хотите записать сейчас? Нажмите ПРОДОЛЖИТЬ, чтобы сделать запись сейчас и ОТМЕНА, чтобы вернуться.</string>
+    <string name="builder_continue">ПРОДОЛЖИТЬ</string>
     <string name="builder_cancel">ОТМЕНА</string>
-    <string name="finishing">Закончите настройку, подождите...</string>
+    <string name="finishing">Настройка, подождите...</string>
     <string name="finishing_error">Извините, попробуйте еще раз</string>
-    <string name="low_score">Качество записи низкое, попробуйте еще раз!</string>
+    <string name="low_score">Низкое качество записи, попробуйте еще раз!</string>
 </resources>
 
