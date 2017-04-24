@@ -2,12 +2,12 @@
 <resources>
     <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки.</string>
     <string name="permdesc_bluetoothShareManager">Приложение сможет получить доступ к диспетчеру BluetoothShare и использовать его для передачи файлов.</string>
-    <string name="permlab_bluetoothWhitelist">Доступ к устройству Bluetooth для белого списка.</string>
+    <string name="permlab_bluetoothWhitelist">Доступ белого списка Bluetooth устройства.</string>
     <string name="permdesc_bluetoothWhitelist">Позволяет приложению временно добавлять белый список в устройство Bluetooth, позволяя этому устройству отправлять файлы на это устройство без подтверждения пользователя.</string>
-    <string name="bt_share_picker_label">блютуз</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Неизвестное устройство</string>
-    <string name="unknownNumber">Неизвестный</string>
-    <string name="airplane_error_title">Авиа режим</string>
+    <string name="unknownNumber">Неизвестно</string>
+    <string name="airplane_error_title">Режим полета</string>
     <string name="airplane_error_msg">«Вы не можете использовать Bluetooth в режиме полета».</string>
     <string name="bt_enable_title" />
     <string name="bt_enable_line1">Чтобы использовать службы Bluetooth, сначала необходимо включить Bluetooth.</string>
@@ -19,7 +19,7 @@
     <string name="incoming_file_confirm_cancel">Отклонить</string>
     <string name="incoming_file_confirm_ok">Принять</string>
     <string name="incoming_file_confirm_timeout_ok">ОК</string>
-    <string name="incoming_file_confirm_timeout_content">Таймаут при приеме входящего файла из \" %1$s \"</string>
+    <string name="incoming_file_confirm_timeout_content">Таймаут при приеме входящего файла из \"%1$s\"</string>
     <string name="incoming_file_confirm_Notification_title">Общий доступ Bluetooth: входящий файл</string>
     <string name="incoming_file_confirm_Notification_caption">Вы хотите получить этот файл?</string>
     <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите, что вы хотите получить этот файл.</string>
@@ -32,7 +32,7 @@
     <string name="notification_sent_complete">100% выполнено</string>
     <string name="notification_sent_fail">Доля Bluetooth: файл %1$s не отправлен</string>
     <string name="download_title">Передача файла</string>
-    <string name="download_line1">From: \" %1$s \"</string>
+    <string name="download_line1">From: \"%1$s\"</string>
     <string name="download_line2">Файл: %1$s</string>
     <string name="download_line3">Размер файла: %1$s</string>
     <string name="download_line4" />
@@ -48,12 +48,12 @@
     <string name="download_fail_ok">ОК</string>
     <string name="download_succ_line5">Файл получен</string>
     <string name="download_succ_ok">открыто</string>
-    <string name="upload_line1">Кому: \" %1$s \"</string>
+    <string name="upload_line1">Кому: \"%1$s\"</string>
     <string name="upload_line3">Тип файла: %1$s ( %2$s)</string>
     <string name="upload_line5">Отправка файла... |</string>
     <string name="upload_succ_line5">Файл отправлен</string>
     <string name="upload_succ_ok">ОК</string>
-    <string name="upload_fail_line1">"Файл не был отправлен в \" %1$s \"."</string>
+    <string name="upload_fail_line1">"Файл не был отправлен в \"%1$s\"."</string>
     <string name="upload_fail_line1_2">Файл: %1$s</string>
     <string name="upload_fail_ok">Попробуй еще раз</string>
     <string name="upload_fail_cancel">Закрыть</string>
@@ -68,11 +68,11 @@
     <string name="enabling_progress_content">Включение Bluetooth... |</string>
     <string name="bt_toast_1">Файл будет получен. Проверьте прогресс на панели «Уведомления».</string>
     <string name="bt_toast_2">«Файл не может быть принят».</string>
-    <string name="bt_toast_3">Прерван прием файла из \" %1$s \"</string>
-    <string name="bt_toast_4">Отправка файла в \" %1$s \"</string>
-    <string name="bt_toast_5">Отправка %1$s файлов в \" %2$s \"</string>
-    <string name="bt_toast_6">Не удалось отправить файл в \" %1$s \"</string>
-    <string name="bt_sm_2_1">"Недостаточно места на USB-накопителе, чтобы сохранить файл из \" %1$s \""</string>
+    <string name="bt_toast_3">Прерван прием файла из \"%1$s\"</string>
+    <string name="bt_toast_4">Отправка файла в \"%1$s\"</string>
+    <string name="bt_toast_5">Отправка %1$s файлов в \"%2$s\"</string>
+    <string name="bt_toast_6">Не удалось отправить файл в \"%1$s\"</string>
+    <string name="bt_sm_2_1">"Недостаточно места на USB-накопителе, чтобы сохранить файл из \"%1$s\""</string>
     <string name="bt_sm_2_2">Необходимое пространство: %1$s</string>
     <string name="ErrorTooManyRequests">Слишком много запросов обрабатывается. Попробуйте позже.</string>
     <string name="status_pending">Передача файлов еще не началась.</string>

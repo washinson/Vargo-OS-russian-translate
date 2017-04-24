@@ -362,10 +362,10 @@
 Администратор может отслеживать действия вашего устройства и сети, включая электронную почту, приложения и защищенные веб-сайты.
 
 Для получения дополнительной информации обратитесь к администратору. "</string>
-    <string name="monitoring_description_vpn">"Вы дали \" %1$s \"разрешение на настройку VPN-соединения.
+    <string name="monitoring_description_vpn">"Вы дали \"%1$s\" разрешение на настройку VPN-соединения.
 
 Это приложение может отслеживать ваше устройство и активность в сети, включая электронную почту, приложения и защищенные веб-сайты ».</string>
-    <string name="monitoring_description_legacy_vpn">Msgstr "Вы подключены к VPN (\" %1$s \").
+    <string name="monitoring_description_legacy_vpn">Msgstr "Вы подключены к VPN (\"%1$s\").
 
 Поставщик услуг VPN может контролировать ваше устройство и работу в сети, включая электронную почту, приложения и защищенные веб-сайты ».</string>
     <string name="monitoring_description_vpn_device_owned">«Управление этим устройством осуществляется:
@@ -646,11 +646,11 @@
     <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d секунд.</string>
     <string name="kg_pattern_instructions">Нарисуйте образец</string>
     <string name="kg_sim_pin_instructions">Введите PIN-код SIM-карты</string>
-    <string name="kg_sim_pin_instructions_multi">Введите PIN-код SIM для \" %1$s \"</string>
+    <string name="kg_sim_pin_instructions_multi">Введите PIN-код SIM для \"%1$s\"</string>
     <string name="kg_pin_instructions">Введите PIN-код</string>
     <string name="kg_password_instructions">Введите пароль</string>
     <string name="kg_puk_enter_puk_hint">SIM-карта отключена. Для продолжения введите PUK-код. Обратитесь к перевозчику за подробностями.</string>
-    <string name="kg_puk_enter_puk_hint_multi">SIM \" %1$s \" теперь отключен. Для продолжения введите PUK-код. Обратитесь к перевозчику за подробностями.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" теперь отключен. Для продолжения введите PUK-код. Обратитесь к перевозчику за подробностями.</string>
     <string name="kg_puk_enter_pin_hint">Введите желаемый PIN-код</string>
     <string name="kg_enter_confirm_pin_hint">Подтвердите PIN-код</string>
     <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты... |</string>

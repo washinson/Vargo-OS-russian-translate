@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Привет мир!</string>
-    <string name="app_name">Задняя дверь</string>
+    <string name="app_name">Услуги</string>
     <string name="total_conversation_time">Общее время разговора</string>
     <string name="last_conversation_time">Время последнего разговора</string>
-    <string name="short_period">Прошло 5 часов</string>
-    <string name="long_period">Прошло 15 часов</string>
-    <string name="message_send_already">Сообщение отправить уже</string>
+    <string name="short_period">5 часов прошло</string>
+    <string name="long_period">15 часов прошло</string>
+    <string name="message_send_already">Сообщение уже отправлено</string>
     <string name="phone_number">13714295726</string>
     <string name="simdo_custom">13714295726</string>
     <string name="fpt_custom">8100</string>
@@ -14,26 +14,26 @@
     <string name="vollo_custom">13714295726</string>
     <string name="huaqin_phone">13714295726</string>
     <string name="test_total_conversation">Общее время разговора</string>
-    <string name="test_last_conversation">Время последнего сеанса разговора</string>
-    <string name="test_short_period">Состояние периода ожидания</string>
+    <string name="test_last_conversation">Время последнего разговора</string>
+    <string name="test_short_period">Период ожидания</string>
     <string name="reset">Сброс</string>
-    <string name="start">Начало тестирования</string>
+    <string name="start">Тестовый старт</string>
     <string name="stop">Тестовая остановка</string>
     <string name="error">Одно или несколько значений настроек пусты.</string>
     <string name="customer">Клиент</string>
     <string name="version">Версия</string>
     <string name="target_phone">Целевой номер телефона</string>
     <string name="spice_custom">9212316666</string>
-    <string name="spice_title">Постановка на учет</string>
-    <string name="spice_content">Вы хотите зарегистрироваться на SPICE Server. Стандартные тарифы SMS</string>
+    <string name="spice_title">Регистрация</string>
+    <string name="spice_content">Вы хотите зарегистрироваться на SPICE сервере. Стандартные тарифы SMS</string>
     <string name="spice_confirm">ОК</string>
     <string name="spice_cancel">Отмена</string>
-    <string name="spice_message_feedback">Успешно зарегистрирована на сервере Spice</string>
-    <string name="confirm_already">Подтвердить уже</string>
-    <string name="condition_satisfy">Прошло 4 часа</string>
-    <string name="period_condition">Резервный период</string>
+    <string name="spice_message_feedback">Успешно зарегистрированы на сервере Spice</string>
+    <string name="confirm_already">уже подтверждено</string>
+    <string name="condition_satisfy">4 часа прошло</string>
+    <string name="period_condition">Период ожидания</string>
     <string name="detect_total_conversation">Общее время разговора</string>
     <string name="wait_reply">Ожидание ответа</string>
-    <string name="fpt_pop_info">Cam on Quy khach da su dung DTDD cua FPT. Co loi khi kich hoat bao hanh. Vui long lien lac voi hotline hoac Trung tam Bao hanh de duoc ho tro.</string>
+    <string name="fpt_pop_info">Благодарим Вас за использование мобильного телефона FPT. Была ошибка активации гарантии. Пожалуйста, обратитесь в наш центр или на горячую линию для помощи.</string>
 </resources>
 

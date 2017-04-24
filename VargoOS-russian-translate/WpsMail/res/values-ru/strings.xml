@@ -300,7 +300,7 @@
     <string name="cc">Копия</string>
     <string name="cc_attribution">Копия: %1$s &lt; br></string>
     <string name="cc_heading">Cc:</string>
-    <string name="change_account_confirm">Электронные письма в учетной записи \" %1$s \" будут удалены.</string>
+    <string name="change_account_confirm">Электронные письма в учетной записи \"%1$s\" будут удалены.</string>
     <string name="change_account_type">Изменить тип учетной записи</string>
     <string name="change_folders_selection_dialog_title">Изменение папок</string>
     <string name="change_sync_settings">Изменение настроек синхронизации</string>

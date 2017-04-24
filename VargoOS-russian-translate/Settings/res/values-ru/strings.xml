@@ -378,8 +378,8 @@
     <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
     <string name="bluetooth_auto_connect">Автоматическое подключение</string>
     <string name="bluetooth_connection_permission_request">Запрос на соединение Bluetooth</string>
-    <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к \" %1$s \".</string>
-    <string name="bluetooth_connection_dialog_text">Вы хотите подключиться к \" %1$s \"?</string>
+    <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к \"%1$s\".</string>
+    <string name="bluetooth_connection_dialog_text">Вы хотите подключиться к \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Запрос доступа к телефонной книге</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s хочет получить доступ к вашим контактам и истории звонков. Предоставить доступ к %2$s?</string>
     <string name="bluetooth_remember_choice">«Не спрашивай больше»</string>

@@ -439,7 +439,7 @@
     <string name="contacts_unavailable_import_contacts">Импортировать контакты</string>
     <string name="create_group_dialog_title">Создать новую группу</string>
     <string name="create_group_item_label">Создать новую группу</string>
-    <string name="delete_group_dialog_message">Удалить группу \" %1$s \"? (Сами контакты не будут удалены.)</string>
+    <string name="delete_group_dialog_message">Удалить группу \"%1$s\"? (Сами контакты не будут удалены.)</string>
     <string name="toast_join_with_empty_contact">Введите имя контакта, прежде чем присоединяться к другому.</string>
     <string name="copy_text">Скопировать в буфер обмена</string>
     <string name="set_default">Установить по умолчанию</string>

@@ -3,3 +3,5 @@
 -- AVargoDestroy
 -- AVargoService
 -- BackupRestoreConfirmation
+-- BaseServiceHQ
+-- BasicDreams
