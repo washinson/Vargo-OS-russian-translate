@@ -67,7 +67,7 @@
     <string name="desk_clock_button_description">Дисплей часов</string>
     <string name="label_description">метка</string>
     <string name="ringtone_description">Рингтон</string>
-    <string name="battery_charging_level">%d %%</string>
+    <string name="battery_charging_level">%d%%</string>
     <string name="weather_fetch_failure">«Погода сейчас недоступна».</string>
     <string name="alarm_klaxon_service_desc">Служба воспроизведения звука для сигналов тревоги, установленных в часах.</string>
     <string name="loading_ringtone">Загрузка мелодии... |</string>

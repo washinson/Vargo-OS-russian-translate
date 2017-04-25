@@ -4,7 +4,7 @@
     <string name="download_title_sorted_by_date">Загрузки</string>
     <string name="download_title_sorted_by_size">Загрузки</string>
     <string name="no_downloads">Нет загрузок.</string>
-    <string name="missing_title">&Lt; Неизвестно></string>
+    <string name="missing_title">&lt; Неизвестно></string>
     <string name="button_sort_by_size">Сортировать по размеру</string>
     <string name="button_sort_by_date">Сортировать по дате</string>
     <string name="download_queued">В очереди</string>
@@ -29,7 +29,7 @@
     <string name="retry_download">Повторить попытку</string>
     <string name="deselect_all">Убрать выделение со всего</string>
     <string name="select_all">Выбрать все</string>
-    <string name="selected_count">Выбрано% 1 $ d из% 2 $ d</string>
+    <string name="selected_count">Выбрано %1$d из %2$d</string>
     <string name="download_share_dialog">Отправить по</string>
     <string name="action_consumes_rights">Права на использование этого носителя будут использованы</string>
     <string name="drm_cannot_share_multiple">Некоторые из выбранных файлов защищены DRM-файлом с прямой пересылкой, который не может быть общим</string>

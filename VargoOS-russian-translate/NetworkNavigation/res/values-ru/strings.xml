@@ -115,7 +115,7 @@
     <string name="download_title">Ä¸ <è½½å †... å®¹</string>
     <string name="download_title_sorted_by_date">Ä¸ <è½½å †... å®¹ - æ‰ ‰ æ- ¥ æœŸæŽ'åº</string>
     <string name="download_title_sorted_by_size">Ä¸ <è½½å †... å®¹ - æ‰ ‰ å¤§å ° æŽ'åº</string>
-    <string name="download_unknown_title">&Lt; æœªå'½å></string>
+    <string name="download_unknown_title">&lt; æœªå'½å></string>
     <string name="drag_status_back">Å¿ «é €€ %dç§»</string>
     <string name="drag_status_go">Å¿ «è¿> %dç§ '</string>
     <string name="drop_down_list_footer_default_text">Больше</string>
@@ -200,7 +200,7 @@
     <string name="longdialog_viewimage">ÆŸ ¥ çœ <å> ¾ç ‰ ‡</string>
     <string name="mediacontroller_play_pause">Воспроизведение / Пауза</string>
     <string name="menu_message">Ç • ™ è¨ € æ ¿</string>
-    <string name="missing_title">&Lt; æœªªŸ ¥ ¥></string>
+    <string name="missing_title">&lt; æœªªŸ ¥ ¥></string>
     <string name="net_error_click">É ‡ è¯ •</string>
     <string name="net_error_text">Ç½'ç »œè¿žæŽ ¥ æ-å¼ € ï¼Œè¯ · æ £ € æŸ ¥ å Ž</string>
     <string name="net_unable_toast">Å½ "å ‰ ç½'ç" œä¸ å ¯ç »¨</string>

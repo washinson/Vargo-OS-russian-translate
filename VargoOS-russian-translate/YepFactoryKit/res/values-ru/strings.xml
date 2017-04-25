@@ -175,7 +175,7 @@
     <string name="audio_title_aux">Вспомогательный МИК</string>
     <string name="audio_title_Earphone">ВПК</string>
     <string name="touch_panel_key_message">«Пожалуйста, нажмите
-&Lt; %1$s KEY> "</string>
+&lt; %1$s KEY> "</string>
     <string name="set_nv_menu_text">Установите режим полного энергопотребления</string>
     <string name="set_nv_menu_password">Пожалуйста введите пароль</string>
     <string name="set_nv_menu_password_bad">«Пароли не совпадают»</string>

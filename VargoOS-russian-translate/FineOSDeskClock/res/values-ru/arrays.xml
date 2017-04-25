@@ -1060,17 +1060,17 @@
   </string-array>
   <string-array name="stopwatch_format_set">
     <item>%2$02d:%3$02d%5$c%4$02d</item>
-    <item>%2$02d:%3$02d%5$c%4$02d</item>
-    <item>%1$d:%2$02d:%3$02d%5$c%4$02d</item>
-    <item>%1$02d:%2$02d:%3$02d%5$c%4$02d</item>
-    <item>%1$03d:%2$02d:%3$02d%5$c%4$02d</item>
+	<item>%2$02d:%3$02d%5$c%4$02d</item>
+	<item>%1$d:%2$02d:%3$02d%5$c%4$02d</item>
+	<item>%1$02d:%2$02d:%3$02d%5$c%4$02d</item>
+	<item>%1$03d:%2$02d:%3$02d%5$c%4$02d</item>
   </string-array>
   <string-array name="shared_laps_format_set">
-    <item>%6$d%5$c%2$d%3$02d%5$c%4$02d</item>
-    <item>%6$d%5$c%2$02d%3$02d%5$c%4$02d</item>
-    <item>%6$d%5$c%1$d%2$02d%3$02d%5$c%4$02d</item>
-    <item>%6$d%5$c%1$02d%2$02d%3$02d%5$c%4$02d</item>
-    <item>%6$d%5$c%1$03d%2$02d%3$02d%5$c%4$02d</item>
+	<item>%6$d%5$c ‎%2$d ‎%3$02d%5$c%4$02d</item>
+	<item>%6$d%5$c ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+	<item>%6$d%5$c ‎%1$d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+	<item>%6$d%5$c ‎%1$02d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
+	<item>%6$d%5$c ‎%1$03d ‎%2$02d ‎%3$02d%5$c%4$02d</item>
   </string-array>
   <string-array name="sw_lap_number_set">
     <item>%d</item>
@@ -1184,7 +1184,7 @@
     <item>Asia / Jakarta</item>
   </string-array>
   <string-array name="timer_format_set">
-    <item>%2$02d:%3$02d</item>
-    <item>%1$d:%2$02d:%3$02d</item>
+	<item>%2$02d:%3$02d</item>
+	<item>%1$d:%2$02d:%3$02d</item>
   </string-array>
 </resources>

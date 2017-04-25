@@ -145,7 +145,7 @@
     <string name="port_text_appupdate_update_all">Обновление с одним касанием</string>
     <string name="port_text_appupdate_update_describe">Примечания к выпуску</string>
     <string name="port_text_appupdate_update_lastst">Все приложения актуальны!</string>
-    <string name="port_text_appupdate_update_notify_title">Find% 1 $ d Приложения могут быть обновлены</string>
+    <string name="port_text_appupdate_update_notify_title">Find %1$d Приложения могут быть обновлены</string>
     <string name="port_text_appupdate_updating">Обновление</string>
     <string name="port_text_cancel">Отмена</string>
     <string name="port_text_download_error_tip">Ошибка загрузки</string>

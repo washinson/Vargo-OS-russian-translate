@@ -18,7 +18,7 @@
     <string name="label_pages">Страницы</string>
     <string name="template_all_pages">Все %1$s</string>
     <string name="template_page_range">Диапазон %1$s</string>
-    <string name="pages_range_example">например 1â € "5,8,11â €" 13</string>
+    <string name="pages_range_example">например 1—5,8,11—13</string>
     <string name="print_preview">Предварительный просмотр</string>
     <string name="install_for_print_preview">Установите программу просмотра PDF для предварительного просмотра</string>
     <string name="printing_app_crashed">Ошибка печати приложения</string>
@@ -26,8 +26,8 @@
     <string name="save_as_pdf">Сохранить как PDF</string>
     <string name="all_printers">Все принтеры... |</string>
     <string name="print_dialog">Диалоговое окно печати</string>
-    <string name="current_page_template">% 1 $ d /% 2 $ d</string>
-    <string name="page_description_template">Страница% 1 $ d из% 2 $ d</string>
+    <string name="current_page_template">%1$d /%2$d</string>
+    <string name="page_description_template">Страница %1$d из %2$d</string>
     <string name="summary_template">Резюме, копии %1$s, размер бумаги %2$s</string>
     <string name="expand_handle">Развернуть маркер</string>
     <string name="collapse_handle">Скрыть ручку</string>

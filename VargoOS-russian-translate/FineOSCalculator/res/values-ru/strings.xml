@@ -37,7 +37,7 @@
     <string name="leftParen">(</string>
     <string name="rightParen">).</string>
     <string name="sqrt">в виде</string>
-    <string name="power">^ ^</string>
+    <string name="power">^</string>
     <string name="factorial">!</string>
     <string name="basic">Основная панель</string>
     <string name="advanced">Панель «Дополнительно»</string>

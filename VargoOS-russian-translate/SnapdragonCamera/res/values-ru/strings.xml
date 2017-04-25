@@ -532,8 +532,8 @@
     <string name="app_name">Камера</string>
     <string name="snapcam_app_name">Камера</string>
     <string name="video_camera_label">Видеокамеры</string>
-    <string name="details_ms">% 1 $ 02d:% 2 $ 02d</string>
-    <string name="details_hms">% 1 $ d:% 2 $ 02d:% 3 $ 02d</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="set_image">Установить изображение как</string>
     <string name="delete">Удалить</string>
     <string name="share">Поделиться</string>

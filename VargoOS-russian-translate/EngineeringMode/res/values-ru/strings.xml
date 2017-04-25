@@ -51,7 +51,7 @@
     <string name="current_temprature">Текущая температура:</string>
     <string name="gravity_test_over">Гравитационное испытание</string>
     <string name="button_ok">ОК</string>
-    <string name="timer_format" formatted="false">% 02d:% 02d:% 02d</string>
+    <string name="timer_format" formatted="false">%02d:%02d:%02d</string>
     <string name="led_testtime">ВРЕМЯ ПРОВЕДЕНИЯ СИД:</string>
     <string name="opticalData">Проверка данных о внешнем освещении:</string>
     <string name="camera">Camera_info: CM6900-B300SF-E</string>

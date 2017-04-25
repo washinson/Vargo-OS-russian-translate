@@ -194,7 +194,7 @@
     <string name="listSingleContact">Одинарный контакт</string>
     <string name="dialog_new_contact_account">Создание контакта по учетной записи</string>
     <string name="import_from_sim">Импорт с SIM-карты</string>
-    <string name="import_from_sim_summary">Импорт из SIM ^ 1 - ^ 2</string>
+    <string name="import_from_sim_summary">Импорт из SIM ^1 - ^2</string>
     <string name="import_from_sim_summary_no_number">Импорт из SIM %1$s</string>
     <string name="import_from_sdcard">Импорт из хранилища</string>
     <string name="cancel_import_confirmation_message">Отменить импорт %s?</string>
@@ -393,7 +393,7 @@
     <string name="onscreenOverflowText">Больше вариантов</string>
     <string name="voicemail_provider">обслуживание</string>
     <string name="voicemail_settings">Настроить</string>
-    <string name="voicemail_number_not_set">&Lt; Не установлено></string>
+    <string name="voicemail_number_not_set">&lt; Не установлено></string>
     <string name="other_settings">Другие настройки вызова</string>
     <string name="calling_via_template">Вызов через %s</string>
     <string name="incoming_via_template">Входящий через %s</string>
@@ -466,7 +466,7 @@
     <string name="voicemail_speed_normal">Нормальная скорость</string>
     <string name="voicemail_speed_faster">Высокая скорость</string>
     <string name="voicemail_speed_fastest">Самая быстрая скорость</string>
-    <string name="call_log_item_count_and_date">(% 1 $ d) %2$s</string>
+    <string name="call_log_item_count_and_date">( %1$d) %2$s</string>
     <string name="sms_disambig_title">Выберите номер</string>
     <string name="call_disambig_title">Выберите номер</string>
     <string name="make_primary">Помните этот выбор</string>
@@ -516,7 +516,7 @@
     <string name="description_start_voice_search">Начать голосовой поиск</string>
     <string name="menu_callNumber">Позвонить: %s</string>
     <string name="voicemail">Голосовая почта</string>
-    <string name="callDetailsDurationFormat" formatted="false">%s мин.% Сек.</string>
+    <string name="callDetailsDurationFormat" formatted="false">%s мин. %s Сек.</string>
     <string name="dialog_phone_call_prohibited_message">«Невозможно набрать этот номер»</string>
     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, откройте Меню> Настройки.</string>
     <string name="dialog_voicemail_airplane_mode_message">Чтобы вызвать голосовую почту, сначала выключите режим полета.</string>
@@ -548,7 +548,7 @@
     <string name="search_shortcut_add_to_contacts">Добавить в контакты</string>
     <string name="search_shortcut_make_video_call">Сделать видеовстречу</string>
     <string name="recents_footer_text">Просмотр полной истории звонков</string>
-    <string name="num_missed_calls">% Новых пропущенных вызовов</string>
+    <string name="num_missed_calls">%s Новых пропущенных вызовов</string>
     <string name="speed_dial_empty">Быстрый набор - это набор однокристальных номеров для избранных и часто вызываемых номеров</string>
     <string name="all_contacts_empty">Нет контактов</string>
     <string name="contact_tooltip">Коснитесь изображения, чтобы увидеть все цифры или нажмите &amp; Удерживать для изменения порядка</string>
@@ -561,14 +561,14 @@
     <string name="call_log_action_video_call">ВИДЕОЗВОНОК</string>
     <string name="call_log_action_voicemail">СЛУШАТЬ</string>
     <string name="call_log_action_details">ДЕТАЛИ</string>
-    <string name="description_incoming_missed_call">Пропущенный вызов от ^ 1, ^ 2, ^ 3, ^ 4.</string>
-    <string name="description_incoming_answered_call">Ответ на вызов от ^ 1, ^ 2, ^ 3, ^ 4.</string>
-    <string name="description_outgoing_call">Позвоните на ^ 1, ^ 2, ^ 3, ^ 4.</string>
-    <string name="description_phone_account">На ^ 1</string>
-    <string name="description_call_back_action">Обратный звонок ^ 1</string>
-    <string name="description_video_call_action">Видеозвонок на ^ 1.</string>
-    <string name="description_voicemail_action">Прослушать голосовую почту от ^ 1</string>
-    <string name="description_details_action">Сведения о вызове для ^ 1</string>
+    <string name="description_incoming_missed_call">Пропущенный вызов от ^1, ^2, ^3, ^4.</string>
+    <string name="description_incoming_answered_call">Ответ на вызов от ^1, ^2, ^3, ^4.</string>
+    <string name="description_outgoing_call">Позвоните на ^1, ^2, ^3, ^4.</string>
+    <string name="description_phone_account">На ^1</string>
+    <string name="description_call_back_action">Обратный звонок ^1</string>
+    <string name="description_video_call_action">Видеозвонок на ^1.</string>
+    <string name="description_voicemail_action">Прослушать голосовую почту от ^1</string>
+    <string name="description_details_action">Сведения о вызове для ^1</string>
     <string name="toast_entry_removed">Удалено из истории звонков</string>
     <string name="toast_caller_id_reported">Номер отправлен в Google</string>
     <string name="call_log_action_report">ОТЧЕТ</string>

@@ -37,7 +37,7 @@
     <string name="strMinutes">Минуты</string>
     <string name="strHours">Время работы</string>
     <string name="strHour">Час</string>
-    <string name="time_pecent">%Мощность</string>
+    <string name="time_pecent">%Power</string>
     <string name="hold_time_text">Время слева: %1$s day %2$s hours</string>
     <string name="isCharging_text">Зарядка</string>
     <string name="onekey_savepower_detail">Один ключ для экономии энергии</string>
@@ -79,14 +79,14 @@
     <string name="power_overcounted">Сверхсчет</string>
     <string name="power_usage_not_available">«Данные об использовании батареи недоступны».</string>
     <string name="power_screen">Экран</string>
-    <string name="power_wifi">Wiâ € 'Fi</string>
+    <string name="power_wifi">Wi‑Fi</string>
     <string name="power_bluetooth">блютуз</string>
     <string name="power_cell">Режим ожидания ячейки</string>
     <string name="power_phone">Голосовые звонки</string>
     <string name="power_idle">Простаивание телефона</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
     <string name="running_process_item_removed_user_label">Удаленный пользователь</string>
-    <string name="percentage">%d %%</string>
+    <string name="percentage">%d%%</string>
     <string name="powered_by_cleanmaster">Работает на CleanMaster</string>
     <string name="storage_name">Место хранения</string>
     <string name="hour_string">Время работы</string>

@@ -238,7 +238,7 @@
     <string name="download_stop_status">Å · ²æš,å œ</string>
     <string name="download_stopped">Ä¸ <è½ ½ ½ · ² å å æ ¢</string>
     <string name="download_success">%sä¸ <è½½å®Œæ ã €,</string>
-    <string name="download_unknown_filename">&Lt; æœªªŸ ¥ ¥></string>
+    <string name="download_unknown_filename">&lt; æœªªŸ ¥ ¥></string>
     <string name="downloading_360">360åŠ © æ ‰ <ä¸ <è½½è¿> è¡Œä¸</string>
     <string name="ellipsize">Â € |</string>
     <string name="email_type_home">Ä½ å®...</string>

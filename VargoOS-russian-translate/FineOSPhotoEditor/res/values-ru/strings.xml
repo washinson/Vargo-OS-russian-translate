@@ -367,8 +367,8 @@
     <string name="chartlet_cute">Милый</string>
     <string name="app_name">Редактор фото</string>
     <string name="gadget_title">Фоторамка</string>
-    <string name="details_ms">% 1 $ 02d:% 2 $ 02d</string>
-    <string name="details_hms">% 1 $ d:% 2 $ 02d:% 3 $ 02d</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="movie_view_label">Видео проигрыватель</string>
     <string name="loading_video">Загрузка видео... |</string>
     <string name="loading_image">Загрузка изображения... |</string>
@@ -410,7 +410,7 @@
     <string name="deselect_all">Убрать выделение со всего</string>
     <string name="slideshow">Слайд-шоу</string>
     <string name="details">Детали</string>
-    <string name="details_title">% 1 $ d из% 2 $ d элементов:</string>
+    <string name="details_title">%1$d из %2$d элементов:</string>
     <string name="close">Закрыть</string>
     <string name="switch_to_camera">Переключиться на камеру</string>
     <string name="show_on_map">Показать на карте</string>
@@ -449,7 +449,7 @@
     <string name="make_available_offline">Сделать офлайн-доступ недоступным</string>
     <string name="sync_picasa_albums">Обновить</string>
     <string name="done">Готово</string>
-    <string name="sequence_in_set">% 1 $ d из% 2 $ d элементов:</string>
+    <string name="sequence_in_set">%1$d из %2$d элементов:</string>
     <string name="title">заглавие</string>
     <string name="description">Описание</string>
     <string name="time">Время</string>

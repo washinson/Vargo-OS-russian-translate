@@ -199,7 +199,7 @@
     <string name="account_vip_acc">VIP-ускорения для получения электронных писем</string>
     <string name="account_waiting_for_folders_msg">Загрузка списка папок... |</string>
     <string name="accounts_welcome">Вы можете настроить электронную почту для большинства аккаунтов всего за несколько шагов.</string>
-    <string name="actionbar_large_unread_count">Непрочитанные письма:% 1 $ d</string>
+    <string name="actionbar_large_unread_count">Непрочитанные письма: %1$d</string>
     <string name="actionbar_title_mail_aggregation">Слияние электронных писем:</string>
     <string name="activity_folder_selection">Выбрать папку</string>
     <string name="activity_mailbox_selection">Выберите аккаунт</string>
@@ -231,7 +231,7 @@
     <string name="archive">Архив</string>
     <string name="archived">Архивировано</string>
     <string name="att_auto_sync">Не удалось автоматически загружать вложения. Включите автоматическую синхронизацию в системных настройках</string>
-    <string name="att_deleted">Удалено вложений:% 1 $ d</string>
+    <string name="att_deleted">Удалено вложений: %1$d</string>
     <string name="att_download_failed_content">Не удалось скачать</string>
     <string name="att_download_failed_title">Не удалось загрузить вложения</string>
     <string name="att_download_status">Загружено</string>
@@ -431,7 +431,7 @@
     <string name="default_signature_mexico">Enviado desde mi de Telcel.</string>
     <string name="default_signature_oneplus">Отправлено с почты ONEPLUS</string>
     <string name="delete">Удалить</string>
-    <string name="delete_conversation_hint_message">Удалено:% 1 $ d %2$s</string>
+    <string name="delete_conversation_hint_message">Удалено: %1$d %2$s</string>
     <string name="deleted">Удалено</string>
     <string name="device_activity_btn_str">Вернуться к активации</string>
     <string name="device_activity_lint_str">Чтобы включить службу электронной почты, обновите и активируйте защитное устройство</string>
@@ -536,7 +536,7 @@
     <string name="filtered_tag">[ %1$s] %2$s</string>
     <string name="flow_saved_dlg_do_not_show">«Больше не показывать»</string>
     <string name="flow_saved_dlg_i_know">я знаю</string>
-    <string name="flow_saved_dlg_message">После этого обновления получено всего% 1 $ d писем. Загружать только заголовок. Почта сохранила для вас %2$s.</string>
+    <string name="flow_saved_dlg_message">После этого обновления получено всего %1$d писем. Загружать только заголовок. Почта сохранила для вас %2$s.</string>
     <string name="flow_saved_dlg_title">Расходомер</string>
     <string name="flow_saved_preference_total">Накопительно сохраненный поток %1$s</string>
     <string name="folder_drafts_name_cn0">È ‰ ç¨¿</string>
@@ -571,7 +571,7 @@
     <string name="folder_trash_name_en1">Удаленные сообщения</string>
     <string name="folder_trash_name_en2">Удаленное сообщение</string>
     <string name="folder_trash_name_en3">[Gmail] / Bin</string>
-    <string name="formatted_email_address">&Lt; %1$s></string>
+    <string name="formatted_email_address">&lt; %1$s></string>
     <string name="formatted_subject">%1$s %2$s</string>
     <string name="forward">Вперед</string>
     <string name="forward_attachment">Вперед</string>
@@ -793,8 +793,8 @@ CC: %4$s
     <string name="mipush_upload_register_info">Загрузить регистрационную информацию на сервер...</string>
     <string name="mipush_upload_success">Регистрация загружена</string>
     <string name="mock_content_provider">Продвинутый контент-провайдер</string>
-    <string name="more_atts_remaining">Показ% 1 $ d</string>
-    <string name="more_atts_total">Осталось еще приложений:% 1 $ d</string>
+    <string name="more_atts_remaining">Показ %1$d</string>
+    <string name="more_atts_total">Осталось еще приложений: %1$d</string>
     <string name="more_context">Больше</string>
     <string name="more_info_attachment">Информация</string>
     <string name="more_string">+ %1$s</string>
@@ -815,7 +815,7 @@ CC: %4$s
     <string name="new_down_desc3">Поскольку будет потребляться огромный трафик, рекомендуется подключиться к Wi-Fi.</string>
     <string name="new_feature_desc">Решено:</string>
     <string name="new_incoming_messages_one">Показывать входящие письма от %s</string>
-    <string name="new_messages">Новых писем:% 1 $ d</string>
+    <string name="new_messages">Новых писем: %1$d</string>
     <string name="new_signature_has_saved">Новая подпись сохранена</string>
     <string name="new_version">Последняя версия:</string>
     <string name="next_action">следующий</string>
@@ -944,7 +944,7 @@ CC: %4$s
     <string name="preference_sender_image_title">«Аватар отправителя»</string>
     <string name="preference_silence_period_end_time">Время окончания</string>
     <string name="preference_silence_period_start_time">Время начала</string>
-    <string name="preference_silence_period_summary_format">\"% 1 $ 02d:% 2 $ 02d -% 3 $ 02d:% 4 $ 02d \"</string>
+    <string name="preference_silence_period_summary_format">\"%1$02d:%2$02d - %3$02d:%4$02d\"</string>
     <string name="preference_silence_period_title">Период молчания</string>
     <string name="preference_swipe_description">В списке цепочек</string>
     <string name="preference_swipe_title_archive">Проведите в архив</string>
@@ -979,13 +979,13 @@ CC: %4$s
     <string name="quick_3">«Я прочту это письмо позже и свяжусь с вами».</string>
     <string name="quick_4">«Давай устроим встречу, чтобы обсудить это».</string>
     <string name="quick_reply_dialog_title">Пожалуйста, выбери</string>
-    <string name="quick_reply_hint">Ответить всем пользователям% 1 $ d</string>
+    <string name="quick_reply_hint">Ответить всем пользователям %1$d</string>
     <string name="quick_reply_hint_bcc">(В BCC)</string>
     <string name="quick_reply_hint_cc">(В CC)</string>
     <string name="quick_reply_statement_of_exist">Существующие быстрые ответы</string>
     <string name="quick_responses_empty_view">Нет быстрых ответов</string>
     <string name="quit">Выход</string>
-    <string name="quote_begin">&Lt; div class = \"wps_quotion \"></string>
+    <string name="quote_begin">&lt; div class = \"wps_quotion \"></string>
     <string name="quote_divider_1">-------- åŽŸå§ <é,®ä »¶ --------</string>
     <string name="quote_divider_10">-----------------------------------</string>
     <string name="quote_divider_11">----- åŽŸæ- ‡ -----</string>
@@ -1053,7 +1053,7 @@ CC: %4$s
     <string name="search_hint">Поиск сообщений электронной почты</string>
     <string name="search_result">Результат поиска:</string>
     <string name="search_results_header">Результаты</string>
-    <string name="search_results_loaded">% 1 $ d</string>
+    <string name="search_results_loaded">%1$d</string>
     <string name="search_results_searching_header">Поиск...</string>
     <string name="search_tabs_name_all">Все</string>
     <string name="search_tabs_name_reciver">К</string>
@@ -1070,7 +1070,7 @@ CC: %4$s
     <string name="security_unsupported_ticker_fmt">«Учетная запись \« %s \ »не может быть синхронизирована из-за требований безопасности."</string>
     <string name="select_attachment_type">Выберите приложение</string>
     <string name="select_no_file">Не выбрано вложений</string>
-    <string name="selected_files_info">(% 1 $ d, %2$s) Готово</string>
+    <string name="selected_files_info">(%1$d, %2$s) Готово</string>
     <string name="send">послать</string>
     <string name="send_att_message">Перед отправкой этого сообщения вы должны загрузить все вложения</string>
     <string name="send_att_title">Оповещение</string>

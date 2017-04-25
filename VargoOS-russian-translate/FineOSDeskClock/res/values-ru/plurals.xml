@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="alarm_alert_snooze_set">
-    <item quantity="other">Отложено на%d минут.</item>
+    <item quantity="other">Отложено на %d минут.</item>
     <item quantity="one">Отсрочка в течение 1 минуты.</item>
   </plurals>
   <plurals name="snooze_duration">
@@ -25,7 +25,7 @@
     <item quantity="one">1 секунда</item>
   </plurals>
   <plurals name="timers_num">
-    <item quantity="other">Таймеры%d</item>
+    <item quantity="other">Таймеры %d</item>
     <item quantity="one">1 минута</item>
   </plurals>
   <plurals name="alarm_delete_confirmation">

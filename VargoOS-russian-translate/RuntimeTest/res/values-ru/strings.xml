@@ -68,7 +68,7 @@
     <string name="mmi_not_done_msg">Тест MMI не завершен! Пожалуйста, сначала проведите MMI-тест.</string>
     <string name="reboottest">«Текущий тест:
  Перезагрузка "</string>
-    <string name="battery_charge_tip">Ç "μæ ± ç" μé ‡ ä¸ è¶³% 1 $ d %%, å...... æ »¡å Žè ‡ ªåŠ øå € å§ <æμ <è¯ • ã €,</string>
-    <string name="stop_runin_test">É €€ å ‡ ºè € åŒ-</string>
+    <string name="battery_charge_tip">Низкий уровень заряда %1$d%% после начала полного автоматического тестирования.</string>
+    <string name="stop_runin_test">Режим экономии</string>
 </resources>
 

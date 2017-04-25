@@ -13,12 +13,12 @@
     <string name="menu_save">Сохранить</string>
     <string name="menu_share">Поделиться</string>
     <string name="menu_delete">Удалить</string>
-    <string name="menu_select">Выберите \"^ 1 \"</string>
+    <string name="menu_select">Выберите \"^1\"</string>
     <string name="menu_advanced_show">Показать внутреннюю память</string>
     <string name="menu_advanced_hide">Скрыть внутреннюю память</string>
     <string name="menu_file_size_show">Показать размер файла</string>
     <string name="menu_file_size_hide">Скрыть размер файла</string>
-    <string name="mode_selected_count">Выбрано% 1 $ d</string>
+    <string name="mode_selected_count">Выбрано %1$d</string>
     <string name="sort_name">По имени</string>
     <string name="sort_date">По дате изменения</string>
     <string name="sort_size">По размеру</string>

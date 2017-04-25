@@ -109,9 +109,9 @@
     <string name="dest_dir_can_not_write">Dest dir не может писать.</string>
     <string name="dest_dir_is_not_a_directory">Dest dir не является каталогом.</string>
     <string name="details">Детали</string>
-    <string name="details_hms">% 1 $ d:% 2 $ 02d:% 3 $ 02d</string>
-    <string name="details_ms">% 1 $ 02d:% 2 $ 02d</string>
-    <string name="details_title">% 1 $ d из% 2 $ d элементов:</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="details_title">%1$d из %2$d элементов:</string>
     <string name="dialog_ok">ОК</string>
     <string name="disable_video_snapshot_hint">Снимок видео отключен, когда включены специальные эффекты.</string>
     <string name="done">Готово</string>
@@ -428,7 +428,7 @@
     <string name="select_image">Выберите фото</string>
     <string name="select_item">Выберите предмет</string>
     <string name="select_video">Выбрать видео</string>
-    <string name="sequence_in_set">% 1 $ d из% 2 $ d элементов:</string>
+    <string name="sequence_in_set">%1$d из %2$d элементов:</string>
     <string name="set_as">Установить как</string>
     <string name="set_as_bg">Установить в качестве обоев</string>
     <string name="set_as_contect_photo">Установить как портрет контактной головы</string>

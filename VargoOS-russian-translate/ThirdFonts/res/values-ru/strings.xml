@@ -27,7 +27,7 @@
     <string name="permdesc_downloadCacheNonPurgeable">Позволяет приложению загружать файлы в кеш загрузки, которые не могут быть автоматически удалены, когда менеджер загрузок требует больше места.</string>
     <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам системы</string>
     <string name="permdesc_accessAllDownloads">Позволяет приложению просматривать и изменять все, инициированные любым приложением в системе.</string>
-    <string name="download_unknown_title">&Lt; Без названия></string>
+    <string name="download_unknown_title">&lt; Без названия></string>
     <string name="notification_filename_separator">«,</string>
     <string name="notification_filename_extras">"И %d больше"</string>
     <string name="notification_download_complete">Загрузка завершена</string>

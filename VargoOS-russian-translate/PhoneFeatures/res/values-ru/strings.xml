@@ -53,13 +53,13 @@
     <string name="china_telecom_one">China Telecom 01</string>
     <string name="china_telecom_two">China Telecom 02</string>
     <string name="title_dialog_duration">Звонок окончен</string>
-    <string name="duration_format">% 1 $ d часов% 2 $ d мин.% 3 $ d сек.</string>
+    <string name="duration_format">%1$d часов %2$d мин. %3$d сек.</string>
     <string name="alert_title">Оповещение</string>
     <string name="message_not_registered_in_tdd">Невозможно зарегистрироваться в службе только для данных 4G, выйти?</string>
     <string name="message_tdd_data_only">Текущий в режиме только данных 4G, который не может обеспечить это действие, вы хотите выйти из режима только для данных 4G?</string>
     <string name="choose_yes">да</string>
     <string name="choose_no">Нет</string>
-    <string name="sim_card_number_title">SIM% 1 $ d</string>
+    <string name="sim_card_number_title">SIM %1$d</string>
     <string name="def_callRecord_savePath">CallRecord</string>
     <string name="lte_select_title_new">Основная SIM-карта по умолчанию</string>
     <string name="lte_select_summary_new">Выбранная SIM-карта будет распознаваться как основная карта по умолчанию, а вторая как карта 2G.</string>

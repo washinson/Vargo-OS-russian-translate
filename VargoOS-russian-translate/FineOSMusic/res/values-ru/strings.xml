@@ -5,8 +5,8 @@
     <string name="notification_artist_album">" %2$s
   %1$s "</string>
     <string name="onesong">1 песня</string>
-    <string name="durationformatshort">% 2 $ d:% 5 $ 02d</string>
-    <string name="durationformatlong">% 1 $ d:% 3 $ 02d:% 5 $ 02d</string>
+    <string name="durationformatshort">%2$d:%5$02d</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="goto_start">Библиотека</string>
     <string name="party_shuffle">Вечеринка в случайном порядке</string>
     <string name="party_shuffle_off">Вечеринка отряхивается</string>

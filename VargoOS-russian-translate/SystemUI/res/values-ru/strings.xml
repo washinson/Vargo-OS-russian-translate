@@ -226,7 +226,7 @@
     <string name="quick_settings_airplane_mode_label">Авиа режим</string>
     <string name="quick_settings_mobile_data_label">Мобильные данные</string>
     <string name="quick_settings_roaming_label">Роуминг</string>
-    <string name="quick_settings_battery_charging_label">Зарядка, %d %%</string>
+    <string name="quick_settings_battery_charging_label">Зарядка, %d%%</string>
     <string name="quick_settings_battery_charged_label">Заплачено</string>
     <string name="quick_settings_bluetooth_label">блютуз</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (устройства %d)</string>
@@ -334,7 +334,7 @@
     <string name="battery_saver_notification_title">Аккумулятор включен</string>
     <string name="battery_saver_notification_text">Снижает производительность и фоновые данные</string>
     <string name="battery_saver_notification_action_text">Отключение режима экономии заряда батареи</string>
-    <string name="battery_level_template">%d %%</string>
+    <string name="battery_level_template">%d%%</string>
     <string name="notification_hidden_text">Содержимое скрыто</string>
     <string name="media_projection_dialog_text">" %s начнет снимать все, что отображается на вашем экране".</string>
     <string name="media_projection_remember_text">«Больше не показывать»</string>
@@ -459,9 +459,9 @@
     <string name="hide_button_remind_msg">Больше не напоминать</string>
     <string name="screenshot_failed_nospace_text">«Не удалось сохранить снимок экрана. Место для хранения может быть заполнено».</string>
     <string name="camera_hint_low_battery_text">«Невозможно запустить камеру. Низкий заряд батареи».</string>
-    <string name="lockscreen_battery_short">%d %%</string>
+    <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_status_charging">Зарядка...</string>
-    <string name="lockscreen_plugged_in">Зарядка, %d %%</string>
+    <string name="lockscreen_plugged_in">Зарядка, %d%%</string>
     <string name="lockscreen_charged">Заплачено</string>
     <string name="lockscreen_low_battery">Подключите зарядное устройство.</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
@@ -585,9 +585,9 @@
     <string name="keyguard_sim_locked_message">SIM-карта заблокирована.</string>
     <string name="keyguard_sim_puk_locked_message">SIM-карта заблокирована с помощью PUK-кода.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Разблокировка SIM-карты... |</string>
-    <string name="keyguard_widget_12_hours_format">Hîì mm</string>
-    <string name="keyguard_widget_24_hours_format">Kkî¸ мм</string>
-    <string name="keyguard_accessibility_widget_changed">%1$s. Виджет% 2 $ d из% 3 $ d.</string>
+    <string name="keyguard_widget_12_hours_format">hmm</string>
+    <string name="keyguard_widget_24_hours_format">kkmm</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Виджет %2$d из %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Добавить виджет.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Пустой</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Площадь разблокировки увеличена.</string>

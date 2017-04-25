@@ -81,9 +81,9 @@
     <string name="accept">Готово</string>
     <string name="discard">Отменить</string>
     <string name="button_ok">ОК</string>
-    <string name="sound_timer_format" formatted="false">% 02d:% 02d:% 02d</string>
-    <string name="timer_format" formatted="false">% 02d:% 02d</string>
-    <string name="audio_db_title_format">Гггг-мм-дд ЧЧ: мм: сс</string>
+    <string name="sound_timer_format" formatted="false">%02d:%02d:%02d</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="audio_db_artist_name">Ваши записи</string>
     <string name="audio_db_album_name">Аудиозапись</string>
     <string name="audio_db_playlist_name">Записи</string>

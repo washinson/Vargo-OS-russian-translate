@@ -41,7 +41,7 @@
     <string name="ac_commands_temperature">Æ¸ © åº||</string>
     <string name="ac_commands_warm_wind">Åƒç</string>
     <string name="ac_commands_wind_sppd">É £ Žé ‡</string>
-    <string name="ac_local_state_name">Ac_local_state_% 1 $ d</string>
+    <string name="ac_local_state_name">Ac_local_state_ %1$d</string>
     <string name="ac_state_auto">È ‡ ªåŠ¨</string>
     <string name="ac_state_model_cool">Å¶å † ·</string>
     <string name="ac_state_model_dry">É ™ ¤æ¹¿</string>
@@ -382,7 +382,7 @@ Xiaofgeng "</string>
     <string name="date_picker_dialog_title">Установить дату</string>
     <string name="date_time_done">Готово</string>
     <string name="date_time_set">Задавать</string>
-    <string name="detail_stills_num">(% 1 $ d)</string>
+    <string name="detail_stills_num">(%1$d)</string>
     <string name="feed_back_info">«Å¤ªå ¯è €» äº † ï ¼¾ å¾®ææ§å> ç «Ÿç» ¶æ² ¡æœ ‰ æ «¶é> † æ,¨®¶šš» åž <å · ã €,
 Æ²¡å... ³ç³ »ï ¼« «« »« ³ »» å¾®æŽ§å> ä¸ºæ,å®¶æ · »åŠ"</string>
     <string name="help_pannel_user">«ПМЭ« ¼ ¼ ¼ t ï ‰ ‰ ‰ ‰ ¼ ¼ ¼ ¼ ¼ ‰ å · ¥ ¼ ¼ ¼ ¼ ¼ ‰ èμ »äº †

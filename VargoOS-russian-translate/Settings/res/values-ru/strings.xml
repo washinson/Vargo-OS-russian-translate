@@ -34,7 +34,7 @@
     <string name="profile_name_title">имя</string>
     <string name="profile_profile_name_prompt">Введите имя для нового профиля</string>
     <string name="menu_new_profile">Новый профиль</string>
-    <string name="new_profile_name">&Lt; новый профиль></string>
+    <string name="new_profile_name">&lt; новый профиль></string>
     <string name="rename_dialog_title">Переименование</string>
     <string name="rename_dialog_message">Введите новое имя</string>
     <string name="duplicate_profile_name">Повторяющееся имя профиля!</string>
@@ -365,14 +365,14 @@
     <string name="device_picker">Выберите устройство Bluetooth</string>
     <string name="bluetooth_permission_request">Запрос разрешения Bluetooth</string>
     <string name="bluetooth_ask_enablement">Приложение хочет включить Bluetooth.</string>
-    <string name="bluetooth_ask_discovery">Приложение хочет сделать ваш телефон видимым для других устройств Bluetooth за% 1 $ d секунды.</string>
+    <string name="bluetooth_ask_discovery">Приложение хочет сделать ваш телефон видимым для других устройств Bluetooth за %1$d секунды.</string>
     <string name="bluetooth_ask_lasting_discovery">Приложение хочет сделать ваш телефон видимым для других устройств Bluetooth. Вы можете изменить это позже в настройках Bluetooth.</string>
     <string name="bluetooth_ask_start_broadcast">%1$s хочет включить широковещательную передачу Bluetooth для связи с другими устройствами поблизости. Вы можете изменить это позже в настройках Bluetooth.</string>
     <string name="bluetooth_ask_enablement_and_start_broadcast">%1$s хочет включить передачу Bluetooth и Bluetooth для связи с другими устройствами поблизости. Вы можете изменить это позже в настройках Bluetooth.</string>
     <string name="bluetooth_broadcasting_explaination">«Когда эта функция включена, ваш телефон может общаться с другими устройствами поблизости.
 
 Радиовещание использует сигналы Bluetooth с низким энергопотреблением. "</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Приложение хочет включить Bluetooth и сделать ваш телефон видимым для других устройств за% 1 $ d секунд.</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Приложение хочет включить Bluetooth и сделать ваш телефон видимым для других устройств за %1$d секунд.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Приложение хочет включить Bluetooth и сделать ваш телефон видимым на других устройствах. Вы можете изменить это позже в настройках Bluetooth.</string>
     <string name="bluetooth_turning_on">Включение Bluetooth... |</string>
     <string name="bluetooth_turning_off">Отключение Bluetooth...</string>
@@ -571,7 +571,7 @@
     <string name="crypt_keeper_confirm_title">Шифровать?</string>
     <string name="crypt_keeper_final_desc">«Операция шифрования необратима, и если вы ее прервите, вы потеряете данные. Шифрование занимает час или больше, в течение которого телефон будет перезагружаться несколько раз».</string>
     <string name="crypt_keeper_setup_title">Шифрование</string>
-    <string name="crypt_keeper_setup_description">Подождите, пока ваш телефон зашифрован. ^ 1% выполнено.</string>
+    <string name="crypt_keeper_setup_description">Подождите, пока ваш телефон зашифрован. ^1% выполнено.</string>
     <string name="crypt_keeper_setup_time_remaining">Подождите, пока ваш телефон зашифрован. Оставшееся время: ^ 1</string>
     <string name="crypt_keeper_force_power_cycle">Чтобы разблокировать телефон, выключите его, а затем снова включите.</string>
     <string name="crypt_keeper_warn_wipe">Предупреждение: Ваше устройство будет стерто после еще 1 неудачных попыток разблокировки!</string>
@@ -1378,11 +1378,11 @@
     <string name="bluetooth_tether_checkbox_text">Bluetooth-модем</string>
     <string name="bluetooth_tethering_available_subtext">«Совместное использование интернет-подключения этого телефона»</string>
     <string name="bluetooth_tethering_device_connected_subtext">«Совместное использование интернет-подключения этого телефона к одному устройству»</string>
-    <string name="bluetooth_tethering_devices_connected_subtext">«Совместное использование интернет-подключения этого телефона к устройствам% 1 $ d»</string>
-    <string name="bluetooth_tethering_off_subtext_config">«Совместное использование этого% 1 $ d интернет-подключения»</string>
+    <string name="bluetooth_tethering_devices_connected_subtext">«Совместное использование интернет-подключения этого телефона к устройствам %1$d»</string>
+    <string name="bluetooth_tethering_off_subtext_config">«Совместное использование этого %1$d интернет-подключения»</string>
     <string name="bluetooth_tethering_off_subtext">«Не использовать интернет-соединение этого телефона»</string>
     <string name="bluetooth_tethering_errored_subtext">Не привязано</string>
-    <string name="bluetooth_tethering_overflow_error">«Невозможно привязать к устройствам более% 1 $ d».</string>
+    <string name="bluetooth_tethering_overflow_error">«Невозможно привязать к устройствам более %1$d».</string>
     <string name="bluetooth_untether_blank">%1$s будет отключена.</string>
     <string name="tethering_help_button_text">Помогите</string>
     <string name="network_settings_title">Сотовые сети</string>
@@ -1446,7 +1446,7 @@
     <string name="location_agps_register_network_type_summary">Выберите сеть доступа, чтобы включить AGPS...</string>
     <string name="location_agps_register_network_type_dialog_title">Выберите сеть</string>
     <string name="location_agps_roaming_help">Warningï ¼ Выберите любую СЕТЬ, чтобы открыть AGPS, может быть потеря телефонных расходов при роуминге ¼</string>
-    <string name="supl_not_set">&Lt; Не установлено></string>
+    <string name="supl_not_set">&lt; Не установлено></string>
     <string name="location_agps_def_supl_host">221.176.0.55</string>
     <string name="location_agps_def_supl_port">7275</string>
     <string name="location_agps_def_network_mode">ГЛАВНАЯ</string>
@@ -1657,10 +1657,10 @@
     <string name="service_process_name">%1$s</string>
     <string name="running_process_item_user_label">Пользователь: %1$s</string>
     <string name="running_process_item_removed_user_label">Удаленный пользователь</string>
-    <string name="running_processes_item_description_s_s">Процесс% 1 $ d и служба% 2 $ d</string>
-    <string name="running_processes_item_description_s_p">Процесс% 1 $ d и% 2 $ d</string>
-    <string name="running_processes_item_description_p_s">Процессы% 1 $ d и% 2 $ d</string>
-    <string name="running_processes_item_description_p_p">Процессы% 1 $ d и службы% 2 $ d</string>
+    <string name="running_processes_item_description_s_s">Процесс %1$d и служба %2$d</string>
+    <string name="running_processes_item_description_s_p">Процесс %1$d и %2$d</string>
+    <string name="running_processes_item_description_p_s">Процессы %1$d и %2$d</string>
+    <string name="running_processes_item_description_p_p">Процессы %1$d и службы %2$d</string>
     <string name="running_processes_header_title">Память устройства</string>
     <string name="running_processes_header_footer">Использование памяти приложения</string>
     <string name="running_processes_header_system_prefix">Система</string>
@@ -1821,13 +1821,13 @@
     <string name="allow_bind_app_widget_activity_allow_bind_title">Создать виджет и разрешить доступ?</string>
     <string name="allow_bind_app_widget_activity_allow_bind">После создания виджета %1$s может получить доступ ко всем отображаемым данным.</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать %1$s создавать виджеты и получать доступ к их данным</string>
-    <string name="battery_history_days">% 1 $ dd% 2 $ dh% 3 $ dm% 4 $ ds</string>
-    <string name="battery_history_hours">% 1 $ dh% 2 $ dm% 3 $ ds</string>
-    <string name="battery_history_minutes">% 1 $ dm% 2 $ ds</string>
-    <string name="battery_history_seconds">% 1 $ ds</string>
-    <string name="battery_history_days_no_seconds">% 1 $ dd% 2 $ dh% 3 $ dm</string>
-    <string name="battery_history_hours_no_seconds">% 1 $ dh% 2 $ dm</string>
-    <string name="battery_history_minutes_no_seconds">% 1 $ dm</string>
+    <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+    <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+    <string name="battery_history_minutes">%1$dm %2$ds</string>
+    <string name="battery_history_seconds">%1$ds</string>
+    <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
+    <string name="battery_history_hours_no_seconds">%1$dh %2$dm</string>
+    <string name="battery_history_minutes_no_seconds">%1$dm</string>
     <string name="usage_stats_label">Статистика использования</string>
     <string name="testing_usage_stats">Статистика использования</string>
     <string name="display_order_text">Сортировать по:</string>
@@ -1915,7 +1915,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
     <string name="color_cyan">Голубой</string>
     <string name="color_yellow">ЖЕЛТЫЙ</string>
     <string name="color_magenta">Пурпурный</string>
-    <string name="color_custom">\ #% 1 $ 02X% 2 $ 02X% 3 $ 02X</string>
+    <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
     <string name="enable_service_title">Использовать %1$s?</string>
     <string name="capabilities_list_title">Для %1$s необходимо:</string>
     <string name="enable_service_encryption_warning">Если вы включите %1$s, ваше устройство не будет использовать блокировку экрана, чтобы улучшить шифрование данных.</string>
@@ -2184,7 +2184,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
     <string name="credentials_password_too_short">Пароль должен содержать не менее 8 символов.</string>
     <string name="credentials_wrong_password">Неверный пароль.</string>
     <string name="credentials_reset_warning">Неверный пароль. У вас есть еще один шанс, прежде чем хранилище учетных данных будет удалено.</string>
-    <string name="credentials_reset_warning_plural">Неверный пароль. У вас есть% 1 $ d больше шансов до удаления хранилища учетных данных.</string>
+    <string name="credentials_reset_warning_plural">Неверный пароль. У вас есть %1$d больше шансов до удаления хранилища учетных данных.</string>
     <string name="credentials_erased">Хранилище учетных данных удалено.</string>
     <string name="credentials_not_erased">«Хранилище учетных данных не удалось удалить».</string>
     <string name="credentials_enabled">Хранилище учетных данных включено.</string>
@@ -2328,7 +2328,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="starting_android">Запуск Android</string>
     <string name="delete">Удалить</string>
     <string name="misc_files">Различные файлы</string>
-    <string name="misc_files_selected_count">Выбран% 1 $ d из% 2 $ d</string>
+    <string name="misc_files_selected_count">Выбран %1$d из %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
     <string name="select_all">Выбрать все</string>
     <string name="hdcp_checking_title">Проверка HDCP</string>
@@ -2729,11 +2729,11 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="data_switch_started">Переключение SIM-карты данных может занять до минуты...</string>
     <string name="select_sim_for_calls">Позвонить</string>
     <string name="sim_select_card">Выберите SIM-карту</string>
-    <string name="sim_card_number_title">SIM% 1 $ d</string>
+    <string name="sim_card_number_title">SIM %1$d</string>
     <string name="sim_slot_empty">SIM-карта пуста</string>
     <string name="sim_editor_name">Имя SIM-карты</string>
     <string name="sim_name_hint">Введите имя SIM-карты</string>
-    <string name="sim_editor_title">Слот SIM% 1 $ d</string>
+    <string name="sim_editor_title">Слот SIM %1$d</string>
     <string name="sim_editor_carrier">Перевозчик</string>
     <string name="sim_editor_number">Число</string>
     <string name="sim_editor_color">Цвет SIM-карты</string>
@@ -2750,7 +2750,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="preferred_network_offload_header">Отключить трансляцию имен сети</string>
     <string name="preferred_network_offload_footer">Отключить сетевое имя Broadcast защищает от третьих лиц, получающих доступ к вашей сетевой информации.</string>
     <string name="preferred_network_offload_popup">Отключение функции Network Name Broadcast предотвратит автоматическое подключение к скрытым сетям.</string>
-    <string name="sim_signal_strength">% 1 $ d dBm% 2 $ d asu</string>
+    <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
     <string name="sim_notification_title">SIM-карты изменены.</string>
     <string name="sim_notification_summary">Нажмите, чтобы настроить</string>
     <string name="sim_pref_divider">Предпочтительная SIM-карта для</string>
@@ -3007,7 +3007,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="add_operator_account_label">ITelcel</string>
     <string name="app_ops_no_applications">Нет приложений</string>
     <string name="imei_information_summary">Относительная информация IMEI</string>
-    <string name="slot_number">(Слот% 1 $ d)</string>
+    <string name="slot_number">(Слот %1$d)</string>
     <string name="meta_info">Версия ПО</string>
     <string name="pin_enter_hint">Ввод 4-8 цифр</string>
     <string name="media_format_gesture_prompt">Нарисовать график разблокировки</string>
@@ -3266,7 +3266,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
     <string name="vargo_wifi_settings">Настройки WiFi</string>
     <string name="vargo_select_wifi">Выберите беспроводную сеть.</string>
     <string name="vargo_request_error">Сетевое исключение. Повторите попытку позже.</string>
-    <string name="touch_sound_tip">Если мощность меньше% 1 $ d, невозможно включить %2$s %% при открытии режима энергосбережения</string>
+    <string name="touch_sound_tip">Если мощность меньше %1$d, невозможно включить %2$s%% при открытии режима энергосбережения</string>
     <string name="vargo_vfun_title">Примечания к функциям V</string>
     <string name="vargo_vfun_message">V может удалить все текстовые сообщения или вызовы, которые были отправлены в другие телефонные записи ivargo, убедитесь, что функция V используется для очистки сетевого сигнала, после того как удаление не может быть восстановлено, будьте осторожны!</string>
     <string name="vargo_vfun_button_text">Больше не запрашивать</string>

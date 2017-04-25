@@ -10,6 +10,6 @@
     <string name="notify_title">Уборщик</string>
     <string name="notify_success">Загрузка успешно завершена, нажмите, чтобы установить.</string>
     <string name="notify_failure">Ошибка загрузки, ошибка данных или сбой сетевого подключения</string>
-    <string name="notify_title_down">Загрузка... %1$s %%</string>
+    <string name="notify_title_down">Загрузка... %1$s%%</string>
 </resources>
 

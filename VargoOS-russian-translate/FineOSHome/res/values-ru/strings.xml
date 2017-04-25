@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_defalt_theme">Com.huaqin.launcherEx.theme.ajoylife</string>
+    <string name="config_defalt_theme">com.huaqin.launcherEx.theme.ajoylife</string>
     <string name="app_filter_class" />
     <string name="hideapps">Скрытые приложения</string>
     <string name="application_name">Прекрасный дом</string>
@@ -8,7 +8,7 @@
     <string name="uid_name">Приложения для Android Core</string>
     <string name="folder_name">Папка Без имени</string>
     <string name="wallpaper_instructions">Установка обоев</string>
-    <string name="wallpaper_accessibility_name">Обои% 1 $ d из% 2 $ d</string>
+    <string name="wallpaper_accessibility_name">Обои %1$d из %2$d</string>
     <string name="announce_selection">Выбрано %1$s</string>
     <string name="wallpaper_delete">Удалить</string>
     <string name="pick_image">Выбрать изображение</string>
@@ -20,8 +20,8 @@
     <string name="toggle_weight_watcher">Показать Mem</string>
     <string name="long_press_widget_to_add">Нажмите &amp; Удерживайте, чтобы выбрать виджет.</string>
     <string name="market">Магазин</string>
-    <string name="widget_dims_format">% 1 $ d Ã-% 2 $ d</string>
-    <string name="external_drop_widget_pick_format">%1$s (% 2 $ d Ã-% 3 $ d)</string>
+    <string name="widget_dims_format">%1$d × %2$d</string>
+    <string name="external_drop_widget_pick_format">%1$s (%2$d × %3$d)</string>
     <string name="external_drop_widget_error">«Не удалось удалить элемент на этом Начальном экране».</string>
     <string name="external_drop_widget_pick_title">Выберите виджет для создания</string>
     <string name="rename_folder_label">Имя папки</string>
@@ -36,9 +36,9 @@
     <string name="out_of_space">На главном экране больше нет места.</string>
     <string name="hotseat_out_of_space">В хот-споте больше нет места.</string>
     <string name="invalid_hotseat_item">Этот виджет слишком велик для hotseat.</string>
-    <string name="shortcut_installed">Ярлык \" %s \" создан.</string>
-    <string name="shortcut_uninstalled">Ярлык \" %s \" удален.</string>
-    <string name="shortcut_duplicate">Ярлык \" %s \" уже существует.</string>
+    <string name="shortcut_installed">Ярлык \"%s\" создан.</string>
+    <string name="shortcut_uninstalled">Ярлык \"%s\" удален.</string>
+    <string name="shortcut_duplicate">Ярлык \"%s\" уже существует.</string>
     <string name="title_select_shortcut">Выберите ярлык</string>
     <string name="title_select_application">Выберите приложение</string>
     <string name="all_apps_button_label">Программы</string>
@@ -89,11 +89,11 @@
     <string name="uninstall_system_app_text">«Это системное приложение и его невозможно удалить».</string>
     <string name="dream_name">Пусковая установка</string>
     <string name="folder_hint_text">Папка Без имени</string>
-    <string name="workspace_description_format">Главный экран% 1 $ d</string>
-    <string name="default_scroll_format">Страница% 1 $ d из% 2 $ d</string>
-    <string name="workspace_scroll_format">Начальный экран% 1 $ d из% 2 $ d</string>
-    <string name="apps_customize_apps_scroll_format">Страница приложений% 1 $ d из% 2 $ d</string>
-    <string name="apps_customize_widgets_scroll_format">Страница виджетов:% 1 $ d из% 2 $ d</string>
+    <string name="workspace_description_format">Главный экран %1$d</string>
+    <string name="default_scroll_format">Страница %1$d из %2$d</string>
+    <string name="workspace_scroll_format">Начальный экран %1$d из %2$d</string>
+    <string name="apps_customize_apps_scroll_format">Страница приложений %1$d из %2$d</string>
+    <string name="apps_customize_widgets_scroll_format">Страница виджетов: %1$d из %2$d</string>
     <string name="first_run_cling_title">Добро пожаловать!</string>
     <string name="first_run_cling_description">Чувствуйте себя как дома.</string>
     <string name="first_run_cling_custom_content_hint" />
@@ -107,7 +107,7 @@
     <string name="folder_cling_create_folder">Чтобы создать его, нажмите &amp; Держите приложение, а затем переместите его над другим.</string>
     <string name="cling_dismiss">ОК</string>
     <string name="dummy_custom_cling_error_message">Ошибка: пользовательский макет рабочей области передан, но пользовательское привязку не было перезаписано.</string>
-    <string name="folder_opened">Папка открыта,% 1 $ d на% 2 $ d</string>
+    <string name="folder_opened">Папка открыта, %1$d на %2$d</string>
     <string name="folder_tap_to_close">Нажмите, чтобы закрыть папку</string>
     <string name="folder_tap_to_rename">Нажмите, чтобы сохранить переименование</string>
     <string name="folder_closed">Папка закрыта</string>
@@ -141,8 +141,8 @@
     <string name="settings_gestures_down2_gesture_title">Сдвиг двойного пальца вниз</string>
     <string name="settings_gestures_up2_gesture_title">Двойной палец вверх</string>
     <string name="widget_button_text">Виджеты</string>
-    <string name="add_application">Добавить приложение (% 1 $ d /% 2 $ d)</string>
-    <string name="hide_application">Скрытые приложения (% 1 $ d /% 2 $ d)</string>
+    <string name="add_application">Добавить приложение (%1$d/%2$d)</string>
+    <string name="hide_application">Скрытые приложения (%1$d/%2$d)</string>
     <string name="cancel">Отмена</string>
     <string name="ok">ОК</string>
     <string name="custom_toast_normal_1">Ничего себе ~</string>

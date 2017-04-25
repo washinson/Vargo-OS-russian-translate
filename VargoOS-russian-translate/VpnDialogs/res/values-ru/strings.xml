@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="prompt">Запрос подключения</string>
-    <string name="warning">%s хочет установить VPN-соединение, которое позволяет ему контролировать сетевой трафик. Принимайте только, если вы доверяете источнику. &Lt; br /> &lt; br /> &lt; img src = vpn_icon /> появляется в верхней части экрана, когда VPN активен.</string>
+    <string name="warning">%s хочет установить VPN-соединение, которое позволяет ему контролировать сетевой трафик. Принимайте только, если вы доверяете источнику. &lt; br /> &lt; br /> &lt; img src = vpn_icon /> появляется в верхней части экрана, когда VPN активен.</string>
     <string name="legacy_title">VPN подключен</string>
     <string name="configure">Настроить</string>
     <string name="disconnect">Отключить</string>

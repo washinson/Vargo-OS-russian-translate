@@ -45,9 +45,9 @@
     <string name="advanced_settings">Дополнительные настройки</string>
     <string name="auth_username_title">Имя пользователя для аутентификации</string>
     <string name="auth_username_summary">Имя пользователя, используемое для аутентификации</string>
-    <string name="default_preference_summary">&Lt; Не установлено></string>
-    <string name="display_name_summary">&Lt; То же, что username></string>
-    <string name="optional_summary">&Lt; Необязательный></string>
+    <string name="default_preference_summary">&lt; Не установлено></string>
+    <string name="display_name_summary">&lt; То же, что username></string>
+    <string name="optional_summary">&lt; Необязательный></string>
     <string name="default_port">5060</string>
     <string name="default_transport">UDP</string>
     <string name="advanced_settings_show">Â- · Нажмите, чтобы показать все</string>
@@ -537,14 +537,14 @@
     <string name="throttle_time_frame">Период использования данных</string>
     <string name="throttle_rate">Политика в отношении скорости передачи данных</string>
     <string name="throttle_help">Выучить больше</string>
-    <string name="throttle_status_subtext">" %1$s (% 2 $ d) из максимального периода в %3$s
-Следующий период начинается с% 4 $ d дней ( %5$s) "</string>
-    <string name="throttle_data_usage_subtext">%1$s (% 2 $ d) из максимального периода в %3$s</string>
+    <string name="throttle_status_subtext">" %1$s (%2$d٪) из максимального периода в %3$s
+Следующий период начинается с %4$d дней ( %5$s) "</string>
+    <string name="throttle_data_usage_subtext">%1$s (%2$d٪) из максимального периода в %3$s</string>
     <string name="throttle_data_rate_reduced_subtext">Превышен максимум: %1$s
-Скорость передачи данных уменьшена до% 2 $ d Kb / s "</string>
-    <string name="throttle_time_frame_subtext">"% 1 $ dªª пройденного цикла
-Следующий период начинается в% 2 $ d дня ( %3$s) "</string>
-    <string name="throttle_rate_subtext">Скорость передачи данных снижена до% 1 $ d Kb / s, если превышен лимит использования данных</string>
+Скорость передачи данных уменьшена до %2$d Kb/s "</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ пройденного цикла
+Следующий период начинается в %2$d дня ( %3$s) "</string>
+    <string name="throttle_rate_subtext">Скорость передачи данных снижена до %1$d Kb/s, если превышен лимит использования данных</string>
     <string name="throttle_help_subtext">«Дополнительная информация о политике использования данных сотовой сети вашего оператора»</string>
     <string name="cell_broadcast_sms">Сотовая трансляция SMS</string>
     <string name="enable_disable_cell_bc_sms">Сотовая трансляция SMS</string>
@@ -860,7 +860,7 @@
     <string name="alert_dialog_dismiss">Отклонить</string>
     <string name="voicemail_provider">обслуживание</string>
     <string name="voicemail_settings">Настроить</string>
-    <string name="voicemail_number_not_set">&Lt; Не установлено></string>
+    <string name="voicemail_number_not_set">&lt; Не установлено></string>
     <string name="other_settings">Другие настройки вызова</string>
     <string name="calling_via_template">Вызов через %s</string>
     <string name="contactPhoto">Контактное фото</string>

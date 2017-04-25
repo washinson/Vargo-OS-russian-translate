@@ -9,8 +9,8 @@
     <string name="action_text">Текст %s</string>
     <string name="action_call">Позвонить: %s</string>
     <string name="empty_tag_prompt">Этот тег пуст.</string>
-    <string name="import_vcard">Импорт ^ 1</string>
+    <string name="import_vcard">Импорт ^1</string>
     <string name="mime_display_name">Данные из тега NFC</string>
-    <string name="vcard_title">Контактная информация для ^ 1</string>
+    <string name="vcard_title">Контактная информация для ^1</string>
 </resources>
 

@@ -1145,7 +1145,7 @@
     <string name="key_preview_popup_dismiss_delay">Задержка отмены всплывающего окна</string>
     <string name="key_preview_popup_dismiss_no_delay">Без задержки</string>
     <string name="key_preview_popup_dismiss_default_delay">По умолчанию</string>
-    <string name="abbreviation_unit_milliseconds">%смс</string>
+    <string name="abbreviation_unit_milliseconds">%sms</string>
     <string name="settings_system_default">Системные установки по умолчанию</string>
     <string name="use_contacts_dict">Предложить имена контактов</string>
     <string name="use_contacts_dict_summary">Использовать имена из контактов для предложений и исправлений</string>
@@ -1270,8 +1270,8 @@
     <string name="install_dict">Установить</string>
     <string name="cancel_download_dict">Отмена</string>
     <string name="delete_dict">Удалить</string>
-    <string name="should_download_over_metered_prompt">«Выбранный язык на мобильном устройстве имеет доступный словарь. &Lt; br /> Мы рекомендуем &lt; b> скачивание &lt; / b> словаря %1$s, чтобы улучшить ваш опыт печати. ​​&Lt; br /> &lt; br / > Загрузка может занять минуту или две через 3G. Плата может взиматься, если у вас нет &lt; b> неограниченного тарифного плана &lt; / b>. &Lt; br /> Если вы не знаете, какой у вас план данных, Мы рекомендуем найти подключение Wi-Fi для автоматического запуска загрузки. &Lt; br /> &lt; br /> Совет. Вы можете загружать и удалять словари, перейдя на &lt; b> Language &amp; вход &lt; / b> в &lt; b; B> Настройки &lt / / b> на мобильном устройстве. "</string>
-    <string name="download_over_metered">Загрузить (% 1 $.1fMB)</string>
+    <string name="should_download_over_metered_prompt">«Выбранный язык на мобильном устройстве имеет доступный словарь. &lt; br /> Мы рекомендуем &lt; b> скачивание &lt; / b> словаря %1$s, чтобы улучшить ваш опыт печати. ​​&lt; br /> &lt; br / > Загрузка может занять минуту или две через 3G. Плата может взиматься, если у вас нет &lt; b> неограниченного тарифного плана &lt; / b>. &lt; br /> Если вы не знаете, какой у вас план данных, Мы рекомендуем найти подключение Wi-Fi для автоматического запуска загрузки. &lt; br /> &lt; br /> Совет. Вы можете загружать и удалять словари, перейдя на &lt; b> Language &amp; вход &lt; / b> в &lt; b; B> Настройки &lt / / b> на мобильном устройстве. "</string>
+    <string name="download_over_metered">Загрузить (%1$.1fMB)</string>
     <string name="do_not_download_over_metered">Загрузка через Wi-Fi</string>
     <string name="dict_available_notification_title">Словарь доступен для %1$s</string>
     <string name="dict_available_notification_description">Нажмите для просмотра и загрузки</string>

@@ -92,7 +92,7 @@
     <string name="collect_nodata_msg2">Ç ™ »å½ • å Žå ¯å Œæ ¥ æ ‰ € æœ ‰ è®¾å¤ ‡ æ» ¶è- è® ° å½ •</string>
     <string name="collect_nodata_msg3">Ç,¹å ‡ »ç ™» é ™ †</string>
     <string name="com_facebook_loading">Загружается...</string>
-    <string name="commplayer_ad_time">&Lt; font color = # ffffff> å¹¿å'Šè¿~å ‰ © &lt; / font> &amp; # 160; &lt; font color = # ff6000> %1$s &lt; / font></string>
+    <string name="commplayer_ad_time">&lt; font color = # ffffff> å¹¿å'Šè¿~å ‰ © &lt; / font> &amp; # 160; &lt; font color = # ff6000> %1$s &lt; / font></string>
     <string name="commplayer_anthlogy_warning">Æ'æ "¾å¼¸å¸, è¯ · å ‡ æ ¢ å ‰ §é> †!</string>
     <string name="commplayer_anthlogy_zy_warning">É € ‰ é> † å¼¸å¸, è¯ · å ‡ æ ¢ å... ¶ä »-é € ‰ é> †.</string>
     <string name="commplayer_anthology_tips">Å ‰ §é> † é € ‰ æ <©:</string>
@@ -234,7 +234,7 @@
     <string name="lable_uname">Ç ™ »å½ • å¸ å ·:</string>
     <string name="lable_upwd">"Å¯ † ç:"</string>
     <string name="lable_upwdcom">É ‡ å¤ å¯ † ç:</string>
-    <string name="list_number_orange">&Lt; font color = # 999999> LEFT &lt; / font> &amp; # 160;: &amp; 160; &lt; font color = # ff8a00 size = 38> MIDDLE &lt; font &gt; font color = # ff8a00 &gt; RIGHT &lt; / Font></string>
+    <string name="list_number_orange">&lt; font color = # 999999> LEFT &lt; / font> &amp; # 160;: &amp; 160; &lt; font color = # ff8a00 size = 38> MIDDLE &lt; font &gt; font color = # ff8a00 &gt; RIGHT &lt; / Font></string>
     <string name="live_no_program">Æš,æ- èŠ,ç> ®å • ä¿¡æ ¯</string>
     <string name="load_data_over">Æ²¡æœ ‰ æ>'å¤šæ • ° æ ®</string>
     <string name="load_data_timeout">ÅŠ è½½æ • ° æ®å ± ± è'¥</string>
@@ -263,7 +263,7 @@
     <string name="no_scan_msg">Æš,æœª½½½å... ¥ æœ¬åœ ° ° è§ † é ¢ 'å' |</string>
     <string name="no_scan_msg2">Ç,¹å ‡ »æ ‰« æ ï¼¼åŠ è½æœ¬åœ ° ° è§ † † é ¢ 'è¿> è¡Œè§§,çœ <</string>
     <string name="overscanstring">Å ææ ¢ æ ‰ «æ</string>
-    <string name="own_coin_lable">&Lt; font color = # 99ffffff size = 28> è¿žç »ç¾å ° &lt; / font> &lt; font color = # fff176 size = 38> MID &lt; / font> &lt; font color = # 99ffffff size = 28> å ¤ © &lt; / font></string>
+    <string name="own_coin_lable">&lt; font color = # 99ffffff size = 28> è¿žç »ç¾å ° &lt; / font> &lt; font color = # fff176 size = 38> MID &lt; / font> &lt; font color = # 99ffffff size = 28> å ¤ © &lt; / font></string>
     <string name="pause_ad_exit">Æ'æ "¾å ™ ¨_æšåå ìå¹¿å'Š_ %1$s_é €€ å ‡ ºæ'æ" ¾</string>
     <string name="play_web">ÆŠ ± æ ‰ ï ¼ è¯ ¥ è§ † é ¢ 'æ'æ' ¾æº åœ ° å € å ‡ ºçŽ ° é-®é ¢ ~ï¼Œå» ºè®®é ‡ æ- ° æ'æ "¾ã €,</string>
     <string name="please_input_search_words">È¯ · è¾ "å... ¥ æ ñç' ¢ è¯</string>
@@ -280,20 +280,20 @@
     <string name="record_nodata_msg3">Ç,¹å ‡ »ç ™» é ™ †</string>
     <string name="rescanstring">É ‡ æ- ° æ ‰ «æ</string>
     <string name="s_player_last">Å · ²ç »æ~¯æœ € æ- ° ä¸ € é> † äº †</string>
-    <string name="search_associate_middle">&Lt; font color = # 333333> LEFT &lt; / font> &lt; font color = # 3097fd> TEMP &lt; / font> &lt; font color = # 333333> RIGHT &lt; / font></string>
+    <string name="search_associate_middle">&lt; font color = # 333333> LEFT &lt; / font> &lt; font color = # 3097fd> TEMP &lt; / font> &lt; font color = # 333333> RIGHT &lt; / font></string>
     <string name="search_hot_words">Å¤§å®ƒéƒ½åœ¨æ œ</string>
     <string name="search_no_result_hint">Æ²¡æœ ‰ æ ‰ ¾å ° ç> ¸å... ³è§ † é ¢ '</string>
-    <string name="search_result_black">&Lt; font color = # 999999> LEFT &lt; / font> &amp; # 160;: &# 160; &lt; font color = # 666666> RIGHT &lt; / font></string>
-    <string name="search_result_lable_1">&Lt; font color = # FF8A00> LEFT &lt; / font> &lt; font color = # 999999 size = 38> &amp; # 160; / &# 160; MIDDLE &lt; / font &gt; 160; &amp; # 160; &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt; / font></string>
-    <string name="search_result_lable_2">&Lt; font color = # 999999> LEFT &amp; # 160;: &# 160; &amp; # 160; RIGHT &lt; / font></string>
+    <string name="search_result_black">&lt; font color = # 999999> LEFT &lt; / font> &amp; # 160;: &# 160; &lt; font color = # 666666> RIGHT &lt; / font></string>
+    <string name="search_result_lable_1">&lt; font color = # FF8A00> LEFT &lt; / font> &lt; font color = # 999999 size = 38> &amp; # 160; / &# 160; MIDDLE &lt; / font &gt; 160; &amp; # 160; &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt; / font></string>
+    <string name="search_result_lable_2">&lt; font color = # 999999> LEFT &amp; # 160;: &# 160; &amp; # 160; RIGHT &lt; / font></string>
     <string name="search_result_lable_3">&Lt; font color = # 999999> LEFT &# 160; / &# 160; &lt; / font &gt; &amp; # 160; &lt; font color = # 666666> RIGHT &lt; / font></string>
-    <string name="search_result_lable_4">&Lt; font color = # ff8a00> LEFT &lt; / font></string>
-    <string name="search_result_lable_5">&Lt; font color = # 666666> LEFT &lt; / font></string>
-    <string name="search_result_lable_6">&Lt; font color = # 999999 size = 38> &gt; 160; MIDDLE &lt; / font &gt; 160; &amp; # 160; &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt;; / Font></string>
-    <string name="search_result_lable_7">&Lt; font color = # 999999> LEFT &# 160; / &# 160; &amp; # 160; RIGHT &lt; / font></string>
-    <string name="search_result_lable_8">&Lt; font color = # 999999 size = 38> FIR &# 160; &lt; / font> &lt; font color = # 666666 size = 38> SEC &lt; / font> &160; &# 160; &amp; # 160; &amp; # 160; &lt; font color = # 999999 size = 38> THI &amp; # 160; &lt; / font> &lt; font color = # 666666 size = 38> FOU &lt; / font></string>
-    <string name="search_result_lable_9">&Lt; font color = # 999999 size = 38> LEFT &amp; # 160; &lt; / font> &lt; font color = # 666666 size = 38> RIGHT &lt; / font></string>
-    <string name="search_result_orange">&Lt; font color = # 999999> LEFT &lt; / font> &160;: &# 160; &lt; font color = # ff8a00> RIGHT &lt; / font></string>
+    <string name="search_result_lable_4">&lt; font color = # ff8a00> LEFT &lt; / font></string>
+    <string name="search_result_lable_5">&lt; font color = # 666666> LEFT &lt; / font></string>
+    <string name="search_result_lable_6">&lt; font color = # 999999 size = 38> &gt; 160; MIDDLE &lt; / font &gt; 160; &amp; # 160; &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt;; / Font></string>
+    <string name="search_result_lable_7">&lt; font color = # 999999> LEFT &# 160; / &# 160; &amp; # 160; RIGHT &lt; / font></string>
+    <string name="search_result_lable_8">&lt; font color = # 999999 size = 38> FIR &# 160; &lt; / font> &lt; font color = # 666666 size = 38> SEC &lt; / font> &160; &# 160; &amp; # 160; &amp; # 160; &lt; font color = # 999999 size = 38> THI &amp; # 160; &lt; / font> &lt; font color = # 666666 size = 38> FOU &lt; / font></string>
+    <string name="search_result_lable_9">&lt; font color = # 999999 size = 38> LEFT &amp; # 160; &lt; / font> &lt; font color = # 666666 size = 38> RIGHT &lt; / font></string>
+    <string name="search_result_orange">&lt; font color = # 999999> LEFT &lt; / font> &160;: &# 160; &lt; font color = # ff8a00> RIGHT &lt; / font></string>
     <string name="setting_cache_location">È®¾ç½®ç| »çº¿ç¼" å~è · ¯å¾ "</string>
     <string name="setting_catche_size">0,00Б</string>
     <string name="setting_clear_cache_hint">Æ¸... é ™ ¤è½¯ä »¶ç¼" å~ï¼Œä¸ ä¼šå é ™ ¤æ "¶è- çš" è§ † é ¢ 'å Šæ'æ' ¾è® ° å½ •</string>
@@ -395,17 +395,17 @@
     <string name="umeng_socialize_tip_loginfailed">Ç ™ »å½ • å¤ ± è'¥ â € |</string>
     <string name="user_history_title">Æ'çš "å½ ± è§ †</string>
     <string name="user_reg_title">Æ³¨е † Œ</string>
-    <string name="vd_actor_tab_btn">&Lt; font> æŸ ¥ çœ <&lt; / font> &lt; font> MIDDLE &lt; / font> &lt; font> çš "ç® € ä" <å'Œä½œå »&lt; / font></string>
-    <string name="vd_actor_tab_des">&Lt; font color = # 999999> &lt; / font> &amp; # 160; &lt; font color = # 666666> RIGHT &lt; / font></string>
-    <string name="vd_actor_tab_tite">&Lt; font color = # 00a0e3> LEFT &lt; / font> &amp; # 160; &lt; font color = # 333333> é ¥ ° æ¼ "&lt; / font> &amp; # 160; &lt; font color = # 333333> RIGHT &lt;; / Font></string>
-    <string name="vd_actor_tab_tite_empty">&Lt; font color = # 333333> LEFT &lt; / font> &amp; # 160; &lt; font color = # 333333> é ¥ ° æ¼ "&lt; / font> &amp; # 160; &lt; font color = # 333333> RIGHT &lt;; / Font></string>
-    <string name="vd_likeness_orange">&Lt; font color = # ff8a00> LEFT &lt; / font> &lt; font color = # 999999> å † &lt; / font> &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt; / font ></string>
+    <string name="vd_actor_tab_btn">&lt; font> æŸ ¥ çœ <&lt; / font> &lt; font> MIDDLE &lt; / font> &lt; font> çš "ç® € ä" <å'Œä½œå »&lt; / font></string>
+    <string name="vd_actor_tab_des">&lt; font color = # 999999> &lt; / font> &amp; # 160; &lt; font color = # 666666> RIGHT &lt; / font></string>
+    <string name="vd_actor_tab_tite">&lt; font color = # 00a0e3> LEFT &lt; / font> &amp; # 160; &lt; font color = # 333333> é ¥ ° æ¼ "&lt; / font> &amp; # 160; &lt; font color = # 333333> RIGHT &lt;; / Font></string>
+    <string name="vd_actor_tab_tite_empty">&lt; font color = # 333333> LEFT &lt; / font> &amp; # 160; &lt; font color = # 333333> é ¥ ° æ¼ "&lt; / font> &amp; # 160; &lt; font color = # 333333> RIGHT &lt;; / Font></string>
+    <string name="vd_likeness_orange">&lt; font color = # ff8a00> LEFT &lt; / font> &lt; font color = # 999999> å † &lt; / font> &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt; / font ></string>
     <string name="version_company_name">Ç "|æç§'æŠ € (ä¸Šæμ ·) æœ ‰ é ™ å... ¬å ¸</string>
     <string name="video_click">%1$s_ %2$s_ç,¹å ‡ »å¹¿å'Š</string>
     <string name="video_load_delete_confirm">Ç¡®è®¤å é ™ ¤é € ‰ ä¸çš "è§ † é ¢ 'ï¼Ÿ</string>
-    <string name="video_load_folder_orange">&Lt; font color = # 00a0e3> LEFT &lt; / font> &amp; # 160; &amp; # 160; &lt; font color = # ff8a00> RIGHT &lt; / font></string>
-    <string name="video_load_folder_orange_fault">&Lt; font color = # EE0000> LEFT &lt; / font> &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt; / font></string>
-    <string name="video_load_folder_orange_pause">&Lt; font color = # 999999> LEFT &lt; / font> &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt; / font></string>
+    <string name="video_load_folder_orange">&lt; font color = # 00a0e3> LEFT &lt; / font> &amp; # 160; &amp; # 160; &lt; font color = # ff8a00> RIGHT &lt; / font></string>
+    <string name="video_load_folder_orange_fault">&lt; font color = # EE0000> LEFT &lt; / font> &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt; / font></string>
+    <string name="video_load_folder_orange_pause">&lt; font color = # 999999> LEFT &lt; / font> &amp; # 160; &amp; # 160; &lt; font color = # 999999> RIGHT &lt; / font></string>
     <string name="video_play_finish">%1$s_ %2$s_æ'æ "¾å®Œæ</string>
     <string name="video_play_start">%1$s_ %2$s_æ'æ "¾å¼ € å§ <</string>
     <string name="video_req_success">%1$s_ %2$s_è¯ · æ ±, æ åŠŸ</string>

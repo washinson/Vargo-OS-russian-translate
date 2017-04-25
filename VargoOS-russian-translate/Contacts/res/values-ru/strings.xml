@@ -194,7 +194,7 @@
     <string name="listSingleContact">Одинарный контакт</string>
     <string name="dialog_new_contact_account">Создание контакта по учетной записи</string>
     <string name="import_from_sim">Импорт с SIM-карты</string>
-    <string name="import_from_sim_summary">Импорт из SIM ^ 1 - ^ 2</string>
+    <string name="import_from_sim_summary">Импорт из SIM ^1 - ^2</string>
     <string name="import_from_sim_summary_no_number">Импорт из SIM %1$s</string>
     <string name="import_from_sdcard">Импорт из хранилища</string>
     <string name="cancel_import_confirmation_message">Отменить импорт %s?</string>

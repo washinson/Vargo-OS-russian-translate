@@ -191,10 +191,10 @@
     <string name="no_datapk">/ -</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tb_munion_tip_download_prefix">Скачивание:</string>
-    <string name="temp_c">%1$sâ "ƒ</string>
-    <string name="temp_f">%1$sâ "‰</string>
-    <string name="temp_is_c">"" Ƒ</string>
-    <string name="temp_is_f">"" ‰</string>
+    <string name="temp_c">%1$s℃</string>
+    <string name="temp_f">%1$s℉</string>
+    <string name="temp_is_c">℃</string>
+    <string name="temp_is_f">℉</string>
     <string name="temp_range">Диапазон температур</string>
     <string name="temp_range_connector">~</string>
     <string name="temp_symbol">°</string>

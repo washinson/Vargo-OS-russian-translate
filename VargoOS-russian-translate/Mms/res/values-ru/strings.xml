@@ -32,7 +32,7 @@
     <string name="menu_forward">Вперед</string>
     <string name="download">Скачать</string>
     <string name="downloading">Скачивание</string>
-    <string name="inline_subject">&Lt; Subject: %s></string>
+    <string name="inline_subject">&lt; Subject: %s></string>
     <string name="drm_protected_text">* Защищенный текст DRM *</string>
     <string name="insufficient_drm_rights">Недостаточно прав DRM.</string>
     <string name="copy_message_text">Копировать текст</string>
@@ -255,7 +255,7 @@
     <string name="saved_ringtone_fail">Msgstr "Не удалось сохранить рингтон."</string>
     <string name="menu_group_participants">Участники группы</string>
     <string name="select_link_title">Выбрать действие</string>
-    <string name="slide_number">Слайд% ​​s</string>
+    <string name="slide_number">Слайд %​​s</string>
     <string name="delivery_report_activity">Отчет о доставке</string>
     <string name="storage_limits_activity">Пределы хранения</string>
     <string name="change_duration_activity">Изменить продолжительность</string>

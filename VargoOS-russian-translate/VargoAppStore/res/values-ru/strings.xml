@@ -98,7 +98,7 @@
     <string name="manage_wait_install">%d Установить</string>
     <string name="manage_downloading">%d Загрузить</string>
     <string name="download_item_msg_queue">Очередь</string>
-    <string name="download_item_msg_download">Загрузка %d %%</string>
+    <string name="download_item_msg_download">Загрузка %d%%</string>
     <string name="download_item_msg_wait_install">Подождите, установите</string>
     <string name="download_item_msg_manual_install">Ручная установка</string>
     <string name="download_item_msg_pause">Пауза</string>
@@ -146,7 +146,7 @@
     <string name="gift_mygift_login_bttext">Войти сейчас</string>
     <string name="gift_mygift_empty_promopt">«У вас нет подарочного мешка, быстро его достать!»</string>
     <string name="promotion_to_install">Установить</string>
-    <string name="gift_get_gift_promopt">Получите (осталось% 1 $ d) штук</string>
+    <string name="gift_get_gift_promopt">Получите (осталось %1$d) штук</string>
     <string name="gift_get_gift_none">Имеет пустые</string>
     <string name="gift_get_gift_copy">Скопируйте CDKey</string>
     <string name="gift_copyed">Скопировано</string>
