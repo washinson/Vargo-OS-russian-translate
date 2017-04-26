@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ok">@android: строка / ok</string>
+    <string name="ok">@android:string/ok</string>
     <string name="system_ui_date_pattern" />
-    <string name="app_name">BimuyuLock</string>
-    <string name="hello_world">Привет мир!</string>
+    <string name="app_name">bimuyuLock</string>
+    <string name="hello_world">Hello world!</string>
 </resources>
-

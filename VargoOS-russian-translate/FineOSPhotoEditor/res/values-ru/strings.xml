@@ -149,7 +149,7 @@
     <string name="title_activity_filter_show">Редактор фото</string>
     <string name="cannot_load_image">Не удается загрузить изображение!</string>
     <string name="cannot_edit_original">Не удается изменить оригинал</string>
-    <string name="original_picture_text">@ String / original</string>
+    <string name="original_picture_text">@string/original</string>
     <string name="setting_wallpaper">Установка обоев</string>
     <string name="download_failure">Не удалось загрузить фотографию. Сеть недоступна.</string>
     <string name="original">Оригинал</string>
@@ -161,7 +161,7 @@
     <string name="hide_imagestate_panel">Скрыть применяемые эффекты</string>
     <string name="export_image">Экспорт</string>
     <string name="print_image">Распечатать</string>
-    <string name="print_sdk">Å ‡ æ ¢ SDK</string>
+    <string name="print_sdk">切换SDK</string>
     <string name="export_flattened">Экспортировать скомпонованное изображение</string>
     <string name="select_output_settings">Экспортированное изображение будет копией без истории.</string>
     <string name="quality">Качественный</string>
@@ -175,7 +175,7 @@
     <string name="exit">Выход</string>
     <string name="history">История компании</string>
     <string name="reset">Сброс</string>
-    <string name="history_original">@ String / original</string>
+    <string name="history_original">@string/original</string>
     <string name="imageState">Прикладные эффекты</string>
     <string name="compare_original">Сравнить</string>
     <string name="apply_effect">Подать заявление</string>
@@ -190,7 +190,7 @@
     <string name="aspect16to9_effect">16: 9</string>
     <string name="aspect9to16_effects">9:16</string>
     <string name="aspectNone_effect">Свобода</string>
-    <string name="aspectOriginal_effect">@ String / original</string>
+    <string name="aspectOriginal_effect">@string/original</string>
     <string name="Fixed">Исправлена</string>
     <string name="tinyplanet">Крошечная планета</string>
     <string name="exposure">Воздействие</string>
@@ -557,7 +557,7 @@
     <string name="pref_camera_location_label">МЕСТО НАХОЖДЕНИЯ</string>
     <string name="pref_camera_timer_title">Таймер обратного отсчета</string>
     <string name="pref_camera_timer_default">0</string>
-    <string name="pref_camera_timer_sound_default">@ String / setting_on_value</string>
+    <string name="pref_camera_timer_sound_default">@string/setting_on_value</string>
     <string name="pref_camera_timer_sound_title">Звуковой сигнал во время обратного отсчета</string>
     <string name="setting_off">Прочь</string>
     <string name="setting_on">На</string>
@@ -640,19 +640,19 @@
     <string name="pref_exposure_title">Воздействие</string>
     <string name="pref_exposure_default">0</string>
     <string name="pref_exposure_label">ВОЗДЕЙСТВИЕ</string>
-    <string name="pref_camera_hdr_default">@ String / setting_off_value</string>
+    <string name="pref_camera_hdr_default">@string/setting_off_value</string>
     <string name="pref_camera_hdr_label">HDR</string>
     <string name="pref_camera_id_label_back">ПЕРЕДНЯЯ КАМЕРА</string>
     <string name="pref_camera_id_label_front">ЗАДНЯЯ КАМЕРА</string>
     <string name="dialog_ok">ОК</string>
     <string name="spaceIsLow_content">На вашем USB-накопителе закончилось место. Измените настройку качества или удалите некоторые изображения или другие файлы.</string>
-    <string name="image_file_name_format">'' IMG'_yyyyMMdd_HHmmss "</string>
+    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
-    <string name="pano_file_name_format">"PANO'_yyyyMMdd_HHmmss"</string>
+    <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">Достигнут предел размера.</string>
     <string name="pano_too_fast_prompt">Слишком быстро</string>
     <string name="pano_dialog_prepare_preview">Подготовка панорамы</string>
-    <string name="pano_dialog_panorama_failed">Msgstr "Не удалось сохранить панораму".</string>
+    <string name="pano_dialog_panorama_failed">"Не удалось сохранить панораму".</string>
     <string name="pano_dialog_title">Панорама</string>
     <string name="pano_capture_indication">Захват панорамы</string>
     <string name="pano_dialog_waiting_previous">Ожидание предыдущей панорамы</string>
@@ -671,7 +671,7 @@
     <string name="effect_backdropper_space">В космосе</string>
     <string name="effect_backdropper_sunset">Закат солнца</string>
     <string name="effect_backdropper_gallery">Ваше видео</string>
-    <string name="bg_replacement_message">Msgstr "Настроить ваше устройство.
+    <string name="bg_replacement_message">"Настроить ваше устройство.
 На какое-то мгновение уходите из виду.</string>
     <string name="video_snapshot_hint">Нажмите, чтобы сделать снимок во время записи.</string>
     <string name="video_recording_started">Запущена видеозапись.</string>

@@ -173,8 +173,8 @@
     <string name="day">-</string>
     <string name="hour">:</string>
     <string name="minute" />
-    <string name="to">-</string>
-    <string name="gift_attr_endtime_fmt">Гггг / мм / дд ЧЧ: мм</string>
+    <string name="to">--</string>
+    <string name="gift_attr_endtime_fmt">yyyy/MM/dd HH:mm</string>
     <string name="gift_attr_endtime_End">Конец</string>
     <string name="install_mgr_install_notification_install_failure">%s Ошибка установки, повторите попытку.</string>
     <string name="install_mgr_install_notification_isntall_failure_reason">Сеть может быть запечатана</string>
@@ -204,7 +204,7 @@
     <string name="manager_myapplications">Мои приложения</string>
     <string name="manager_notfound">Не в этом ivargo</string>
     <string name="dialog_download_prompttitle">Скачать совет</string>
-    <string name="numeric_ten_thousand_cn_normal">%dä¸ ‡</string>
-    <string name="numeric_ten_thousand_cn_float">%.1fä¸ ‡</string>
+    <string name="numeric_ten_thousand_cn_normal">%d万</string>
+    <string name="numeric_ten_thousand_cn_float">%.1f万</string>
 </resources>
 

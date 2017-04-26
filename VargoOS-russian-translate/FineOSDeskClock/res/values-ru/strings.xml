@@ -39,7 +39,7 @@
     <string name="minutes">%s мин.</string>
     <string name="every_day">Каждый день</string>
     <string name="never">Никогда</string>
-    <string name="day_concat">«,</string>
+    <string name="day_concat">", "</string>
     <string name="clock_instructions">Выберите часы</string>
     <string name="analog_gadget">Аналоговые часы</string>
     <string name="help">Помогите</string>
@@ -125,11 +125,11 @@
     <string name="time_picker_cancel">Отмена</string>
     <string name="time_picker_set">ОК</string>
     <string name="time_picker_time_seperator">:</string>
-    <string name="time_picker_ampm_label">-</string>
-    <string name="time_picker_00_label">: 00</string>
-    <string name="time_picker_30_label">: 30</string>
+    <string name="time_picker_ampm_label">--</string>
+    <string name="time_picker_00_label">:00</string>
+    <string name="time_picker_30_label">:30</string>
     <string name="alarm_settings">ТРЕВОГИ</string>
-    <string name="see_all">Посмотреть allâ € |</string>
+    <string name="see_all">Посмотреть all...</string>
     <string name="desk_clock_help_url" />
     <string name="stopwatch_service_desc">Служба секундомера для запуска уведомления.</string>
     <string name="swn_stopped">Остановлен</string>
@@ -158,12 +158,12 @@
     <string name="timer_delete_confirmation">Удалить этот таймер?</string>
     <string name="city_delete_confirmation">Удалить этот город?</string>
     <string name="digital_gadget">Цифровые часы</string>
-    <string name="clock_24_hours_format">Kk: мм</string>
-    <string name="main_widget_12_hours_format">Ч: мм</string>
-    <string name="wc_widget_12_hours_format">Ч: мм<font size="14" face="sans-serif-condensed"><b>a</b></font></string>
-    <string name="main_clock_12_hours_format">Ч: мм<font size="16" face="sans-serif-condensed"><b>a</b></font></string>
-    <string name="world_clock_12_hours_format">Ч: мм<font size="14" face="sans-serif-condensed"><b>a</b></font></string>
-    <string name="alarm_time_12_hours_format">Ч: мм<font size="14" face="sans-serif-condensed"><b>a</b></font></string>
+    <string name="clock_24_hours_format">kk:mm</string>
+    <string name="main_widget_12_hours_format">h:mm</string>
+    <string name="wc_widget_12_hours_format">h:mm <font size="14" face="sans-serif-condensed"><b>a</b></font></string>
+    <string name="main_clock_12_hours_format">h:mm <font size="16" face="sans-serif-condensed"><b>a</b></font></string>
+    <string name="world_clock_12_hours_format">h:mm <font size="14" face="sans-serif-condensed"><b>a</b></font></string>
+    <string name="alarm_time_12_hours_format">h:mm <font size="14" face="sans-serif-condensed"><b>a</b></font></string>
     <string name="no_alarms">Нет предупреждений</string>
     <string name="no_upcoming_alarms">НЕТ ПРЕДПОЛАГАЕМЫХ СИГНАЛОВ</string>
     <string name="capital_on">НА</string>
@@ -255,11 +255,11 @@
     <string name="select_year">Выберите год</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
     <string name="deleted_key">Удалено: %1$s</string>
-    <string name="time_placeholder">-</string>
+    <string name="time_placeholder">--</string>
     <string name="time_separator">:</string>
-    <string name="radial_numbers_typeface">без засечек</string>
-    <string name="sans_serif">без засечек</string>
-    <string name="day_of_week_label_typeface">без засечек</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
     <item type="string" name="APKTOOL_DUMMY_3">false</item>
     <item type="string" name="APKTOOL_DUMMY_4">false</item>
     <item type="string" name="APKTOOL_DUMMY_5">false</item>

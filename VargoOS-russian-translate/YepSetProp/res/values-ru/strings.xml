@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="set_adb_prop_display">\ #### 8989 #</string>
-    <string name="set_aplog_code">\ #### 7878 #</string>
-    <string name="set_qxdmlog_code">\ #### 8787 #</string>
-    <string name="set_usb_sn_code">\ #### 8789 #</string>
+    <string name="set_adb_prop_display">\####8989#</string>
+    <string name="set_aplog_code">\####7878#</string>
+    <string name="set_qxdmlog_code">\####8787#</string>
+    <string name="set_usb_sn_code">\####8789#</string>
     <string name="app_name">Настройки свойств</string>
     <string name="activity_name">Задать свойства</string>
     <string name="activity_enabled">включить</string>
@@ -20,10 +20,10 @@
     <string name="set_unique_sn_activity_name">Установить уникальный серийный номер USB</string>
     <string name="open_factory_mode">Начать фабричный режим</string>
     <string name="open_user_mode">Запуск пользовательского режима</string>
-    <string name="current_factory_mode">Msgstr "Текущий телефон до заводского режима!
+    <string name="current_factory_mode">"Текущий телефон до заводского режима!
 Чтобы изменить режим телефона, необходимо перезапустить его.
 Щелчок будет автоматически перезагружен после установки телефона!" </string>
-    <string name="current_user_mode">Msgstr "Текущий телефон в пользовательском режиме!
+    <string name="current_user_mode">"Текущий телефон в пользовательском режиме!
 Чтобы изменить режим телефона, необходимо перезапустить его.
 Щелчок будет автоматически перезагружен после установки телефона!" </string>
     <string name="caveat_user_mode">Текущий телефон - это уже пользовательский режим!</string>

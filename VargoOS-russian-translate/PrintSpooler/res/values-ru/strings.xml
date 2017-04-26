@@ -5,7 +5,7 @@
     <string name="mediasize_standard_japan">2</string>
     <string name="mediasize_standard_china">3</string>
     <string name="mediasize_default">ISO_A4</string>
-    <string name="mediasize_standard">@ String / mediasize_standard_iso</string>
+    <string name="mediasize_standard">@string/mediasize_standard_iso</string>
     <string name="app_label">Диспетчер очереди печати</string>
     <string name="more_options_button">Больше вариантов</string>
     <string name="label_destination">Место назначения</string>

@@ -23,16 +23,16 @@
     <string name="incoming_file_confirm_Notification_title">Общий доступ Bluetooth: входящий файл</string>
     <string name="incoming_file_confirm_Notification_caption">Вы хотите получить этот файл?</string>
     <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите, что вы хотите получить этот файл.</string>
-    <string name="notification_receiving">Доля Bluetooth: получение %1$s</string>
-    <string name="notification_received">Доля Bluetooth: получено %1$s</string>
+    <string name="notification_receiving">Bluetooth: получение %1$s</string>
+    <string name="notification_received">Bluetooth: получено %1$s</string>
     <string name="notification_received_fail">Доля Bluetooth: файл %1$s не получен</string>
-    <string name="notification_sending">Доля Bluetooth: отправка %1$s</string>
-    <string name="notification_sent">Доля Bluetooth: отправлено %1$s</string>
-    <string name="empty_file_notification_sent">Доля Bluetooth: удаленный файл с нулевой длиной %1$s</string>
+    <string name="notification_sending">Bluetooth: отправка %1$s</string>
+    <string name="notification_sent">Bluetooth: отправлено %1$s</string>
+    <string name="empty_file_notification_sent">Bluetooth: удаленный файл с нулевой длиной %1$s</string>
     <string name="notification_sent_complete">100% выполнено</string>
-    <string name="notification_sent_fail">Доля Bluetooth: файл %1$s не отправлен</string>
+    <string name="notification_sent_fail">Bluetooth: файл %1$s не отправлен</string>
     <string name="download_title">Передача файла</string>
-    <string name="download_line1">From: \"%1$s\"</string>
+    <string name="download_line1">Из: \"%1$s\"</string>
     <string name="download_line2">Файл: %1$s</string>
     <string name="download_line3">Размер файла: %1$s</string>
     <string name="download_line4" />
@@ -59,10 +59,10 @@
     <string name="upload_fail_cancel">Закрыть</string>
     <string name="bt_error_btn_ok">ОК</string>
     <string name="unknown_file">Неизвестный файл</string>
-    <string name="unknown_file_desc">Msgstr "Нет приложения для обработки этого типа файла.
+    <string name="unknown_file_desc">"Нет приложения для обработки этого типа файла.
 "</string>
     <string name="not_exist_file">Нет файла</string>
-    <string name="not_exist_file_desc">Msgstr "Файл не существует.
+    <string name="not_exist_file_desc">"Файл не существует.
 "</string>
     <string name="enabling_progress_title">Подождите...</string>
     <string name="enabling_progress_content">Включение Bluetooth... |</string>
@@ -100,7 +100,7 @@
     <string name="transfer_menu_open">открыто</string>
     <string name="transfer_menu_clear">Удалить из списка</string>
     <string name="transfer_clear_dlg_title">Очистить</string>
-    <string name="bluetooth_share_file_name">Bluetooth_content_share</string>
+    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="sharedUserId" />
     <string name="process" />
     <string name="upload_fail_waiting">Постоянная отправка файлов, автоматическая повторная передача позже</string>

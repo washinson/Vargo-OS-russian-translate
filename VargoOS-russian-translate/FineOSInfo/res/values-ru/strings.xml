@@ -19,7 +19,7 @@
     <string name="umeng_common_download_finish">Загрузка завершена, нажмите, чтобы установить ее.</string>
     <string name="umeng_common_patch_finish">Патч закончен, нажмите, чтобы установить его.</string>
     <string name="umeng_common_silent_download_finish">Новая версия готова, нажмите, чтобы установить ее.</string>
-    <string name="umeng_common_icon">значок</string>
+    <string name="umeng_common_icon">icon</string>
     <string name="UMBreak_Network">Убедитесь, что вы подключены к Интернету, сбой обновления</string>
     <string name="UMUpdateTitle">Найдена новая версия</string>
     <string name="UMNewVersion">Последняя версия:</string>

@@ -62,14 +62,14 @@
     <string name="keypad_name">Клавиатура</string>
     <string name="keypad_and_vibrate_name">Клавиатура и Вибрация</string>
     <string name="keypad_text">Пожалуйста, нажмите следующие клавиши:</string>
-    <string name="keypad_volume_up">УВЕЛИЧИТЬ ГРОМКОСТЬ</string>
-    <string name="keypad_volume_down">УБАВИТЬ ЗВУК</string>
+    <string name="keypad_volume_up">VOLUME_UP</string>
+    <string name="keypad_volume_down">VOLUME_DOWN</string>
     <string name="keypad_volume_mute">VOLUME_MUTE</string>
-    <string name="keypad_menu">МЕНЮ</string>
-    <string name="keypad_home">ГЛАВНАЯ</string>
-    <string name="keypad_back">НАЗАД</string>
+    <string name="keypad_menu">MENU</string>
+    <string name="keypad_home">HOME</string>
+    <string name="keypad_back">BACK</string>
     <string name="keypad_app_switch">APP_SWITCH</string>
-    <string name="keypad_focus">ФОКУС</string>
+    <string name="keypad_focus">FOCUS</string>
     <string name="keypad_camera">CAMERA</string>
     <string name="cameraback_name">CameraBack</string>
     <string name="cameraback_takepicture">Сделать фотографию</string>
@@ -139,12 +139,12 @@
     <string name="speaker_recording">Записывайтесь, пожалуйста, говорите</string>
     <string name="gps_name">GPS</string>
     <string name="gps_enable_first">Включите GPS.</string>
-    <string name="gps_latitude">Широта =</string>
-    <string name="gps_longitude">Долгота =</string>
-    <string name="gps_speed">Скорость =</string>
-    <string name="gps_speed_unit">Миз</string>
-    <string name="gps_altitude">Высота =</string>
-    <string name="gps_altitude_unit">М</string>
+    <string name="gps_latitude">latitude=</string>
+    <string name="gps_longitude">longitude=</string>
+    <string name="gps_speed">speed=</string>
+    <string name="gps_speed_unit">m/s</string>
+    <string name="gps_altitude">altitude=</string>
+    <string name="gps_altitude_unit">m</string>
     <string name="gps_bearing">Подшипник:</string>
     <string name="gps_unknown">Местоположение неизвестно или...</string>
     <string name="gps_provider_enabled">Провайдер включен</string>
@@ -175,7 +175,7 @@
     <string name="audio_title_aux">Вспомогательный МИК</string>
     <string name="audio_title_Earphone">ВПК</string>
     <string name="touch_panel_key_message">«Пожалуйста, нажмите
-&lt; %1$s KEY> "</string>
+&lt; %1$s KEY>"</string>
     <string name="set_nv_menu_text">Установите режим полного энергопотребления</string>
     <string name="set_nv_menu_password">Пожалуйста введите пароль</string>
     <string name="set_nv_menu_password_bad">«Пароли не совпадают»</string>

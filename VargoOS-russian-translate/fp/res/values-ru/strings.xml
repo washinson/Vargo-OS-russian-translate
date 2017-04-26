@@ -107,7 +107,7 @@
     <string name="msg_input_user_password">"Пожалуйста, введите пароль пользователя %1$s переключателя"</string>
     <string name="msg_switch_user_failed">Сбой пользователя с коммутатором, проверьте, открыта ли функция в XML</string>
     <string name="msg_delete_user_failed">Не удалось удалить пользователя. Повторите попытку.</string>
-    <string name="msg_input_delete_user_password">Msgstr "Вы уверены, что хотите удалить информацию о пользователе %1$s?".</string>
+    <string name="msg_input_delete_user_password">"Вы уверены, что хотите удалить информацию о пользователе %1$s?".</string>
     <string name="msg_save_user_failed_pw_encrypt">Сбой шифрования пароля, сохранение информации о пользователе, повторите попытку.</string>
     <string name="msg_get_user_pw_failed">Получить сбой пользовательского пароля, повторите попытку.</string>
     <string name="msg_password_is_wrong">Введен неправильный пароль</string>

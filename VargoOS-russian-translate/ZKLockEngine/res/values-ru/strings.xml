@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Zooking LockScreen</string>
-    <string name="app_name_meizu">ÅŠ¨æ € ä¸ »é ¢ ~æœ åŠ¡</string>
-    <string name="wallpaper_name">ÆŽŒé... · åŠ¨æ € å £ çº¸</string>
-    <string name="wallpaper_description">ÆŽŒé... · åŠ¨æ € å çº¸ï¼¤å¤šç§ åŠ¨æ € å'Œé ™ æ € å £ çº¸èμ "æº éš å¿ƒæ ¢ ï¼</string>
-    <string name="wallpaper_author">Æ · ± åœ³æŽŒé... · è ½ »» ¶æœ ‰ é ™ å... ¬å ¸</string>
+    <string name="app_name_meizu">动态主题服务</string>
+    <string name="wallpaper_name">掌酷动态壁纸</string>
+    <string name="wallpaper_description">掌酷动态壁纸，多种动态和静态壁纸资源随心换！</string>
+    <string name="wallpaper_author">深圳掌酷软件有限公司</string>
 </resources>
 

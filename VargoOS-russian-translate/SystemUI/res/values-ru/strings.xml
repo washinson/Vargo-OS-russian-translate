@@ -7,12 +7,12 @@
     <string name="stop_notification_dialog_message">Вы действительно хотите никогда не показывать уведомления из этого приложения?</string>
     <string name="left_shortcut_hint">Проведите вправо для %1$s</string>
     <string name="right_shortcut_hint">Проведите влево для %1$s</string>
-    <string name="config_statusBarComponent">Com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="quick_settings_tiles_default">Wifi, bt, данные, самолет, поворот, фонарик, местоположение, горячая точка</string>
+    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
+    <string name="quick_settings_tiles_default">wifi,bt,data,airplane,rotation,flashlightnode,location,hotspot</string>
     <string name="quick_settings_tiles">по умолчанию</string>
     <string name="velocity_tracker_impl">Платформа</string>
     <string name="doze_pulse_schedule">1s, 10s, 30s, 60s</string>
-    <string name="system_ui_date_pattern">@android: строка / system_ui_date_pattern</string>
+    <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
     <string name="app_label">Пользовательский интерфейс системы</string>
     <string name="status_bar_clear_all_button">Очистить</string>
@@ -150,7 +150,7 @@
     <string name="accessibility_tty_enabled">Включен TeleTypewriter.</string>
     <string name="accessibility_ringer_vibrate">Рингер вибрирует.</string>
     <string name="accessibility_ringer_silent">Рингер молчал.</string>
-    <string name="accessibility_casting">@ String / quick_settings_casting</string>
+    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_recents_item_will_be_dismissed">Отклонить %s</string>
     <string name="accessibility_recents_item_dismissed">%s уволено.</string>
     <string name="accessibility_recents_item_launched">Запуск %s</string>
@@ -365,7 +365,7 @@
     <string name="monitoring_description_vpn">"Вы дали \"%1$s\" разрешение на настройку VPN-соединения.
 
 Это приложение может отслеживать ваше устройство и активность в сети, включая электронную почту, приложения и защищенные веб-сайты ».</string>
-    <string name="monitoring_description_legacy_vpn">Msgstr "Вы подключены к VPN (\"%1$s\").
+    <string name="monitoring_description_legacy_vpn">"Вы подключены к VPN (\"%1$s\").
 
 Поставщик услуг VPN может контролировать ваше устройство и работу в сети, включая электронную почту, приложения и защищенные веб-сайты ».</string>
     <string name="monitoring_description_vpn_device_owned">«Управление этим устройством осуществляется:
@@ -471,14 +471,14 @@
     <string name="dm_prompt">Терминал уже заблокирован</string>
     <string name="lockscreen_emergency_call">Экстренный вызов</string>
     <string name="weather_temperature_default">23</string>
-    <string name="weather_description_default">Å ° é> ¨</string>
+    <string name="weather_description_default">小雨</string>
     <string name="weather_city_default">Пекин</string>
     <string name="unlock_tip_slide">Слайд для разблокировки</string>
-    <string name="unlock_tip_camera">Å 'ä¸Šæ <-åŠ¨è¿> å... ¥ ç> ¸æœº</string>
+    <string name="unlock_tip_camera">向上拖动进入相机</string>
     <string name="text1">горка</string>
     <string name="label_date">%1$s %2$s</string>
-    <string name="defalt_lockscreen">Com.huaqin.launcherEx.theme.huaqin</string>
-    <string name="defalt_lockWallpaper">Com.huaqin.launcherEx.theme.huaqin</string>
+    <string name="defalt_lockscreen">com.huaqin.launcherEx.theme.huaqin</string>
+    <string name="defalt_lockWallpaper">com.huaqin.launcherEx.theme.huaqin</string>
     <string name="wday_year_month_day" formatted="false">%s, %s %s %s</string>
     <string name="wday_year_day_month" formatted="false">%s, %s %s %s</string>
     <string name="wday_month_day_year" formatted="false">%s, %s %s, %s</string>
@@ -494,15 +494,15 @@
     <string name="month_day_wday_noyear" formatted="false">%s %s %s</string>
     <string name="app_name">Ключевая защита</string>
     <string name="hello">Здравствуйте.</string>
-    <string name="menu_lockscreen_org">Org</string>
-    <string name="menu_lockscreen_ring">кольцо</string>
-    <string name="menu_lockscreen_winbell">Winbell</string>
-    <string name="menu_lockscreen_jigsaw">Лобзик</string>
-    <string name="menu_lockscreen_paddingTime">PaddingTime</string>
-    <string name="menu_lockscreen_ringex">Ring_suning</string>
-    <string name="menu_lockscreen_huaqin">Хуацин</string>
-    <string name="menu_lockscreen_tianping">Tianping</string>
-    <string name="menu_lockscreen_quwei">Qu wei</string>
+    <string name="menu_lockscreen_org">org</string>
+    <string name="menu_lockscreen_ring">ring</string>
+    <string name="menu_lockscreen_winbell">winbell</string>
+    <string name="menu_lockscreen_jigsaw">jigsaw</string>
+    <string name="menu_lockscreen_paddingTime">paddingTime</string>
+    <string name="menu_lockscreen_ringex">ring_suning</string>
+    <string name="menu_lockscreen_huaqin">huaqin</string>
+    <string name="menu_lockscreen_tianping">tianping</string>
+    <string name="menu_lockscreen_quwei">qu wei</string>
     <string name="description_lock_target_unlock">Разблокировать</string>
     <string name="description_lock_target_camera">Камера</string>
     <string name="description_lock_target_phone">Телефон</string>
@@ -532,31 +532,31 @@
     <string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
     <string name="default_audio_route_name">Телефон</string>
     <string name="nickname_default">FineOS</string>
-    <string name="signature_default">Ç ± ä¸ € ä¸ªäººï¼Œå ° ± è| åœ¨ä »- / å ¥ ¹èº« ä¸Šç • ™ ä¸ <è ‡ ªå · ± çš »ç • • è¿¹</string>
-    <string name="week_zhou">Å'¨</string>
-    <string name="week_xingqi">Æ~ŸæœŸ</string>
-    <string name="full_wday_month_day_no_year">MMMM d, EEEE</string>
+    <string name="signature_default">爱一个人，就要在他/她身上留下自己的痕迹</string>
+    <string name="week_zhou">周</string>
+    <string name="week_xingqi">星期</string>
+    <string name="full_wday_month_day_no_year">MMMM d ,EEEE</string>
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
     <string name="abbrev_wday_month_day_year">EEE, MMM d, yyyy</string>
-    <string name="month_day_year_week">Дд / мм / гггг EEE</string>
-    <string name="month_day_wday">Dd MM EEE</string>
+    <string name="month_day_year_week">dd/MM/yyyy EEE</string>
+    <string name="month_day_wday">dd MM EEE</string>
     <string name="month_day_week">MMM-d-EE</string>
-    <string name="year_month_day_week">Yyyy-MMM-d-EE</string>
-    <string name="month_day_year">ММ-дд-гггг</string>
-    <string name="day_moth_year">Дд-мм-гггг</string>
-    <string name="year_moth_day">Yyyy-MM-dd</string>
+    <string name="year_month_day_week">yyyy-MMM-d-EE</string>
+    <string name="month_day_year">MM-dd-yyyy</string>
+    <string name="day_moth_year">dd-MM-yyyy</string>
+    <string name="year_moth_day">yyyy-MM-dd</string>
     <string name="week_moth_day_year">EE-MMM-d-yyyy</string>
     <string name="week_day_moth_year">EE-d-MMM-yyyy</string>
-    <string name="year_moth_day_week">Yyyy-MMM-d-EE</string>
-    <string name="moth">Yyyy-MMM-d-EE</string>
-    <string name="text2">К</string>
-    <string name="text3">Разблокировать</string>
+    <string name="year_moth_day_week">yyyy-MMM-d-EE</string>
+    <string name="moth">yyyy-MMM-d-EE</string>
+    <string name="text2">to</string>
+    <string name="text3">unlock</string>
     <string name="text4" />
-    <string name="ok">@android: строка / ok</string>
+    <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name" />
     <string name="widget_default_class_name" />
     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-    <string name="clock_12hr_format">Hm</string>
+    <string name="clock_12hr_format">hm</string>
     <string name="clock_24hr_format">Hm</string>
     <string name="keyguard_password_enter_pin_code">Введите PIN-код</string>
     <string name="keyguard_password_enter_puk_code">Введите SIM PUK и новый PIN-код</string>
@@ -623,7 +623,7 @@
     <string name="keyguard_accessibility_delete_widget_start">Удалите %1$s, чтобы удалить его.</string>
     <string name="keyguard_accessibility_delete_widget_end">%1$s не будет удален.</string>
     <string name="keyguard_accessibility_next_alarm">Следующий аварийный сигнал установлен для %1$s</string>
-    <string name="password_keyboard_label_symbol_key">\? 123</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
@@ -667,13 +667,13 @@
     <string name="kg_login_account_recovery_hint">"Забыли имя пользователя или пароль?
 Посещение "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Проверка учетной записи € |</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">Msgstr "Вы неправильно ввели PIN %d раз.
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно ввели PIN %d раз.
 
 Повторите попытку через %d секунд" .</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Msgstr "Вы неверно ввели свой пароль %d раз.
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы неверно ввели свой пароль %d раз.
 
 Повторите попытку через %d секунд" .</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">Msgstr "Вы неправильно нарисовали свой шаблон разблокировки %d раз.
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы неправильно нарисовали свой шаблон разблокировки %d раз.
 
 Повторите попытку через %d секунд" .</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы пытались разблокировать телефон %d раз. После %d неудачных попыток этот телефон будет сброшен, что приведет к удалению всех его данных.</string>
@@ -683,7 +683,7 @@
     <string name="kg_failed_attempts_now_erasing_user">Вы пытались разблокировать телефон %d раз. Этот пользователь будет удален, что приведет к удалению всех пользовательских данных.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Вы пытались разблокировать телефон %d раз. После %d неудачных попыток рабочий профиль будет удален, что приведет к удалению всех данных профиля.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Вы пытались разблокировать телефон %d раз. Профиль работы будет удален, что приведет к удалению всех данных профиля.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">Msgstr "" "Вы неправильно нанесли шаблон разблокировки %d. После %d неудачных попыток вам будет предложено разблокировать ваш телефон, используя учетную запись электронной почты.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы неправильно нанесли шаблон разблокировки %d. После %d неудачных попыток вам будет предложено разблокировать ваш телефон, используя учетную запись электронной почты.
 
  Повторите попытку через %d секунд" .</string>
     <string name="kg_reordering_delete_drop_target_text">Удалить</string>

@@ -83,7 +83,7 @@
     <string name="dialpad_8_number">8</string>
     <string name="dialpad_9_number">9</string>
     <string name="dialpad_star_number">*</string>
-    <string name="dialpad_pound_number">\ #</string>
+    <string name="dialpad_pound_number">\#</string>
     <string name="dialpad_0_letters">+</string>
     <string name="dialpad_1_letters" />
     <string name="dialpad_2_letters">ABC</string>
@@ -173,7 +173,7 @@
     <string name="callFailed_low_battery">Батарея разряжена</string>
     <string name="ringtone_silent">Никто</string>
     <string name="ringtone_unknown">Неизвестный рингтон</string>
-    <string name="to_hint">1111: to; sip: abby@example.com: bcc; sip: bill@example.com: cc;</string>
+    <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
     <string name="advanced_setting">Расширенные настройки</string>
     <string name="show_ssn_label">Уведомление о событии</string>
     <string name="show_ssn_summary">Показывать уведомление о различных сетевых событиях, связанных с обработкой вызовов.</string>
@@ -191,7 +191,7 @@
     <string name="choose_forward_lookup_provider_title">Выберите поставщика прямого поиска</string>
     <string name="choose_people_lookup_provider_title">Выберите поставщика поиска людей</string>
     <string name="choose_reverse_lookup_provider_title">Выберите поставщика обратного поиска</string>
-    <string name="cyngn_reverse_lookup_provider_package">Com.cyngn.chineselocationlookup</string>
+    <string name="cyngn_reverse_lookup_provider_package">com.cyngn.chineselocationlookup</string>
     <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
     <string name="cyngn_reverse_lookup_provider_value">CyngnChinese</string>
     <string name="call_notif_unconditionalCF">Безусловная переадресация вызовов активна</string>
@@ -208,8 +208,8 @@
     <string name="call_notif_forwardcheckreceived">Переадресация вызова</string>
     <string name="call_notif_callconnectingect">Вызов соединения посредством явной передачи вызова</string>
     <string name="call_notif_callconnectedect">Вызов, подключенный посредством явной передачи вызова</string>
-    <string name="ui_default_package">Com.android.dialer</string>
-    <string name="dialer_default_class">Com.android.dialer.DialtactsActivity</string>
+    <string name="ui_default_package">com.android.dialer</string>
+    <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
     <string name="carrier_settings" />
     <string name="carrier_settings_menu" />
     <string name="phoneAppLabel">Телефон</string>
@@ -239,7 +239,7 @@
     <string name="audio_mode_earpiece">Телефонный динамик</string>
     <string name="audio_mode_wired_headset">Проводная гарнитура</string>
     <string name="audio_mode_bluetooth">блютуз</string>
-    <string name="wait_prompt_str">Msgstr "Отправить следующие тоны?
+    <string name="wait_prompt_str">"Отправить следующие тоны?
 "</string>
     <string name="pause_prompt_str">«Отправка тонов
 "</string>
@@ -418,7 +418,7 @@
     <string name="vm_changed">Номер голосовой почты изменен.</string>
     <string name="vm_change_failed">"Не удалось изменить номер голосовой почты.
 Если проблема не исчезнет, ​​обратитесь к своему оператору связи. "</string>
-    <string name="fw_change_failed">Msgstr "Не удалось изменить номер пересылки.
+    <string name="fw_change_failed">"Не удалось изменить номер пересылки.
 Если проблема не исчезнет, ​​обратитесь к своему оператору связи." </string>
     <string name="fw_get_in_vm_failed">"Не удалось получить и сохранить текущие настройки номера пересылки.
 В любом случае, переключитесь на нового поставщика? "</string>
@@ -992,7 +992,7 @@
     <string name="wifi_only">Только Wi-Fi</string>
     <string name="cellular_preferred">Предпочитаемая ячейка</string>
     <string name="cellular_only">Только сотовая связь</string>
-    <string name="account_sim">SIM-карта</string>
+    <string name="account_sim">SIM</string>
     <string name="account_sim1">SIM1</string>
     <string name="account_sim2">SIM2</string>
     <item type="string" name="APKTOOL_DUMMY_3e3">false</item>

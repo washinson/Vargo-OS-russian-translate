@@ -6,7 +6,7 @@
     <string name="sample_raw_data">Образец Rawdata</string>
     <string name="raw_data_test">Тестирование TP</string>
     <string name="dialog_title">ошибка</string>
-    <string name="stop_hotknot_tips">Msgstr "Пожалуйста, выключите службу hotknot!
+    <string name="stop_hotknot_tips">"Пожалуйста, выключите службу hotknot!
  Настройки -> Hotknot -> OFF" </string>
     <string name="dialog_title_warning">Предупреждение</string>
     <string name="dialog_positive_btn">ОК</string>
@@ -39,7 +39,7 @@
 "</string>
     <string name="version_error">"Ошибка версии FW
 "</string>
-    <string name="module_type_error">Msgstr "ошибка идентификатора типа модуля
+    <string name="module_type_error">"ошибка идентификатора типа модуля
 "</string>
     <string name="gt_short">"Короткое замыкание
 "</string>

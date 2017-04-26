@@ -20,66 +20,66 @@
     <item>Переименование</item>
     <item>Удалить</item>
   </string-array>
-  <string-array name="filter_apk">
-    <item>Apk</item>
-  </string-array>
-  <string-array name="filter_audio">
-    <item>Mp3</item>
-    <item>Aac</item>
-    <item>Wav</item>
-    <item>Wma</item>
-    <item>M4a</item>
-    <item>Середина</item>
-    <item>Mka</item>
-    <item>Обезьяна</item>
-    <item>Ogg</item>
-    <item>Amr</item>
-  </string-array>
-  <string-array name="filter_vidio">
-    <item>Avi</item>
-    <item>Asf</item>
-    <item>Wmv</item>
-    <item>Flv</item>
-    <item>Mkv</item>
-    <item>Mov</item>
-    <item>3gp</item>
-    <item>Mp4</item>
-    <item>Ts</item>
-  </string-array>
-  <string-array name="filter_pic">
-    <item>Bmp</item>
-    <item>Jpg</item>
-    <item>Jpeg</item>
-    <item>Png</item>
-    <item>Gif</item>
-    <item>Tif</item>
-    <item>Tiff</item>
-  </string-array>
-  <string-array name="filter_doc">
-    <item>Документ</item>
-    <item>Docx</item>
-  </string-array>
-  <string-array name="filter_pdf">
-    <item>Pdf</item>
-  </string-array>
-  <string-array name="filter_excel">
-    <item>Xls</item>
-    <item>Xlsx</item>
-  </string-array>
-  <string-array name="filter_ppt">
-    <item>Ppt</item>
-    <item>Pptx</item>
-  </string-array>
-  <string-array name="filter_txt">
-    <item>текст</item>
-  </string-array>
-  <string-array name="filter_zip">
-    <item>Почтовый индекс</item>
-    <item>RAR</item>
-    <item>Кувшин</item>
-    <item>такси</item>
-    <item>Смола</item>
-  </string-array>
+    <string-array name="filter_apk">
+        <item>apk</item>
+    </string-array>
+    <string-array name="filter_audio">
+        <item>mp3</item>
+        <item>aac</item>
+        <item>wav</item>
+        <item>wma</item>
+        <item>m4a</item>
+        <item>mid</item>
+        <item>mka</item>
+        <item>ape</item>
+        <item>ogg</item>
+        <item>amr</item>
+    </string-array>
+    <string-array name="filter_vidio">
+        <item>avi</item>
+        <item>asf</item>
+        <item>wmv</item>
+        <item>flv</item>
+        <item>mkv</item>
+        <item>mov</item>
+        <item>3gp</item>
+        <item>mp4</item>
+        <item>ts</item>
+    </string-array>
+    <string-array name="filter_pic">
+        <item>bmp</item>
+        <item>jpg</item>
+        <item>jpeg</item>
+        <item>png</item>
+        <item>gif</item>
+        <item>tif</item>
+        <item>tiff</item>
+    </string-array>
+    <string-array name="filter_doc">
+        <item>doc</item>
+        <item>docx</item>
+    </string-array>
+    <string-array name="filter_pdf">
+        <item>pdf</item>
+    </string-array>
+    <string-array name="filter_excel">
+        <item>xls</item>
+        <item>xlsx</item>
+    </string-array>
+    <string-array name="filter_ppt">
+        <item>ppt</item>
+        <item>pptx</item>
+    </string-array>
+    <string-array name="filter_txt">
+        <item>txt</item>
+    </string-array>
+    <string-array name="filter_zip">
+        <item>zip</item>
+        <item>rar</item>
+        <item>jar</item>
+        <item>cab</item>
+        <item>tar</item>
+    </string-array>
   <string-array name="filter_list">
     <item>Весь файл</item>
     <item>Apk-файл</item>

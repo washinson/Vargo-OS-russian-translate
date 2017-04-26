@@ -1,38 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">位置 位置</string>
-    <string name="app_label">Ç½'ç »œä½ ç½®</string>
-    <string name="location_warning_title">Ä½ ç½®è®¸å ¯</string>
-    <string name="location_warning_title_first">Ä½ ç½®è®¸å ¯</string>
-    <string name="location_warning_title_close">Ä½ ç½®è®¸å ¯</string>
-    <string name="location_warning_message">"Æ ‰" å¼ ç ™ ¾åº|ç½'ç »œå®šä½ æœååŠ¡åŠƒèƒ½å Žï¼Œæ,¨ ° † å... è®ìç ™ ¾åº|çš" ç½'ç »áå®šä½ æœååŠ¡æ" ¶é> † åŒ¿å AOE ° ç,¹æ • ° æ ®a €, C³ »ç» YA ¯èƒ½ä¼šå ° † éƒ¨å † æ • ° æ ®åŠ † å~å,¨åœ¨æ, ¨çš "è®¾å¤ ‡ ä¸Šã €, å ³ä½¿æ¨¨¨¨Ã ®®¤¤¤ ª½¿¿" »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» »» Ä¹Ÿä¼šåŠ å¯ † å¹¶æ "¶é> † æ¤ç ±" æ • ° æ ®ã €, å½ "åŠ å¯ † æ" ¶é> † æ • ° æ ®æ-¶å ° † ä¼šäº§ ç»Yae • ° æ ®æμ é ‡ è'¹ç» А € как † æ»¶é> † ČS«æ • ° æ ®a ° † ç»¨äºŽå é|ä½ ç½®ä¿¡ Æ ¯ä »¥ å ææ é« ~å®šä½ æ € §єååååååç²¾ç¡®åº|ï¼Œæ'ä »¬æ ‰ ¿è¯ºä¸ ä¼šå ° † æ" ¶é> † šš "æ • ° æ ®æ ä¾> ç " ™ ç¬¬ä¸ ‰ æ-¹æ-ç» ¨äºŽæ ä¾ æœ åŠ¡ä¹ <å¤-ČS «å... ¶ä» -с> ®çš «ã €, æ» ¶é> † ČS «æ • ° æ ®åŒ... æ <¬ï¼š
-- æ ‰ € è| æμ <é ‡ ČS «å'¨è¾¹WLAN БТРов«Ida € ä¿¡å · å¼ºåº|ä¿¡æ ¯
-- æ ‰ | | μ μ μ μ ‡ ‡ š š ¿¿¿¿¿¿¿¿¿¿¿ï ¿¿¿¿¿¿¿¿¿ï ï ï ï ï ï ï ï ï ï ï ï ï ï ƒ ƒ ƒ
-- æ ‰ | | | μ μ ‡ š š "" "" "" ¿¿¿¿¿¿¿¿¼ ¼ ¼ ½ ½ ½ ½ ƒ ƒ ƒ ï ï ï ½ ½ € € € € € € € € € € € € € €,</string>
-    <string name="location_warning_message1">Æ ‰ "å¼ ç ™ ¾åº|ç½'ç" œå®šä½ æœååŠ¡åŠƒèƒ½å Žï¼Œæ,¨åº † å... è®ìç ™ ¾åº|çš| ç½'ç »áå®šä½ æœååŠ¡æ" ¶ É> † åŒ¿å åœ ° ç,¹æ • ° æ ®ã €, ³³ »ç» Ÿå ¯èƒ½ä¼šå ° † éƒ¨ † † æ • ° æ®å å¯ † å~å,¨å¨¨æ¨ «Предыдущая тема следующая тема» Печать Страниц: [1] Вверх «предыдущая тема следующая тема» Å¯ † å¹¶æ "¶é> † æ¤ç ±" æ • ° æ®ãã €,</string>
-    <string name="location_warning_message2">Å³ "åŠ å¯ † æ" ¶é> † æ • ° æ ®æ-¶å ° † ä¼šäº§ç "Ÿæ • ° æ ®æμ é ‡ è'¹ç" ¨ã €, åŠ å¯ † æ "¶ É> † çš" æ • ° æ®å ° † ç" ¨äºŽå é|ä½ ç½®ä¿¡æ ¯ä »¥ å Šæ é« ~ååøšš ½ æ € §¿åå'Œç²¾ç¡®åº|ï¼Œæ ' Ä' ¬æ ‰ è ¯ ¸ ¸ ¼ ¼ • • ® ® æ æ ¾ ¾ ¾ ™ ® ® ® ®--¾" "¾ ¾ ¾ ¾ ¾ ¾ ¾ ¾ ¾ ¾ ¾ ¡Ä¹ <å¤-çš" å... ¶ä» -ç> ®çš "ã €, æ" ¶é> † çš "æ • ° æ ®åŒ... æ <¬ï¼š</string>
-    <string name="location_warning_message3">Æ ‰ € è| æμ <é ‡ çš "å'¨è¾¹WLAN APçš" IDã € à¿¡å · å¼ºåº|ä¿¡æ ¯</string>
-    <string name="location_warning_message4">Æ ‰ | | μ μ μ ‡ š š "" ¿¿¿¿¿| | | | ¿¿¿¿| | | | | | | | | | | | | | ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ ƒ Å † μï¼ ‰</string>
+    <string name="app_name">网络位置</string>
+    <string name="app_label">网络位置</string>
+    <string name="location_warning_title">位置许可</string>
+    <string name="location_warning_title_first">位置许可</string>
+    <string name="location_warning_title_close">位置许可</string>
+    <string name="location_warning_message">"打开百度网络定位服务功能后，您将允许百度的网络定位服务收集匿名地点数据。系统可能会将部分数据加密存储在您的设备上。即使您的设备未运行任何应用程序，该服务也会加密并收集此类数据。当加密收集数据时将会产生数据流量费用。加密收集的数据将用于反馈位置信息以及提高定位性能和精确度，我们承诺不会将收集的数据提供给第三方或用于提供服务之外的其他目的。收集的数据包括： 
+- 所要测量的周边WLAN AP的ID、信号强度信息 
+- 所要测量的周边基站的ID、信号强度信息（GSM网的情况） 
+- 所要测量的周边基站的ID、信号强度信息（CDMA 网的情况）。"</string>
+    <string name="location_warning_message1">打开百度网络定位服务功能后，您将允许百度的网络定位服务收集匿名地点数据。系统可能会将部分数据加密存储在您的设备上。即使您的设备未运行任何应用程序，该服务也会加密并收集此类数据。</string>
+    <string name="location_warning_message2">当加密收集数据时将会产生数据流量费用。加密收集的数据将用于反馈位置信息以及提高定位性能和精确度，我们承诺不会将收集的数据提供给第三方或用于提供服务之外的其他目的。收集的数据包括：</string>
+    <string name="location_warning_message3">所要测量的周边WLAN AP的ID、信号强度信息</string>
+    <string name="location_warning_message4">所要测量的周边基站的ID、信号强度信息（GSM网的情况和CDMA 网的情况）</string>
     <string name="location_warning_message5">-</string>
-    <string name="location_close_warning_message">Å... ³é-ç½'ç »œå®šä½ æœååŠ¡éƒ¨¨ † † å« ç »¨å ° † æ- æ³ • å®šä½ ã €,</string>
-    <string name="location_first_warning_message">Ä¸ää † † ç »™ æ,¨¸|æ ¥ æ>'å ¥ ççç« ç »¨æ · ä½» éªŒï¼Œç³ »ç» Ÿä¼¼ å ¯ ç çç »âååëåíèå æ å åŠ¡ã €,</string>
-    <string name="location_warning_title_1">Å Œæ "è® ° å½ • åœ ° ° ç,¹ä¿¡æ ¯</string>
-    <string name="location_warning_title_first_1">Å Œæ "è® ° å½ • åœ ° ° ç,¹ä¿¡æ ¯</string>
-    <string name="location_warning_title_close_1">Å Œæ "è® ° å½ • åœ ° ° ç,¹ä¿¡æ ¯</string>
-    <string name="location_warning_message_1">Å... è®¸ç ™ ¾åº|çš "ä½ ç½®æœ åŠ¡æ" ¶é> † åŒ¿å åœ ° ç,¹æ • ° æ®ãã, ³³ »ç» Ÿå ¯èƒ½ä¼šå ° † éƒ¨ååå † æ • ° æ ®å~å,¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨§¨¨¨¨¨¨¨¨¨¨¨¨§¨§¨§¨§¨§¨§¨§¨§¨§¨§¨§¨§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§ Åº "ç" ¨ï¼¯è¯ ¥ æœååŠ¡ä¹Ÿä¼šæ "¶é> † æ¤ç ±" æ • ° æ ®ã €, å½ "æ" ¶é> † æ • ° æ ®æ-¶å ° † ä¼šäº §ç "Ÿä¸ € å®šçš" æμ é ‡ è'¹ç "¨ã €,</string>
-    <string name="location_warning_message_one">Å... è®èìàíèå GPS å'Œ / æ- NLP åŠƒèƒ½å¼ € å à ¿½ ç½®æœ åŠ¡ã €,</string>
-    <string name="location_warning_message_two">NLP åŠƒèƒ½å® ‰ è £... å® å å¹¶å¼ å åå ïï¼Œå †... å®¹æ ä¾> å ‡ † å ° † æ "¶é> † åŒ¿å ä½ ç½®æ • ° æ®ã €, È¿ ™ å ¯èƒ½¼¼ääº§ç" Ÿé ¢ å¤-è'¹ç" ¨ã €,</string>
-    <string name="location_warning_message_three">Å Œæ "å ‰ å... ç,¹å ‡" æŸ ¥ çœ <ç> ¸å... ³å †... å®¹</string>
-    <string name="always_wifi_scan_tip_four">Å ³ä½Àå¨¨ WLAN å... ³é-æ-¶ï¼Œä¹Ÿå ¯ç "¨å§ <ç" å... è®¸æ ‰ «æ é ™» è¿ 'WLANã €,</string>
-    <string name="never_show_tip">Ä¸ å † æ~¾ç¤º</string>
-    <string name="always_wifi_scan_tip_tittle">Æ € »æ~¯å... è®¸æ ‰« æ</string>
-    <string name="always_wifi_scan_tip_content">Å ³ä½Àåœ¨WLANå... ³é-æ-¶ï¼Œä¹Ÿå... è®®ç''çç »œå®šä½ æœååŠ¡å'Œåº" ç "¨ç¨ <åº æ ‰« æ WLAN</string>
-    <string name="always_dialog_scan_tip_prompt">Ä¸ å † æ ç¤º</string>
-    <string name="agree">Å Œæ "</string>
-    <string name="disagree">Ä¸ å Œæ "</string>
-    <string name="close_agree">Ç¡®å®š</string>
-    <string name="close_disagree">Å -æ</string>
+    <string name="location_close_warning_message">关闭网络定位服务部分应用将无法定位。</string>
+    <string name="location_first_warning_message">为了给您带来更好的用户体验，系统会开启网络定位服务。</string>
+    <string name="location_warning_title_1">同意记录地点信息</string>
+    <string name="location_warning_title_first_1">同意记录地点信息</string>
+    <string name="location_warning_title_close_1">同意记录地点信息</string>
+    <string name="location_warning_message_1">允许百度的位置服务收集匿名地点数据。系统可能会将部分数据存储在您的设备上。即使您的设备未运行任何应用，该服务也会收集此类数据。当收集数据时将会产生一定的流量费用。</string>
+    <string name="location_warning_message_one">允许通过 GPS 和/或 NLP 功能开启位置服务。</string>
+    <string name="location_warning_message_two">NLP 功能安装完成并开启后，内容提供商将收集匿名位置数据。这可能会产生额外费用。</string>
+    <string name="location_warning_message_three">同意前先点击查看相关内容</string>
+    <string name="always_wifi_scan_tip_four">即使在 WLAN 关闭时，也启用始终允许扫描附近 WLAN。</string>
+    <string name="never_show_tip">不再显示</string>
+    <string name="always_wifi_scan_tip_tittle">总是允许扫描</string>
+    <string name="always_wifi_scan_tip_content">即使在WLAN关闭时，也允许网络定位服务和应用程序扫描WLAN</string>
+    <string name="always_dialog_scan_tip_prompt">不再提示</string>
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+    <string name="close_agree">确定</string>
+    <string name="close_disagree">取消</string>
     <string name="sanxing">124i</string>
-    <string name="changhong">Nl1036</string>
+    <string name="changhong">nl1036</string>
 </resources>
-

@@ -43,9 +43,9 @@
     <string name="confirm_delete">Вы хотите удалить все выбранные сообщения?</string>
     <string name="confirm_delete_all">Вы хотите удалить все сообщения?</string>
     <string name="instaled">(Установлен)</string>
-    <string name="browser_appl">Приложение: Браузер</string>
-    <string name="mms_appl">Применение: MMS</string>
-    <string name="email_appl">Приложение: EMAIL</string>
+    <string name="browser_appl">Application:Browser</string>
+    <string name="mms_appl">Application:MMS</string>
+    <string name="email_appl">Application:EMAIL</string>
     <string name="sim1">SIM1</string>
     <string name="sim2">SIM2</string>
 </resources>

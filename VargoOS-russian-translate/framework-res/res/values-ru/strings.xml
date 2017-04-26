@@ -100,7 +100,7 @@
     <string name="config_rat_2g">2G</string>
     <string name="config_rat_3g">3G</string>
     <string name="config_rat_4g">4G</string>
-    <string name="prohibit_manual_network_selection_in_gobal_mode">ложный</string>
+    <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
     <string name="locale_codes" />
     <string name="def_custom_sys_ringtone" />
     <string name="def_custom_sys_ringtone2" />
@@ -129,7 +129,7 @@
     <string name="common_name_suffixes" />
     <string name="common_last_name_prefixes" />
     <string name="common_name_conjunctions" />
-    <string name="lock_pattern_view_aspect">квадрат</string>
+    <string name="lock_pattern_view_aspect">square</string>
     <string name="icu_abbrev_wday_month_day_no_year">eeeMMMMd</string>
     <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
     <string name="font_family_display_4_material">sans-serif-light</string>
@@ -582,7 +582,7 @@
     <string name="permlab_writeSettings">Изменить системные настройки</string>
     <string name="permdesc_writeSettings">«Приложение сможет изменять настройки системы. Вредоносные приложения могут повредить конфигурацию вашей системы».</string>
     <string name="permlab_writeSecureSettings">Изменить настройки безопасности системы</string>
-    <string name="permdesc_writeSecureSettings">Msgstr "" "Позволяет приложению изменять данные настройки безопасности системы, а не для обычных приложений".</string>
+    <string name="permdesc_writeSecureSettings">"Позволяет приложению изменять данные настройки безопасности системы, а не для обычных приложений".</string>
     <string name="permlab_writeGservices">Изменить карту сервисов Google</string>
     <string name="permdesc_writeGservices">Приложение сможет изменять карту сервисов Google. Не для использования обычными приложениями.</string>
     <string name="permlab_receiveBootCompleted">запускаться при старте</string>
@@ -592,7 +592,7 @@
     <string name="permlab_readContacts">Читать ваши контакты</string>
     <string name="permdesc_readContacts">"Приложение сможет считывать данные о ваших контактах, сохраненных на вашем телефоне, в том числе частоту, с которой вы звонили, отправляли по электронной почте или сообщали другим способом определенным людям. Это разрешение позволяет приложениям сохранять ваши контактные данные, а вредоносные приложения могут Делиться контактными данными без вашего ведома ».</string>
     <string name="permlab_writeContacts">Измените контакты</string>
-    <string name="permdesc_writeContacts">Msgstr "" "Позволяет приложению изменять данные о ваших контактах, сохраненных на вашем телефоне, в том числе частоту, с которой вы звонили, отправляете по электронной почте или обмениваетесь другими способами с помощью определенных контактов. Это разрешение позволяет приложениям удалять контактные данные".</string>
+    <string name="permdesc_writeContacts">"Позволяет приложению изменять данные о ваших контактах, сохраненных на вашем телефоне, в том числе частоту, с которой вы звонили, отправляете по электронной почте или обмениваетесь другими способами с помощью определенных контактов. Это разрешение позволяет приложениям удалять контактные данные".</string>
     <string name="permlab_readCallLog">Читать журнал вызовов</string>
     <string name="permdesc_readCallLog">«Приложение сможет читать журнал вызовов вашего телефона, включая данные о входящих и исходящих вызовах. Это разрешение позволяет приложениям сохранять ваши данные журнала вызовов, а вредоносные приложения могут делиться данными журнала вызовов без вашего ведома».</string>
     <string name="permlab_writeCallLog">Запись журнала вызовов</string>
@@ -971,16 +971,16 @@
     <string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты... |</string>
     <string name="lockscreen_airplane_mode_on">Авиа режим</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Msgstr "Вы неправильно нарисовали свой шаблон разблокировки %d раз.
+    <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Вы неправильно нарисовали свой шаблон разблокировки %d раз.
 
 Повторите попытку через %d секунд" .</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">Msgstr "Вы неверно ввели свой пароль %d раз.
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы неверно ввели свой пароль %d раз.
 
 Повторите попытку через %d секунд" .</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Msgstr "Вы неправильно ввели PIN %d раз.
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно ввели PIN %d раз.
 
 Повторите попытку через %d секунд" .</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Msgstr "" "Вы неправильно нарисовали свой шаблон разблокировки %d. После %d неудачных попыток вам будет предложено разблокировать ваш телефон, используя ваш вход в Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы неправильно нарисовали свой шаблон разблокировки %d. После %d неудачных попыток вам будет предложено разблокировать ваш телефон, используя ваш вход в Google.
 
  Повторите попытку через %d секунд" .</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Вы пытались разблокировать телефон %d раз. После %d неудачных попыток телефон будет сброшен до заводских настроек и все пользовательские данные будут потеряны.</string>
@@ -1025,7 +1025,7 @@
     <string name="keyguard_accessibility_password_unlock">Пароль разблокируется.</string>
     <string name="keyguard_accessibility_pattern_area">Область шаблона.</string>
     <string name="keyguard_accessibility_slide_area">Область слайдов.</string>
-    <string name="password_keyboard_label_symbol_key">\? 123</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="granularity_label_character">персонаж</string>
@@ -1039,7 +1039,7 @@
     <string name="factorytest_no_action">Пакет не найден, который обеспечивает действие FACTORY_TEST.</string>
     <string name="factorytest_reboot">перезагружать</string>
     <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
-    <string name="web_user_agent_target_content">«Мобильный»</string>
+    <string name="web_user_agent_target_content">"Mobile "</string>
     <string name="js_dialog_title">Страница в \" %s \" говорит:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload_title">Подтвердить навигацию</string>
@@ -1112,7 +1112,7 @@
     <string name="permlab_readHistoryBookmarks">Читать ваши веб-закладки и историю</string>
     <string name="permdesc_readHistoryBookmarks">"Позволяет приложению читать историю всех URL-адресов, которые посетил браузер, и всех закладок браузера. Примечание: это разрешение может не применяться сторонними браузерами или другими приложениями с возможностями просмотра веб-страниц."</string>
     <string name="permlab_writeHistoryBookmarks">Создавать веб-закладки и историю</string>
-    <string name="permdesc_writeHistoryBookmarks">Msgstr "" "Позволяет приложению изменять историю браузера или закладки, хранящиеся на вашем телефоне, что может привести к удалению или изменению данных браузера. Примечание: это разрешение может быть применено сторонними браузерами или другими приложениями с возможностями веб-просмотра."</string>
+    <string name="permdesc_writeHistoryBookmarks">"Позволяет приложению изменять историю браузера или закладки, хранящиеся на вашем телефоне, что может привести к удалению или изменению данных браузера. Примечание: это разрешение может быть применено сторонними браузерами или другими приложениями с возможностями веб-просмотра."</string>
     <string name="permlab_setAlarm">Установить будильник</string>
     <string name="permdesc_setAlarm">Приложение сможет устанавливать будильник в установленное приложение будильника. Некоторые приложения будильника могут не реализовывать эту функцию.</string>
     <string name="permlab_writeVoicemail">Писать голосовые сообщения</string>
@@ -1159,18 +1159,18 @@
     <string name="preposition_for_date">%s</string>
     <string name="preposition_for_time">В %s</string>
     <string name="preposition_for_year">В %s</string>
-    <string name="day">день</string>
-    <string name="days">Дней</string>
-    <string name="hour">час</string>
-    <string name="hours">Часы работы</string>
-    <string name="minute">Мин</string>
-    <string name="minutes">Мин</string>
-    <string name="second">Сек</string>
-    <string name="seconds">Сек.</string>
-    <string name="week">неделю</string>
-    <string name="weeks">Недель</string>
-    <string name="year">год</string>
-    <string name="years">Лет</string>
+    <string name="day">day</string>
+    <string name="days">days</string>
+    <string name="hour">hour</string>
+    <string name="hours">hours</string>
+    <string name="minute">min</string>
+    <string name="minutes">mins</string>
+    <string name="second">sec</string>
+    <string name="seconds">secs</string>
+    <string name="week">week</string>
+    <string name="weeks">weeks</string>
+    <string name="year">year</string>
+    <string name="years">years</string>
     <string name="relative_time">%1$s, %2$s</string>
     <string name="noon">полдень</string>
     <string name="Noon">Полдень</string>
@@ -1216,7 +1216,7 @@
     <string name="anr_activity_application">« %2$s не отвечает.
 
 Вы хотите закрыть его? "</string>
-    <string name="anr_activity_process">Msgstr "Активность %1$s не отвечает.
+    <string name="anr_activity_process">"Активность %1$s не отвечает.
 
 Вы хотите закрыть его?" </string>
     <string name="anr_application_process">" %1$s не отвечает. Вы хотите закрыть его?"</string>
@@ -1293,10 +1293,10 @@
     <string name="wifi_p2p_frequency_conflict_message">«Телефон временно отключится от WLAN, пока он подключен к %1$s»</string>
     <string name="select_character">Вставить символ</string>
     <string name="sms_control_title">Отправка SMS-сообщений</string>
-    <string name="sms_control_message">&lt; b> %1$s &lt; / b> отправляет большое количество SMS-сообщений. Разрешить этому приложению продолжать отправку сообщений?</string>
+    <string name="sms_control_message">&lt;b>%1$s&lt;/b> отправляет большое количество SMS-сообщений. Разрешить этому приложению продолжать отправку сообщений?</string>
     <string name="sms_control_yes">Позволять</string>
     <string name="sms_control_no">Отрицать</string>
-    <string name="sms_short_code_confirm_message">&lt; b> %1$s &lt; / b> хотели бы отправить сообщение в &lt; b> %2$s &lt; / b>.</string>
+    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> хотели бы отправить сообщение в &lt;b>%2$s&lt;/b>.</string>
     <string name="sms_short_code_details">Эта<b>may cause charges</b> on your mobile account.</string>
     <string name="sms_premium_short_code_details"><b>This will cause charges on your mobile account.</b></string>
     <string name="sms_short_code_confirm_allow">послать</string>
@@ -1323,7 +1323,7 @@
     <string name="usb_storage_title">USB-подключение</string>
     <string name="usb_storage_message">«Вы подключились к компьютеру через USB. Нажмите кнопку ниже, если вы хотите копировать файлы между вашим компьютером и USB-накопителем Android».</string>
     <string name="usb_storage_button_mount">Включить USB-накопитель</string>
-    <string name="usb_storage_error_message">Msgstr "Проблема с использованием USB - накопителя для USB - накопителя".</string>
+    <string name="usb_storage_error_message">"Проблема с использованием USB - накопителя для USB - накопителя".</string>
     <string name="usb_storage_notification_title">USB-подключение</string>
     <string name="usb_storage_notification_message">Нажмите, чтобы скопировать файлы на / с вашего компьютера.</string>
     <string name="usb_storage_stop_notification_title">Выключение USB-накопителя</string>
@@ -1355,8 +1355,8 @@
     <string name="hardware">Аппаратное обеспечение</string>
     <string name="select_keyboard_layout_notification_title">Выбор раскладки клавиатуры</string>
     <string name="select_keyboard_layout_notification_message">Нажмите, чтобы выбрать раскладку клавиатуры.</string>
-    <string name="fast_scroll_alphabet">" АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЫЭЮЯ"</string>
-    <string name="fast_scroll_numeric_alphabet">"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="candidates_style"><u>candidates</u></string>
     <string name="ext_media_checking_notification_title">Подготовка USB-накопителя</string>
     <string name="ext_media_checking_notification_message">Проверка на наличие ошибок.</string>
@@ -1608,18 +1608,18 @@
     <string name="kg_login_account_recovery_hint">"Забыли имя пользователя или пароль?
 Посещение "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Проверка учетной записи € |</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">Msgstr "Вы неправильно ввели PIN %d раз.
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно ввели PIN %d раз.
 
 Повторите попытку через %d секунд" .</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">Msgstr "Вы неверно ввели свой пароль %d раз.
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы неверно ввели свой пароль %d раз.
 
 Повторите попытку через %d секунд" .</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">Msgstr "Вы неправильно нарисовали свой шаблон разблокировки %d раз.
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы неправильно нарисовали свой шаблон разблокировки %d раз.
 
 Повторите попытку через %d секунд" .</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы пытались разблокировать телефон %d раз. После %d неудачных попыток телефон будет сброшен до заводских настроек и все пользовательские данные будут потеряны.</string>
     <string name="kg_failed_attempts_now_wiping">Вы пытались разблокировать телефон %d раз. Теперь телефон будет сброшен до заводских настроек.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">Msgstr "" "Вы неправильно нанесли шаблон разблокировки %d. После %d неудачных попыток вам будет предложено разблокировать ваш телефон, используя учетную запись электронной почты.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы неправильно нанесли шаблон разблокировки %d. После %d неудачных попыток вам будет предложено разблокировать ваш телефон, используя учетную запись электронной почты.
 
  Повторите попытку через %d секунд" .</string>
     <string name="kg_text_message_separator">"Â €"</string>
@@ -1670,34 +1670,34 @@
     <string name="mediasize_iso_c8">ISO C8</string>
     <string name="mediasize_iso_c9">ISO C9</string>
     <string name="mediasize_iso_c10">ISO C10</string>
-    <string name="mediasize_na_letter">Письмо</string>
-    <string name="mediasize_na_gvrnmt_letter">Письмо правительства</string>
-    <string name="mediasize_na_legal">Юридический</string>
-    <string name="mediasize_na_junior_legal">Юридический юниор</string>
-    <string name="mediasize_na_ledger">Регистр</string>
-    <string name="mediasize_na_tabloid">Таблоид</string>
-    <string name="mediasize_na_index_3x5">Индексная карточка 3x5</string>
-    <string name="mediasize_na_index_4x6">Индексная карточка 4x6</string>
-    <string name="mediasize_na_index_5x8">Индексная карточка 5x8</string>
-    <string name="mediasize_na_monarch">Монарх</string>
-    <string name="mediasize_na_quarto">Кварто</string>
+    <string name="mediasize_na_letter">Letter</string>
+    <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
+    <string name="mediasize_na_legal">Legal</string>
+    <string name="mediasize_na_junior_legal">Junior Legal</string>
+    <string name="mediasize_na_ledger">Ledger</string>
+    <string name="mediasize_na_tabloid">Tabloid</string>
+    <string name="mediasize_na_index_3x5">Index Card 3x5</string>
+    <string name="mediasize_na_index_4x6">Index Card 4x6</string>
+    <string name="mediasize_na_index_5x8">Index Card 5x8</string>
+    <string name="mediasize_na_monarch">Monarch</string>
+    <string name="mediasize_na_quarto">Quarto</string>
     <string name="mediasize_na_foolscap">Foolscap</string>
     <string name="mediasize_chinese_roc_8k">ROC 8K</string>
     <string name="mediasize_chinese_roc_16k">ROC 16K</string>
-    <string name="mediasize_chinese_prc_1">КНР 1</string>
-    <string name="mediasize_chinese_prc_2">КНР 2</string>
-    <string name="mediasize_chinese_prc_3">КНР 3</string>
-    <string name="mediasize_chinese_prc_4">КНР 4</string>
-    <string name="mediasize_chinese_prc_5">КНР 5</string>
-    <string name="mediasize_chinese_prc_6">КНР 6</string>
-    <string name="mediasize_chinese_prc_7">КНР 7</string>
-    <string name="mediasize_chinese_prc_8">КНР 8</string>
-    <string name="mediasize_chinese_prc_9">КНР 9</string>
-    <string name="mediasize_chinese_prc_10">КНР 10</string>
-    <string name="mediasize_chinese_prc_16k">КНР 16 КБ</string>
-    <string name="mediasize_chinese_om_pa_kai">Па Кай</string>
-    <string name="mediasize_chinese_om_dai_pa_kai">Дай Па Кай</string>
-    <string name="mediasize_chinese_om_jurro_ku_kai">Юрро Ку Кай</string>
+    <string name="mediasize_chinese_prc_1">PRC 1</string>
+    <string name="mediasize_chinese_prc_2">PRC 2</string>
+    <string name="mediasize_chinese_prc_3">PRC 3</string>
+    <string name="mediasize_chinese_prc_4">PRC 4</string>
+    <string name="mediasize_chinese_prc_5">PRC 5</string>
+    <string name="mediasize_chinese_prc_6">PRC 6</string>
+    <string name="mediasize_chinese_prc_7">PRC 7</string>
+    <string name="mediasize_chinese_prc_8">PRC 8</string>
+    <string name="mediasize_chinese_prc_9">PRC 9</string>
+    <string name="mediasize_chinese_prc_10">PRC 10</string>
+    <string name="mediasize_chinese_prc_16k">PRC 16K</string>
+    <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
+    <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
+    <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
     <string name="mediasize_japanese_jis_b10">JIS B10</string>
     <string name="mediasize_japanese_jis_b9">JIS B9</string>
     <string name="mediasize_japanese_jis_b8">JIS B8</string>
@@ -1713,9 +1713,9 @@
     <string name="mediasize_japanese_chou4">Chou4</string>
     <string name="mediasize_japanese_chou3">Chou3</string>
     <string name="mediasize_japanese_chou2">Chou2</string>
-    <string name="mediasize_japanese_hagaki">Хагаки</string>
+    <string name="mediasize_japanese_hagaki">Hagaki</string>
     <string name="mediasize_japanese_oufuku">Oufuku</string>
-    <string name="mediasize_japanese_kahu">Каху</string>
+    <string name="mediasize_japanese_kahu">Kahu</string>
     <string name="mediasize_japanese_kaku2">Kaku2</string>
     <string name="mediasize_japanese_you4">You4</string>
     <string name="mediasize_unknown_portrait">Неизвестный портрет</string>
@@ -1785,9 +1785,9 @@
     <string name="China_Telecom">China Telecom</string>
     <string name="permission_remember_choice">Запомнить</string>
     <string name="permission">Разрешение</string>
-    <string name="def_wifi_wifihotspot_ssid">Ivargoå "è · ƒ</string>
+    <string name="def_wifi_wifihotspot_ssid">ivargo卓跃</string>
     <string name="def_wifi_wifihotspot_pass" />
-    <string name="def_wifi_direct_name">Ivargoå "è · ƒ</string>
+    <string name="def_wifi_direct_name">ivargo卓跃</string>
     <string name="data_conn_status_title" />
     <string name="user_authentication_failed" />
     <string name="service_not_subscribed" />

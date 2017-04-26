@@ -118,7 +118,7 @@
     <string name="search_category_title">Тип поиска</string>
     <string name="default_search_category">Искать</string>
     <string name="search_category_tune">Настроить</string>
-    <string name="search_category_type_key">Search_category_value_type</string>
+    <string name="search_category_type_key">search_category_value_type</string>
     <string name="search_category_type">Выберите Поиск по типу программы</string>
     <string name="search_category_type_title">Поиск по типу программы</string>
     <string name="default_search_category_type">Все станции</string>
@@ -146,7 +146,7 @@
     <string name="add_station">+</string>
     <string name="stop_scanning">Остановить сканирование</string>
     <string name="transmit_msg_string">Передача в:</string>
-    <string name="audio_db_title_format">Гггг-мм-дд ЧЧ: мм: сс</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="audio_db_artist_name">Мои FM-записи</string>
     <string name="audio_db_album_name">FM-записи</string>
     <string name="audio_db_playlist_name">FM-записи</string>
@@ -228,7 +228,7 @@
     <string name="minute">Минуты</string>
     <string name="toast_sleep_cancel">Отменили сон.</string>
     <string name="toast_sleep_setup">После %1$s FM-радио будет автоматически отключено.</string>
-    <string name="text_sleep_time">спать</string>
+    <string name="text_sleep_time">sleep</string>
     <string name="no_stations_list">Список каналов пуст</string>
     <string name="cannot_startup_during_airplane">Не удается запустить FM в режиме AirPlane.</string>
     <string name="msg_headset_plug_out">Гарнитура выдвигается, автоматическое выключение FM.</string>

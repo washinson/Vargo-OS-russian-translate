@@ -54,13 +54,13 @@
     <string name="timer_format" formatted="false">%02d:%02d:%02d</string>
     <string name="led_testtime">ВРЕМЯ ПРОВЕДЕНИЯ СИД:</string>
     <string name="opticalData">Проверка данных о внешнем освещении:</string>
-    <string name="camera">Camera_info: CM6900-B300SF-E</string>
-    <string name="lcm">Lcm_info: TM035PDH20-00</string>
-    <string name="pa">Pa_info: RF9810</string>
-    <string name="bt">Bt_info: BC6888A04-ICXL-R</string>
-    <string name="wifi">Wifi_info: CSR6030A10-ICXJ-R</string>
-    <string name="Gsensor">Gsensor_info: BMA220</string>
-    <string name="light_perception">Light_perception_info: TAOS TMD27713</string>
+    <string name="camera">camera_info:CM6900-B300SF-E</string>
+    <string name="lcm">lcm_info:TM035PDH20-00</string>
+    <string name="pa">pa_info:RF9810</string>
+    <string name="bt">bt_info:BC6888A04-ICXL-R</string>
+    <string name="wifi">wifi_info:CSR6030A10-ICXJ-R</string>
+    <string name="Gsensor">Gsensor_info:BMA220</string>
+    <string name="light_perception">light_perception_info:TAOS TMD27713</string>
     <string name="setstarttimehint">Установите время начала (позже, чем сейчас)</string>
     <string name="pickstartdate">Выберите дату начала</string>
     <string name="pickstarttime">Укажите время начала</string>
@@ -153,7 +153,7 @@
     <string name="receiver_aging_test">Испытание на старение приемника</string>
     <string name="play_start">Начать игру</string>
     <string name="play_stop">Остановка воспроизведения</string>
-    <string name="speaker_aging_hints">Ввод / Music / SpeakerAging.mp3 файл для динамика старение тест и ввод / Music /ReceiverAging.mp3 файл для приемника старение тест, в противном случае проигрывание по умолчанию system ringtone</string>
+    <string name="speaker_aging_hints">Ввод /Music/SpeakerAging.mp3 файл для динамика старение тест и ввод /Music/ReceiverAging.mp3 файл для приемника старение тест, в противном случае проигрывание по умолчанию system ringtone</string>
     <string name="speaker_play_start">оратор</string>
     <string name="receiver_play_start">получатель</string>
     <string name="receiver_aging_hints">Введите файл /Music/ReceiverAging.mp3 для этого теста на старение, в противном случае воспроизведите системную мелодию по умолчанию</string>

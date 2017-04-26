@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Настройки Ввода с помощью пиньинь (Google)</string>
+    <string name="setting_input_summary">Традиционный/упрощенный, подсказки, автоисправление, непрерывный ввод, режим Fuzzy Pinyin…</string>
+    <string name="tutorial_activation_title">Настройки Ввода с помощью пиньинь (Google)</string>
+    <string name="tutorial_enable_hint">1 Включить Ввод с помощью пиньинь (Google)</string>
+    <string name="tutorial_select_hint">2 Выбрать Ввод с помощью пиньинь (Google)</string>
+</resources>

@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="operators">
-    <item>(</item>
-    <item>).</item>
-    <item>!</item>
-    <item>Ln</item>
-    <item>журнал</item>
-    <item>√</item>
-    <item>÷</item>
-    <item>×</item>
-    <item>+</item>
-    <item>-</item>
-    <item>.</item>
-    <item>^</item>
-    <item>Загар</item>
-    <item>Грешить</item>
-    <item>Cos</item>
-    <item>Π</item>
-    <item>знак равно</item>
+	<item>(</item>
+	<item>)</item>
+	<item>!</item>
+	<item>ln</item>
+	<item>log</item>
+	<item>√</item>
+	<item>÷</item>
+	<item>×</item>
+	<item>+</item>
+	<item>−</item>
+	<item>.</item>
+	<item>^</item>
+	<item>tan</item>
+	<item>sin</item>
+	<item>cos</item>
+	<item>π</item>
+	<item>=</item>
   </string-array>
   <string-array name="operatorDescs">
     <item>Левая круглая скобка</item>

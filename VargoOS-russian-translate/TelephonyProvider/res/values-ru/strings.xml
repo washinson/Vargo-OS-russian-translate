@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Хранилище телефона / обмена сообщениями</string>
-    <string name="ppp_number">Ppp_number</string>
+    <string name="ppp_number">ppp_number</string>
     <string name="read_only">read_only</string>
-    <string name="localized_name">Localized_name</string>
+    <string name="localized_name">localized_name</string>
     <string name="default_protocol">IP</string>
 </resources>
 

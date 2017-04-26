@@ -38,7 +38,7 @@
     <string name="empty_password_hint">Введите пароль</string>
     <string name="empty_confirm_password_hint">Подтвердите пароль</string>
     <string name="inconsistent_password_hint">Неподходящий пароль</string>
-    <string name="input_restriction">АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ</string>
+    <string name="input_restriction">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_</string>
     <string name="create_password_hint">«Пожалуйста, сначала установите пароль перед шифрованием / расшифровкой.
 Вы должны предоставить этот пароль для расшифровки зашифрованного файла позже. "</string>
     <string name="password_error">Ошибка в пароле</string>
