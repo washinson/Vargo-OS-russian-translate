@@ -21,3 +21,4 @@
 -- VargoYingyin
 -- Vtalkie
 -- WpsMail
+-- Settings
