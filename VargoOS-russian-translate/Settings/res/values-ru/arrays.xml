@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="timezone_filters">
     <item>Америка</item>
@@ -6,15 +6,15 @@
     <item>Африка</item>
     <item>Азия</item>
     <item>Австралия</item>
-    <item>Тихоокеанский</item>
+    <item>Тихоокеанское</item>
     <item>Все</item>
   </string-array>
   <string-array name="date_format_values">
     <item>
     </item>
-    <item>ММ-дд-гггг</item>
-    <item>Дд-мм-гггг</item>
-    <item>Yyyy-MM-dd</item>
+    <item>ММ-ДД-ГГГГ</item>
+    <item>ДД-ММ-ГГГГ</item>
+    <item>ГГГ-ММ-ДД</item>
   </string-array>
   <string-array name="screen_timeout_entries">
     <item>15 секунд</item>
@@ -81,7 +81,7 @@
   <string-array name="entries_font_size">
     <item>Маленький</item>
     <item>Нормальный</item>
-    <item>Большие</item>
+    <item>Большой</item>
   </string-array>
   <string-array name="entryvalues_font_size">
     <item>0,85</item>
@@ -90,12 +90,12 @@
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Очень медленно</item>
-    <item>Медленный</item>
-    <item>Нормальный</item>
+    <item>Медленно</item>
+    <item>Нормально</item>
     <item>Быстро</item>
     <item>Быстрее</item>
     <item>Очень быстро</item>
-    <item>Rapid</item>
+    <item>Быстрее</item>
     <item>Очень быстро</item>
     <item>Самый быстрый</item>
   </string-array>
@@ -111,10 +111,10 @@
     <item>400</item>
   </string-array>
   <string-array name="tts_pitch_entries">
-    <item>Очень низкий</item>
-    <item>Низкий</item>
-    <item>Нормальный</item>
-    <item>Высокая</item>
+    <item>Очень низко</item>
+    <item>Низко</item>
+    <item>Нормально</item>
+    <item>Высоко</item>
     <item>Очень высоко</item>
   </string-array>
   <string-array name="tts_pitch_values">
@@ -125,20 +125,22 @@
     <item>150</item>
   </string-array>
   <string-array name="tts_demo_strings">
-    <item>Это пример синтеза речи на английском языке.</item>
-    <item>Voici un Échantillon de synthèse vocale en français.</item>
-    <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
-    <item>Квеста и неспециализированный вокал в итальянском стиле.</item>
-    <item>Este es un ejemplo de síntesis de voz en español.</item>
+    <item>Это пример синтеза речи на русском языке.</item>
+    <item>This is an example of speech synthesis in English.</item>
+    <item>Voici un Echantillon de synthese vocale en francais.</item>
+    <item>Dies ist ein Beispiel fur Sprachsynthese in Deutsch.</item>
+    <item>Questo e un esempio di sintesi vocale in lingua inglese.</item>
+    <item>Este es un ejemplo de sintesis de voz en espanol.</item>
     <item>한국어 음성 합성 의 예 입니다 입니다.</item>
   </string-array>
   <string-array name="tts_demo_string_langs">
+    <item>Rus</item>
     <item>Eng</item>
     <item>Fra</item>
     <item>Deu</item>
     <item>Ita</item>
-    <item>спа</item>
-    <item>Кор</item>
+    <item>Spa</item>
+    <item>Kor</item>
   </string-array>
   <string-array name="agps_network_values">
     <item>0</item>
@@ -146,7 +148,7 @@
   </string-array>
   <string-array name="agps_network_entries">
     <item>Домашняя сеть</item>
-    <item>Вся сеть</item>
+    <item>Все сети</item>
   </string-array>
   <string-array name="agps_si_mode_values">
     <item>0</item>
@@ -170,22 +172,22 @@
     <item>2</item>
   </string-array>
   <string-array name="agps_reset_type_entries">
-    <item>ГОРЯЧИЙ</item>
+    <item>ГОРЯЧО</item>
     <item>ТЕПЛО</item>
     <item>ХОЛОДНО</item>
   </string-array>
   <string-array name="wifi_status">
     <item>
     </item>
-    <item>Сканирование ...</item>
-    <item>Подключение ...</item>
+    <item>Сканирование...</item>
+    <item>Подключение...</item>
     <item>Аутентификация ...</item>
-    <item>Получение IP-адреса ...</item>
-    <item>Связанный</item>
-    <item>Подвесные</item>
-    <item>Отключение ...</item>
+    <item>Получение IP-адреса...</item>
+    <item>Связано</item>
+    <item>Удержание</item>
+    <item>Отключение...</item>
     <item>Отключено</item>
-    <item>Неудачный</item>
+    <item>Неудачно</item>
     <item>Заблокировано</item>
     <item>Временное отключение плохой связи</item>
   </string-array>
@@ -195,15 +197,15 @@
   <string-array name="wifi_status_with_ssid">
     <item>
     </item>
-    <item>Сканирование ...</item>
-    <item>Подключение к %1$s ...</item>
-    <item>Аутентификация с помощью %1$s ...</item>
-    <item>Получение IP-адреса от %1$s ...</item>
+    <item>Сканирование...</item>
+    <item>Подключение к %1$s...</item>
+    <item>Аутентификация с помощью %1$s...</item>
+    <item>Получение IP-адреса от %1$s...</item>
     <item>Подключено к %1$s</item>
-    <item>Подвесные</item>
-    <item>Отключение от %1$s ...</item>
+    <item>Удержание</item>
+    <item>Отключение от %1$s...</item>
     <item>Отключено</item>
-    <item>Неудачный</item>
+    <item>Неудачно</item>
     <item>Заблокировано</item>
     <item>Временное отключение плохой связи</item>
   </string-array>
@@ -238,23 +240,23 @@
     <item>PIN-код с этого устройства</item>
   </string-array>
   <string-array name="wifi_p2p_status">
-    <item>Связанный</item>
+    <item>Связано</item>
     <item>Приглашение отправлено</item>
-    <item>Неудачный</item>
-    <item>Доступный</item>
+    <item>Неудачно</item>
+    <item>Доступно</item>
     <item>Вне диапазона</item>
   </string-array>
   <string-array name="bluetooth_visibility_timeout_entries">
     <item>2 минуты</item>
     <item>5 минут</item>
     <item>1 час</item>
-    <item>Никогда не теряйте время</item>
+    <item>Никогда</item>
   </string-array>
   <string-array name="wifi_signal">
-    <item>Бедные</item>
-    <item>Справедливая</item>
-    <item>Хорошо</item>
-    <item>Отлично</item>
+    <item>Слабый</item>
+    <item>Нормальный</item>
+    <item>Хороший</item>
+    <item>Отличный</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries">
     <item>Всегда</item>
@@ -277,14 +279,14 @@
   </string-array>
   <string-array name="data_usage_data_range">
     <item>Последние 30 дней</item>
-    <item>Установить цикл использования ...</item>
+    <item>Установить цикл использования...</item>
   </string-array>
   <string-array name="sim_card_data_range">
     <item>Последние 4 цифры</item>
     <item>Первые 4 цифры</item>
   </string-array>
   <string-array name="wifi_frequency_band_entries">
-    <item>Автоматический</item>
+    <item>Автоматически</item>
     <item>Только 5 ГГц</item>
     <item>Только 2,4 ГГц</item>
   </string-array>
@@ -305,12 +307,12 @@
     <item>PWD</item>
   </string-array>
   <string-array name="wifi_peap_phase2_entries">
-    <item>Никто</item>
+    <item>Ничего</item>
     <item>MSCHAPV2</item>
     <item>GTC</item>
   </string-array>
   <string-array name="wifi_phase2_entries">
-    <item>Никто</item>
+    <item>Ничего</item>
     <item>PAP</item>
     <item>MSCHAP</item>
     <item>MSCHAPV2</item>
@@ -318,15 +320,15 @@
   </string-array>
   <string-array name="wifi_ip_settings">
     <item>DHCP</item>
-    <item>Статические</item>
+    <item>Статический</item>
   </string-array>
   <string-array name="wifi_proxy_settings">
-    <item>Никто</item>
+    <item>Ничего</item>
     <item>Руководство</item>
     <item>Автоматическая настройка прокси-сервера</item>
   </string-array>
   <string-array name="apn_auth_entries">
-    <item>Никто</item>
+    <item>Ничего</item>
     <item>PAP</item>
     <item>ГЛАВА</item>
     <item>PAP или CHAP</item>
@@ -358,7 +360,7 @@
     <item>0</item>
   </string-array>
   <string-array name="mvno_type_entries">
-    <item>Никто</item>
+    <item>Ничего</item>
     <item>SPN</item>
     <item>IMSI</item>
     <item>GID</item>
@@ -367,7 +369,7 @@
     <item>
     </item>
     <item>Spn</item>
-    <item>Имси</item>
+    <item>IMC</item>
     <item>Gid</item>
   </string-array>
   <string-array name="app_install_location_entries">
@@ -378,16 +380,16 @@
   <string-array name="app_install_location_values">
     <item>Устройство</item>
     <item>SD Card</item>
-    <item>авто</item>
+    <item>Автоматически</item>
   </string-array>
   <string-array name="app_ops_permissions">
-    <item>Позволил</item>
-    <item>Игнорируется</item>
-    <item>Всегда спрашивай</item>
+    <item>Позволить</item>
+    <item>Игнорировать</item>
+    <item>Всегда спрашивать</item>
   </string-array>
   <string-array name="app_ops_categories">
-    <item>Место нахождения</item>
-    <item>Персональный</item>
+    <item>Местонахождение</item>
+    <item>Персональные</item>
     <item>Сообщения</item>
     <item>СМИ</item>
     <item>Устройство</item>
