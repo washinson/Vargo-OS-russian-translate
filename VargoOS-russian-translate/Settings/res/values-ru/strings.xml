@@ -1922,6 +1922,7 @@
     <string name="battery_stats_wifi_running_label" msgid="1845839195549226252">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label" msgid="1908942681902324095">Активный режим</string>
     <string name="battery_stats_phone_signal_label" msgid="3537569115723850618">Сигнал мобильной сети</string>
+    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake" msgid="387122265874485088">Время включения устройства</string>
     <string name="wifi_on_time" msgid="3208518458663637035">Время работы Wi-Fi</string>
     <string name="bluetooth_on_time" msgid="3056108148042308690">Время работы Wi-Fi</string>
