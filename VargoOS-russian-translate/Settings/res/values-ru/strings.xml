@@ -52,8 +52,8 @@
 	<string name="profile_networkmode_2g3g4g">2G/3G/4G</string>
 	<string name="profile_connectionoverrides_title">Переопределение соединения</string>
 	<string name="profile_volumeoverrides_title">Превышения громкости</string>
-	<string name="connection_state_disabled">Отключить</string>
-	<string name="connection_state_enabled">Включить</string>
+	<string name="connection_state_disabled">Отключено</string>
+	<string name="connection_state_enabled">Включино</string>
 	<string name="volume_override_summary">Установить в %1$s/%2$s</string>
 	<string name="volume_override_summary_no_override">Не переопределять</string>
 	<string name="profile_volume_override_checkbox_label">Переопределить громкость</string>
@@ -175,8 +175,8 @@
 	<string name="profile_menu_delete_title">Удалить</string>
 	<string name="profile_menu_triggers_title">Изменить триггеры</string>
 	<string name="profile_action_none">Бездействие</string>
-	<string name="profile_action_disabled">Отключить</string>
-	<string name="profile_action_enable">Включить</string>
+	<string name="profile_action_disabled">Отключено</string>
+	<string name="profile_action_enable">Включено</string>
 	<string name="profile_trigger_a2dp_connect">Подключение A2DP</string>
 	<string name="profile_trigger_a2dp_disconnect">Отключение A2DP</string>
 	<string name="profile_tabs_wifi">Wi-Fi</string>
@@ -235,8 +235,8 @@
     <string name="device_info_default" msgid="7847265875578739287">Неизвестно</string>
     <string name="show_dev_on" msgid="1110711554982716293">Вы стали разработчиком!</string>
     <string name="show_dev_already" msgid="2151632240145446227">Не нужно, вы уже разработчик</string>
-	<string name="unlock_set_finger_print_title">Отпечаток пальца</string>
-	<string name="unsupport_fingerprint">Этот режим отключит отпечаток пальца для разблокировки</string>
+    <string name="unlock_set_finger_print_title">Отпечаток пальца</string>
+    <string name="unsupport_fingerprint">Этот режим отключит отпечаток пальца для разблокировки</string>
     <string name="header_category_wireless_networks" msgid="5110914332313954940">Беспроводные сети</string>
     <string name="header_category_connections" msgid="6471513040815680662">Подключения</string>
     <string name="header_category_device" msgid="4544026001618307754">Устройство</string>
@@ -249,8 +249,8 @@
     <string name="sms_over_ims_off" msgid="8354792045992793959">Отключить SMS через IMS</string>
     <string name="ims_reg_required_on" msgid="3885152087309614653">Обязательная регистрация IMS включена</string>
     <string name="ims_reg_required_off" msgid="1720570343422743943">Обязательная регистрация IMS отключена</string>
-	<string name="volte_provisioned_flag_on">Включить флаг VoLTE</string>
-	<string name="volte_provisioned_flag_off">Отключить предоставленный флаг VoLTE</string>
+    <string name="volte_provisioned_flag_on">Включить флаг VoLTE</string>
+    <string name="volte_provisioned_flag_off">Отключить предоставленный флаг VoLTE</string>
     <string name="lte_ram_dump_on" msgid="8568568019520172177">Очищать ОЗУ</string>
     <string name="lte_ram_dump_off" msgid="2514507918652378283">Не очищать ОЗУ</string>
     <string name="radioInfo_menu_viewADN" msgid="8743377494429930831">Просмотреть адресную книгу на SIM-карте</string>
@@ -262,29 +262,29 @@
     <string name="radioInfo_service_emergency" msgid="2485604591272668370">Только экстренные вызовы</string>
     <string name="radioInfo_service_off" msgid="1434084741785525415">Радио отключено</string>
     <string name="radioInfo_roaming_in" msgid="9045363884600341051">Роуминг</string>
-	<string name="radioInfo_roaming_not">Вне роуминга</string>
-	<string name="radioInfo_phone_idle">Пусто</string>
-	<string name="radioInfo_phone_ringing">Звонок</string>
-	<string name="radioInfo_phone_offhook">Выполняется вызов</string>
-	<string name="radioInfo_data_disconnected">Отключено</string>
-	<string name="radioInfo_data_connecting">Подключение</string>
-	<string name="radioInfo_data_connected">Подключено</string>
-	<string name="radioInfo_data_suspended">Удержание</string>
-	<string name="radioInfo_unknown">Неизвестно</string>
-	<string name="radioInfo_display_packets">Пак</string>
-	<string name="radioInfo_display_bytes">Байт</string>
-	<string name="radioInfo_display_dbm">dBm</string>
-	<string name="radioInfo_display_asu">Asu</string>
-	<string name="radioInfo_lac">LAC</string>
-	<string name="radioInfo_cid">CID</string>
-	<string name="sdcard_unmount">Отключить USB-накопитель</string>
-	<string name="sdcard_format">Удалить USB-накопитель</string>
-	<string name="small_font">Маленький</string>
-	<string name="medium_font">Средний</string>
-	<string name="large_font">Большой</string>
-	<string name="font_size_preview_text">Servez a ce monsieur une biere et des kiwis</string>
-	<string name="font_size_save">ОК</string>
-	<string name="sdcard_setting">Карта памяти</string>
+    <string name="radioInfo_roaming_not">Вне роуминга</string>
+    <string name="radioInfo_phone_idle">Пусто</string>
+    <string name="radioInfo_phone_ringing">Звонок</string>
+    <string name="radioInfo_phone_offhook">Выполняется вызов</string>
+    <string name="radioInfo_data_disconnected">Отключено</string>
+    <string name="radioInfo_data_connecting">Подключение</string>
+    <string name="radioInfo_data_connected">Подключено</string>
+    <string name="radioInfo_data_suspended">Удержание</string>
+    <string name="radioInfo_unknown">Неизвестно</string>
+    <string name="radioInfo_display_packets">Пак</string>
+    <string name="radioInfo_display_bytes">Байт</string>
+    <string name="radioInfo_display_dbm">dBm</string>
+    <string name="radioInfo_display_asu">Asu</string>
+    <string name="radioInfo_lac">LAC</string>
+    <string name="radioInfo_cid">CID</string>
+    <string name="sdcard_unmount">Отключить USB-накопитель</string>
+    <string name="sdcard_format">Удалить USB-накопитель</string>
+    <string name="small_font">Маленький</string>
+    <string name="medium_font">Средний</string>
+    <string name="large_font">Большой</string>
+    <string name="font_size_preview_text">Servez a ce monsieur une biere et des kiwis</string>
+    <string name="font_size_save">ОК</string>
+    <string name="sdcard_setting">Карта памяти</string>
     <string name="battery_info_status_label" msgid="8109155295509700309">Состояние батареи:</string>
     <string name="battery_info_power_label" msgid="7465140230991349382">Питание:</string>
     <string name="battery_info_scale_label" msgid="3649763192389778437">Шкала батареи:</string>
@@ -294,7 +294,7 @@
     <string name="battery_info_voltage_label" msgid="8971764146757637863">Напряжение батареи:</string>
     <string name="battery_info_voltage_units" msgid="8658490792208288107">мВ</string>
     <string name="battery_info_temperature_label" msgid="1968383098818648037">Температура батареи:</string>
-    <string name="battery_info_temperature_units" msgid="9098950587249987550">° C</string>
+    <string name="battery_info_temperature_units" msgid="9098950587249987550">°C</string>
     <string name="battery_info_uptime" msgid="5548545143573527992">Время после загрузки:</string>
     <string name="battery_info_awake_battery" msgid="2557725975486185849">Время работы от батареи:</string>
     <string name="battery_info_awake_plugged" msgid="176716874713478188">Время работы при зарядке:</string>
@@ -388,7 +388,7 @@
     <string name="bluetooth_map_acceptance_dialog_text" msgid="8712508202081143737">%1$s хочет получить доступ к вашим сообщениям. Предоставить доступ %2$s?</string>
     <string name="date_and_time" msgid="9062980487860757694">Дата и время</string>
     <string name="choose_timezone" msgid="1362834506479536274">Выбрать часовой пояс</string>
-    <string name="default_date_format">ММ / ДД / ГГГГ</string>
+    <string name="default_date_format">ММ/ДД/ГГГГ</string>
     <string name="normal_date_format">Региональный (%s)</string>
     <string name="date_time_date_format">Выберите формат даты</string>
     <string name="display_preview_label" msgid="1127597250917274792">Предпросмотр:</string>
@@ -1905,12 +1905,12 @@
     <string name="power_usage_level_and_status" msgid="7449847570973811784">%1$s – %2$s</string>
     <string name="power_discharge_remaining" msgid="4925678997049911808">Батарея будет разряжена через %1$s</string>
     <string name="power_charge_remaining" msgid="6132074970943913135">Батарея будет заряжена через %1$s</string>
-    <string name="power_discharging_duration" msgid="1605929174734600590">%1$s – осталось около %2$s</string>
+    <string name="power_discharging_duration" msgid="1605929174734600590">%1$s осталось</string>
     <string name="power_charging" msgid="1779532561355864267">%1$s – %2$s</string>
-    <string name="power_charging_duration" msgid="2853265177761520490">%1$s – %2$s до полной зарядки</string>
-    <string name="power_charging_duration_ac" msgid="3969186192576594254">%1$s – %2$s до полной зарядки (от сети)</string>
-    <string name="power_charging_duration_usb" msgid="182405645340976546">%1$s – %2$s до полной зарядки (через USB)</string>
-    <string name="power_charging_duration_wireless" msgid="1829295708243159464">%1$s – %2$s до полной зарядки (беспроводная)</string>
+    <string name="power_charging_duration" msgid="2853265177761520490">%1$s до полной зарядки</string>
+    <string name="power_charging_duration_ac" msgid="3969186192576594254">%1$s до полной зарядки (от сети)</string>
+    <string name="power_charging_duration_usb" msgid="182405645340976546">%1$s до полной зарядки (через USB)</string>
+    <string name="power_charging_duration_wireless" msgid="1829295708243159464">%1$s до полной зарядки (беспроводная)</string>
     <string name="power_usage_list_summary" msgid="2409288197839512482">Использование с момента полной зарядки</string>
     <string name="battery_since_unplugged" msgid="338073389740738437">Расход заряда батареи с момента отключения от сети питания</string>
     <string name="battery_since_reset" msgid="7464546661121187045">Расход заряда батареи с момента перезагрузки</string>
@@ -2448,7 +2448,7 @@
     <string name="trusted_credentials_system_tab">Система</string>
     <string name="trusted_credentials_user_tab">Пользователь</string>
     <string name="trusted_credentials_disable_label">Отключить</string>
-    <string name="trusted_credentials_enable_label">включить</string>
+    <string name="trusted_credentials_enable_label">Включить</string>
     <string name="trusted_credentials_remove_label">Удалить</string>
     <string name="trusted_credentials_enable_confirmation">Включить сертификат центра сертификации?</string>
     <string name="trusted_credentials_disable_confirmation">Отключить сертификат центра сертификации?</string>
@@ -2462,8 +2462,8 @@
     <string name="close_dialog">ОК</string>
     <string name="sim_enabler_title">Поддержка SIM-карт</string>
     <string name="sim_enabler_summary"> %1$s</string>
-    <string name="sim_enabled">Включен</string>
-    <string name="sim_disabled">отключен</string>
+    <string name="sim_enabled">Включено</string>
+    <string name="sim_disabled">Отключено</string>
     <string name="sim_missing">Отсутствует или ошибка</string>
     <string name="sim_enabler_need_enable_sim">Вы активировали SIM-карту?</string>
     <string name="sim_enabler_need_disable_sim">Вы отключили SIM-карту, вы уверены?</string>
@@ -2782,7 +2782,7 @@
     <string name="zen_mode_from_anyone" msgid="1180865188673992959">Все</string>
     <string name="zen_mode_from_contacts" msgid="8751503728985572786">Все контакты</string>
     <string name="zen_mode_from_starred" msgid="2168651127340381533">Помеченные контакты</string>
-    <string name="zen_mode_events" msgid="2456995649835437565">Мероприятия и напоминания</string>
+    <string name="zen_mode_events" msgid="2456995649835437565">Напоминания</string>
     <string name="zen_mode_alarm_info" msgid="3195430795475795398">Сигнал будильника – важное оповещение</string>
     <string name="zen_mode_when" msgid="2767193283311106373">Включать автоматически</string>
     <string name="zen_mode_when_never" msgid="8809494351918405602">Никогда</string>
@@ -2848,8 +2848,8 @@
 
 Чтобы запустить приложение Lock-to-app</string>
     <string name="lock_to_app_start_step1">1\u0009\u0009Включите настройку</string>
-    <string name="lock_to_app_start_step2">2\u0009\u0009\u0009Запустите нужное приложение</string>
-    <string name="lock_to_app_start_step3">3\u0009\u0009\nНажмите и удерживайте кнопку последних приложений $</string>
+    <string name="lock_to_app_start_step2">2\u0009\u00090009Запустите нужное приложение</string>
+    <string name="lock_to_app_start_step3">3\u0009\u0009Нажмите и удерживайте кнопку последних приложений $</string>
     <string name="lock_to_app_screen_lock">Использовать блокировку экрана</string>
     <string name="show_search_function">Поиск</string>
     <string name="label_global_roaming_settings">Настройки роуминга</string>
@@ -2955,12 +2955,12 @@
     <string name="wakeup_settings_title">Пробуждение голосом</string>
     <string name="lockpassword_pin_must_be_4_digits">PIN-код должен содержать %d цифр</string>
     <string name="wifi_more_v">Больше..</string>
-    <string name="wifi_enable">Включить</string>
-    <string name="wifi_disable">Выключить</string>
+    <string name="wifi_enable">Включено</string>
+    <string name="wifi_disable">Выключено</string>
     <string name="nfc_settings">NFC</string>
     <string name="bluetooth_more">Больше..</string>
-    <string name="bluetooth_enable">Включить</string>
-    <string name="bluetooth_disable">Выключить</string>
+    <string name="bluetooth_enable">Включено</string>
+    <string name="bluetooth_disable">Выключено</string>
     <string name="header_category_interact">Взаимосвязь</string>
     <string name="generate_category_generate">Основные</string>
     <string name="generate_category_notification">Уведомления</string>
