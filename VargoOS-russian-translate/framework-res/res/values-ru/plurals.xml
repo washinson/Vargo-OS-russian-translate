@@ -5,22 +5,22 @@
     <item quantity="one">У вас осталось %d попытки до блокировки SIM-карты.</item>
   </plurals>
   <plurals name="num_seconds_ago">
-    <item quantity="other">%d с. Назад</item>
+    <item quantity="other">%d с. назад</item>
     <item quantity="one">1 секунда назад</item>
   </plurals>
   <plurals name="num_minutes_ago">
-    <item quantity="other">%d мин. Назад</item>
+    <item quantity="other">%d мин. назад</item>
     <item quantity="one">1 минуту назад</item>
   </plurals>
   <plurals name="num_hours_ago">
-    <item quantity="other">%d ч. Назад</item>
+    <item quantity="other">%d ч. назад</item>
     <item quantity="one">1 час назад</item>
   </plurals>
   <plurals name="last_num_days">
     <item quantity="other">Последние %d дней</item>
   </plurals>
   <plurals name="num_days_ago">
-    <item quantity="other">%d дн. Назад</item>
+    <item quantity="other">%d дн. назад</item>
     <item quantity="one">вчера</item>
   </plurals>
   <plurals name="in_num_seconds">
@@ -40,19 +40,19 @@
     <item quantity="one">завтра</item>
   </plurals>
   <plurals name="abbrev_num_seconds_ago">
-    <item quantity="other">%d с. Назад</item>
+    <item quantity="other">%d с. назад</item>
     <item quantity="one">1 секунда назад</item>
   </plurals>
   <plurals name="abbrev_num_minutes_ago">
-    <item quantity="other">%d мин. Назад</item>
+    <item quantity="other">%d мин. назад</item>
     <item quantity="one">1 мин. Назад</item>
   </plurals>
   <plurals name="abbrev_num_hours_ago">
-    <item quantity="other">%d ч. Назад</item>
+    <item quantity="other">%d ч. назад</item>
     <item quantity="one">1 час назад</item>
   </plurals>
   <plurals name="abbrev_num_days_ago">
-    <item quantity="other">%d дн. Назад</item>
+    <item quantity="other">%d дн. назад</item>
     <item quantity="one">вчера</item>
   </plurals>
   <plurals name="abbrev_in_num_seconds">
@@ -84,12 +84,12 @@
     <item quantity="one">1 час</item>
   </plurals>
   <plurals name="wifi_available">
-    <item quantity="other">Доступные сети WLAN</item>
-    <item quantity="one">Доступна сеть WLAN</item>
+    <item quantity="other">Доступные сети Wi-Fi</item>
+    <item quantity="one">Доступна сеть Wi-Fi</item>
   </plurals>
   <plurals name="wifi_available_detailed">
-    <item quantity="other">Открытые сети WLAN</item>
-    <item quantity="one">Доступна открытая сеть WLAN</item>
+    <item quantity="other">Открытые сети Wi-Fi</item>
+    <item quantity="one">Доступна открытая сеть Wi-Fi</item>
   </plurals>
   <plurals name="matches_found">
     <item quantity="other">%1$d из %2$d</item>
