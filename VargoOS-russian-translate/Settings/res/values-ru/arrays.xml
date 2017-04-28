@@ -10,11 +10,10 @@
     <item>Все</item>
   </string-array>
   <string-array name="date_format_values">
-    <item>
-    </item>
-    <item>ММ-ДД-ГГГГ</item>
-    <item>ДД-ММ-ГГГГ</item>
-    <item>ГГГ-ММ-ДД</item>
+    <item></item>
+    <item>MM-dd-yyyy</item>
+    <item>dd-MM-yyyy</item>
+    <item>yyyy-MM-dd</item>
   </string-array>
   <string-array name="screen_timeout_entries">
     <item>15 секунд</item>
@@ -84,9 +83,9 @@
     <item>Большой</item>
   </string-array>
   <string-array name="entryvalues_font_size">
-    <item>0,85</item>
-    <item>1,0</item>
-    <item>1,15</item>
+    <item>0.85</item>
+    <item>1.0</item>
+    <item>1.15</item>
   </string-array>
   <string-array name="tts_rate_entries">
     <item>Очень медленно</item>
@@ -125,22 +124,20 @@
     <item>150</item>
   </string-array>
   <string-array name="tts_demo_strings">
-    <item>Это пример синтеза речи на русском языке.</item>
-    <item>This is an example of speech synthesis in English.</item>
-    <item>Voici un Echantillon de synthese vocale en francais.</item>
-    <item>Dies ist ein Beispiel fur Sprachsynthese in Deutsch.</item>
-    <item>Questo e un esempio di sintesi vocale in lingua inglese.</item>
-    <item>Este es un ejemplo de sintesis de voz en espanol.</item>
-    <item>한국어 음성 합성 의 예 입니다 입니다.</item>
+	<item>Это пример синтеза речи на английском языке.</item>
+	<item>Voici un échantillon de synthèse vocale en français.</item>
+	<item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+	<item>Questo è un esempio di sintesi vocale in italiano.</item>
+	<item>Este es un ejemplo de síntesis de voz en español.</item>
+	<item>이것은 한국어 음성 합성의 예입니다.</item>
   </string-array>
   <string-array name="tts_demo_string_langs">
-    <item>Rus</item>
-    <item>Eng</item>
-    <item>Fra</item>
-    <item>Deu</item>
-    <item>Ita</item>
-    <item>Spa</item>
-    <item>Kor</item>
+	<item>eng</item>
+	<item>fra</item>
+	<item>deu</item>
+	<item>ita</item>
+	<item>spa</item>
+	<item>kor</item>
   </string-array>
   <string-array name="agps_network_values">
     <item>0</item>
@@ -177,8 +174,7 @@
     <item>ХОЛОДНО</item>
   </string-array>
   <string-array name="wifi_status">
-    <item>
-    </item>
+    <item></item>
     <item>Сканирование...</item>
     <item>Подключение...</item>
     <item>Аутентификация ...</item>
@@ -195,8 +191,7 @@
     <item>WAPI CERT</item>
   </string-array>
   <string-array name="wifi_status_with_ssid">
-    <item>
-    </item>
+    <item></item>
     <item>Сканирование...</item>
     <item>Подключение к %1$s...</item>
     <item>Аутентификация с помощью %1$s...</item>
@@ -288,7 +283,7 @@
   <string-array name="wifi_frequency_band_entries">
     <item>Автоматически</item>
     <item>Только 5 ГГц</item>
-    <item>Только 2,4 ГГц</item>
+    <item>Только 2.4 ГГц</item>
   </string-array>
   <string-array name="wifi_frequency_band_values">
     <item>0</item>
@@ -342,7 +337,7 @@
   <string-array name="apn_protocol_entries">
     <item>IPv4</item>
     <item>IPv6</item>
-    <item>IPv4 / IPv6</item>
+    <item>IPv4/IPv6</item>
   </string-array>
   <string-array name="apn_protocol_values">
     <item>IP</item>
@@ -351,7 +346,7 @@
   </string-array>
   <string-array name="bearer_entries">
     <item>LTE</item>
-    <item>EHRPD</item>
+    <item>eHRPD</item>
     <item>Неопределенные</item>
   </string-array>
   <string-array name="bearer_values">
@@ -366,11 +361,10 @@
     <item>GID</item>
   </string-array>
   <string-array name="mvno_type_values">
-    <item>
-    </item>
-    <item>Spn</item>
-    <item>IMC</item>
-    <item>Gid</item>
+    <item></item>
+	<item>spn</item>
+	<item>imsi</item>
+	<item>gid</item>
   </string-array>
   <string-array name="app_install_location_entries">
     <item>Внутренняя память устройства</item>
@@ -520,8 +514,8 @@
     <item>Изменение данных</item>
   </string-array>
   <string-array name="long_press_timeout_selector_titles">
-    <item>короткий</item>
-    <item>средний</item>
+    <item>Короткий</item>
+    <item>Средний</item>
     <item>Длинный</item>
   </string-array>
   <string-array name="long_press_timeout_selector_values">
@@ -541,16 +535,15 @@
     <item>Маленькие капиталы</item>
   </string-array>
   <string-array name="captioning_typeface_selector_values">
-    <item>
-    </item>
-    <item>без засечек</item>
-    <item>Без засечек</item>
-    <item>Sans-serif-monospace</item>
-    <item>Засечка</item>
-    <item>Serif-monospace</item>
-    <item>повседневная</item>
-    <item>Скоропись</item>
-    <item>Sans-serif-smallcaps</item>
+    <item></item>
+	<item>sans-serif</item>
+	<item>sans-serif-condensed</item>
+	<item>sans-serif-monospace</item>
+	<item>serif</item>
+	<item>serif-monospace</item>
+	<item>casual</item>
+	<item>cursive</item>
+	<item>sans-serif-smallcaps</item>
   </string-array>
   <string-array name="captioning_font_size_selector_titles">
     <item>Очень маленький</item>
@@ -560,11 +553,11 @@
     <item>Очень большой</item>
   </string-array>
   <string-array name="captioning_font_size_selector_values">
-    <item>0,25</item>
-    <item>0,5</item>
-    <item>1,0</item>
-    <item>1,5</item>
-    <item>2,0</item>
+	<item>0.25</item>
+	<item>0.5</item>
+	<item>1.0</item>
+	<item>1.5</item>
+	<item>2.0</item>
   </string-array>
   <string-array name="captioning_edge_type_selector_titles">
     <item>По умолчанию</item>
@@ -689,16 +682,16 @@
     <item>-1</item>
   </integer-array>
   <string-array name="select_logd_size_titles">
-    <item>64 КБ</item>
-    <item>256 КБ</item>
-    <item>1 млн.</item>
-    <item>4M</item>
-    <item>16 миллионов</item>
+	<item>64K</item>
+	<item>256K</item>
+	<item>1M</item>
+	<item>4M</item>
+	<item>16M</item>
   </string-array>
   <string-array name="select_logd_size_lowram_titles">
-    <item>64 КБ</item>
-    <item>256 КБ</item>
-    <item>1 млн.</item>
+	<item>64K</item>
+	<item>256K</item>
+	<item>1M</item>
   </string-array>
   <string-array name="select_logd_size_values">
     <item>65536</item>
@@ -720,9 +713,9 @@
     <item>Всегда проверять</item>
   </string-array>
   <string-array name="hdcp_checking_values">
-    <item>никогда</item>
-    <item>Только drm</item>
-    <item>всегда</item>
+	<item>never</item>
+	<item>drm-only</item>
+	<item>always</item>
   </string-array>
   <string-array name="hdcp_checking_summaries">
     <item>Никогда не используйте проверку HDCP</item>
@@ -739,13 +732,13 @@
     <item>Масштаб анимации 10x</item>
   </string-array>
   <string-array name="window_animation_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1,5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
+	<item>0</item>
+	<item>.5</item>
+	<item>1</item>
+	<item>1.5</item>
+	<item>2</item>
+	<item>5</item>
+	<item>10</item>
   </string-array>
   <string-array name="transition_animation_scale_entries">
     <item>Анимация отключена</item>
@@ -757,13 +750,13 @@
     <item>Масштаб анимации 10x</item>
   </string-array>
   <string-array name="transition_animation_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1,5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
+	<item>0</item>
+	<item>.5</item>
+	<item>1</item>
+	<item>1.5</item>
+	<item>2</item>
+	<item>5</item>
+	<item>10</item>
   </string-array>
   <string-array name="animator_duration_scale_entries">
     <item>Анимация отключена</item>
@@ -775,34 +768,33 @@
     <item>Масштаб анимации 10x</item>
   </string-array>
   <string-array name="animator_duration_scale_values">
-    <item>0</item>
-    <item>.5</item>
-    <item>1</item>
-    <item>1,5</item>
-    <item>2</item>
-    <item>5</item>
-    <item>10</item>
+	<item>0</item>
+	<item>.5</item>
+	<item>1</item>
+	<item>1.5</item>
+	<item>2</item>
+	<item>5</item>
+	<item>10</item>
   </string-array>
   <string-array name="overlay_display_devices_entries">
     <item>Никто</item>
     <item>720x480 mdpi</item>
     <item>720x480 mdpi (безопасный)</item>
-    <item>1280 x 720 твлпи</item>
-    <item>1280 x 720 твлпинг (безопасный)</item>
+    <item>1280 x 720 tvdpi</item>
+    <item>1280 x 720 tvdpi (безопасный)</item>
     <item>1920 x 1080 xhdpi</item>
     <item>1920 x 1080 xhdpi (безопасный)</item>
-    <item>1280 x 720 твлпи и 1920x1080 xhdpi</item>
+    <item>1280 x 720 tvdpi и 1920x1080 xhdpi</item>
   </string-array>
   <string-array name="overlay_display_devices_values">
-    <item>
-    </item>
-    <item>720x480 / 160</item>
-    <item>720x480 / 160, безопасный</item>
-    <item>1280x720 / 213</item>
-    <item>1280x720 / 213, безопасный</item>
-    <item>1920x1080 / 320</item>
-    <item>1920x1080 / 320, безопасный</item>
-    <item>1280x720 / 213; 1920x1080 / 320</item>
+	<item></item>
+	<item>720x480/160</item>
+	<item>720x480/160,secure</item>
+	<item>1280x720/213</item>
+	<item>1280x720/213,secure</item>
+	<item>1920x1080/320</item>
+	<item>1920x1080/320,secure</item>
+	<item>1280x720/213;1920x1080/320</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Никто</item>
@@ -813,18 +805,18 @@
   <string-array name="enable_opengl_traces_values">
     <item>0</item>
     <item>1</item>
-    <item>Systrace</item>
-    <item>ошибка</item>
+	<item>systrace</item>
+	<item>error</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
-    <item>Прочь</item>
+    <item>Выкл</item>
     <item>Нарисуйте непрямоугольную область клипа синим</item>
     <item>Выделите проверенные команды рисования зеленым цветом.</item>
   </string-array>
   <string-array name="show_non_rect_clip_values">
-    <item>скрывать</item>
-    <item>область</item>
-    <item>Выделять</item>
+	<item>hide</item>
+	<item>region</item>
+	<item>highlight</item>
   </string-array>
   <string-array name="track_frame_time_entries">
     <item>Прочь</item>
@@ -832,9 +824,9 @@
     <item>В оболочке adb dumpsys gfxinfo</item>
   </string-array>
   <string-array name="track_frame_time_values">
-    <item>ложный</item>
-    <item>Visual_bars</item>
-    <item>правда</item>
+	<item>false</item>
+	<item>visual_bars</item>
+	<item>true</item>
   </string-array>
   <string-array name="debug_hw_overdraw_entries">
     <item>Прочь</item>
@@ -842,9 +834,9 @@
     <item>Показать области для Deuteranomaly</item>
   </string-array>
   <string-array name="debug_hw_overdraw_values">
-    <item>ложный</item>
-    <item>показать</item>
-    <item>Show_deuteranomaly</item>
+	<item>false</item>
+	<item>show</item>
+	<item>show_deuteranomaly</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Стандартный лимит</item>
@@ -864,16 +856,16 @@
   </string-array>
   <string-array name="vpn_types">
     <item>PPTP</item>
-    <item>L2TP / IPSec PSK</item>
-    <item>L2TP / IPSec RSA</item>
+    <item>L2TP/IPSec PSK</item>
+    <item>L2TP/IPSec RSA</item>
     <item>IPSec Xauth PSK</item>
     <item>IPSec Xauth RSA</item>
     <item>IPSec Hybrid RSA</item>
   </string-array>
   <string-array name="vpn_types_long">
     <item>PPTP VPN</item>
-    <item>L2TP / IPSec VPN с предварительно заданными ключами</item>
-    <item>L2TP / IPSec VPN с сертификатами</item>
+    <item>L2TP/IPSec VPN с предварительно заданными ключами</item>
+    <item>L2TP/IPSec VPN с сертификатами</item>
     <item>IPSec VPN с предварительно общими ключами и аутентификацией Xauth</item>
     <item>IPSec VPN с сертификатами и аутентификацией Xauth</item>
     <item>IPSec VPN с сертификатами и гибридной проверкой подлинности</item>
@@ -906,10 +898,10 @@
     <item>Всегда позволяют</item>
   </string-array>
   <string-array name="ram_states">
-    <item>нормальный</item>
-    <item>Умеренный</item>
-    <item>низкий</item>
-    <item>Критический</item>
+	<item>normal</item>
+	<item>moderate</item>
+	<item>low</item>
+	<item>critical</item>
   </string-array>
   <string-array name="daltonizer_type_entries">
     <item>@string/daltonizer_mode_deuteranomaly</item>
@@ -997,7 +989,7 @@
   </string-array>
   <string-array name="origin_carrier_names">
     <item>CMCC</item>
-    <item>"КИТАЙ МОБИЛ"</item>
+    <item>"CHINA  MOBILE"</item>
     <item>CHN-UNICOM</item>
     <item>China Mobile</item>
     <item>China Unicom</item>
@@ -1008,16 +1000,16 @@
     <item>Поиск службы</item>
   </string-array>
   <string-array name="locale_carrier_names">
-    <item>China_Mobile</item>
-    <item>China_Mobile</item>
-    <item>China Unicom</item>
-    <item>China_Mobile</item>
-    <item>China Unicom</item>
-    <item>China_Telecom</item>
-    <item>China_Mobile</item>
-    <item>China Unicom</item>
-    <item>China_Telecom</item>
-    <item>РоумингТекстильПоиск</item>
+	<item>China_Mobile</item>
+	<item>China_Mobile</item>
+	<item>China_Unicom</item>
+	<item>China_Mobile</item>
+	<item>China_Unicom</item>
+	<item>China_Telecom</item>
+	<item>China_Mobile</item>
+	<item>China_Unicom</item>
+	<item>China_Telecom</item>
+	<item>roamingTextSearching</item>
   </string-array>
   <string-array name="wifi_hotsopt_mode_entries">
     <item>Всегда</item>
@@ -1025,7 +1017,7 @@
     <item>Выключайте прибор, когда он находится на холостом ходу в течение 10 минут</item>
   </string-array>
   <string-array name="wifi_hotsopt_mode_entryValues">
-    <item>Всегда</item>
+    <item>Always</item>
     <item>Turn_off_5min</item>
     <item>Turn_off_10min</item>
   </string-array>
@@ -1063,9 +1055,9 @@
     <item>Нет переопределения</item>
   </string-array>
   <string-array name="profile_values">
-    <item>ПЕРЕВЕРНУТЬ</item>
-    <item>ПОДАВЛЕНИЕ</item>
-    <item>ПО УМОЛЧАНИЮ</item>
+	<item>OVERRIDE</item>
+	<item>SUPPRESS</item>
+	<item>DEFAULT</item>
   </string-array>
   <string-array name="profile_connection_entries">
     <item>Отключить</item>
@@ -1150,11 +1142,10 @@
     <item>@string/ring_mode_unchanged</item>
   </string-array>
   <string-array name="ring_mode_values">
-    <item>нормальный</item>
-    <item>Вибрировать</item>
-    <item>Немой</item>
-    <item>
-    </item>
+	<item>normal</item>
+	<item>vibrate</item>
+	<item>mute</item>
+    <item></item>
   </string-array>
   <string-array name="sms_security_check_limit_entries">
     <item>@string/sms_security_check_limit_default</item>
@@ -1194,7 +1185,7 @@
   </string-array>
   <string-array name="trigger_page_title">
     <item>WLAN</item>
-    <item>блютуз</item>
+    <item>Bluetooth</item>
     <item>NFC</item>
   </string-array>
   <string-array name="input_method_selector_titles">
