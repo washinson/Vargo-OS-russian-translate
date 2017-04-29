@@ -252,10 +252,10 @@
         <item>контроль питания при определении местоположения</item>
         <item>просмотр статистики использования</item>
         <item>включение/отключение микрофона</item>
-		<item>изменение окна</item>
+	<item>изменение окна</item>
         <item>трансляция контента</item>
         <item>активация VPN</item>
-		<item>изменение WLAN</item>
+	<item>изменение Wi-Fi</item>
         <item>изменение Bluetooth</item>
         <item>отправка MMS</item>
         <item>чтение MMS</item>
@@ -316,7 +316,7 @@
         <item>Включение/отключение микрофона</item>
         <item>Трансляция контента</item>
         <item>Активация VPN</item>
-		<item>Изменение WLAN</item>
+	<item>Изменение Wi-Fi</item>
         <item>Изменение Bluetooth</item>
         <item>Отправка MMS</item>
         <item>Чтение MMS</item>

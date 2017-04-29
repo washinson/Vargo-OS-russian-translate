@@ -3114,10 +3114,10 @@
     <string name="vargo_service_start_btn">Начать</string>
     <string name="vargo_service_title">Сервисы Vargo</string>
     <string name="vargo_account_new_phone">Установить новый номер</string>
-    <string name="vargo_settings_gps_on">Включить</string>
-    <string name="vargo_settings_gps_off">Выключить</string>
-    <string name="vargo_settings_status_open">Включить</string>
-    <string name="vargo_settings_status_close">Выключить</string>
+    <string name="vargo_settings_gps_on">Включено</string>
+    <string name="vargo_settings_gps_off">Выключено</string>
+    <string name="vargo_settings_status_open">Включено</string>
+    <string name="vargo_settings_status_close">Выключено</string>
     <string name="vargo_settings_account_login">Авторизоваться</string>
     <string name="vargo_settings_account_input_hint">Введите имя своей учетной записи (адрес электронной почты)</string>
     <string name="vargo_settings_account_input_hint_0">Введите пароль своей учетной записи</string>

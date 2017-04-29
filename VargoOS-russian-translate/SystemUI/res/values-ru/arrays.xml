@@ -10,17 +10,17 @@
         <item>Суббота</item>
     </string-array>
     <string-array name="moths">
-        <item>ЯНВ</item>
-        <item>ФЕВ</item>
-        <item>МАР</item>
-        <item>АПР</item>
-        <item>МАЙ</item>
-        <item>ИЮН</item>
-        <item>ИЮЛ</item>
-        <item>АВГ</item>
-        <item>СЕН</item>
-        <item>ОКТ</item>
-        <item>НОЯ</item>
-        <item>ДЕК</item>
+        <item>Января</item>
+        <item>Февраля</item>
+        <item>Марта</item>
+        <item>Апреля</item>
+        <item>Мая</item>
+        <item>Июня</item>
+        <item>Июля</item>
+        <item>Августа</item>
+        <item>Сентября</item>
+        <item>Октября</item>
+        <item>Ноября</item>
+        <item>Декабря</item>
     </string-array>
 </resources>
