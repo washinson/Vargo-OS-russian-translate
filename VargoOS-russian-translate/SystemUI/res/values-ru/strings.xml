@@ -346,7 +346,7 @@
     <string name="tasklist_killall">Убить всех</string>
     <string name="tasklist_stopall">Остановить все</string>
     <string name="tasklist_stop">Стоп</string>
-    <string name="tasklist_memory_usage" formatted="false">Свободная/Общая память: [%s] / [%s]</string>
+    <string name="tasklist_memory_usage" formatted="false">Свободная/Общая память: [%s]/[%s]</string>
     <string name="message_keep_one_launcher">Должен содержать хотя бы одну домашнюю задачу!</string>
     <string name="device_owned_footer">Устройство может контролироваться</string>
     <string name="profile_owned_footer">Действия в профиле могут отслеживаться</string>
@@ -442,7 +442,7 @@
     <string name="fineos_clear_memrey_all_locked">У вашего мобильного телефона лучшее состояние</string>
     <string name="fineos_recents_contexts_first_part">Сдвиньте влево и отпустите, чтобы заблокировать или разблокировать приложение.</string>
     <string name="got_it">Получить</string>
-    <string name="quick_settings_ssm">супер экономия</string>
+    <string name="quick_settings_ssm">Супер экономия</string>
     <string name="battery_over_voltage_title">Остановите зарядку</string>
     <string name="battery_over_voltage_subtitle">Слишком большое зарядное напряжение!</string>
     <string name="battery_low_shutdown_title">Выключение!</string>
@@ -457,11 +457,11 @@
     <string name="hide_button_help_msg">Панель навигации скрыта, откройте ее с помощью жестов, показанных ниже. Скрыть панель навигации можно с помощью настроек навигационной панели.</string>
     <string name="hide_button_help_msg_title">Информация</string>
     <string name="hide_button_remind_msg">Больше не напоминать</string>
-    <string name="screenshot_failed_nospace_text">«Не удалось сохранить скриншот. Память может быть заполнена».</string>
-    <string name="camera_hint_low_battery_text">«Невозможно запустить камеру. Низкий заряд батареи».</string>
-    <string name="lockscreen_battery_short">%d %%</string>
+    <string name="screenshot_failed_nospace_text">Не удалось сохранить скриншот. Память может быть заполнена</string>
+    <string name="camera_hint_low_battery_text">Невозможно запустить камеру. Низкий заряд батареи</string>
+    <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_status_charging">Заряжается</string>
-    <string name="lockscreen_plugged_in">Заряжается, %d %%</string>
+    <string name="lockscreen_plugged_in">Заряжается, %d%%</string>
     <string name="lockscreen_charged">Зарядка завершена</string>
     <string name="lockscreen_low_battery">Подключите зарядное устройство</string>
     <string name="lockscreen_missing_sim_message_short">Нет SIM-карты</string>
@@ -476,7 +476,7 @@
     <string name="unlock_tip_slide">Проведите, чтобы разблокировать</string>
     <string name="unlock_tip_camera">Проведите пальцем вверх, чтобы открыть приложение камера</string>
     <string name="text1">Проведите</string>
-    <string name="label_date">%1$s Месяц %2$ sдень</string>
+    <string name="label_date">%2$s %1$s</string>
     <string name="defalt_lockscreen">com.huaqin.launcherEx.theme.huaqin</string>
     <string name="defalt_lockWallpaper">com.huaqin.launcherEx.theme.huaqin</string>
     <string name="wday_year_month_day" formatted="false">%s, %s %s %s</string>
@@ -574,7 +574,7 @@
     <string name="keyguard_low_battery">Подключите зарядное устройство.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Для разблокировки нажмите \"Меню\".</string>
     <string name="keyguard_network_locked_message">Сеть заблокирована</string>
-    <string name="keyguard_perso_locked_message">SIM/RUIM заблокирована</string>
+    <string name="keyguard_perso_locked_message">SIM заблокирована</string>
     <string name="keyguard_missing_sim_message_short">Нет SIM-карты</string>
     <string name="keyguard_missing_sim_message">Нет SIM-карты.</string>
     <string name="keyguard_missing_sim_instructions">Вставьте SIM-карту.</string>
