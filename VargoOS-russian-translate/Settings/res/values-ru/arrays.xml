@@ -506,4 +506,54 @@
         <item>Розовый</item>
         <item>Красный</item>
     </string-array>
+	<string-array name="profile_connection_entries">
+        <item>Выключить</item>
+        <item>Включить</item>
+    </string-array>
+	<string-array name="profile_entries">
+        <item>Вкл</item>
+        <item>Выкл</item>
+        <item>Не перезаписывать</item>
+    </string-array>
+	<string-array name="default_sim_name">
+        <item>Абонент 1</item>
+        <item>Абонент 2</item>
+        <item>Абонент 3</item>
+    </string-array>
+	<string-array name="wifi_hotsopt_mode_summaries">
+        <item>Всегда</item>
+        <item>Выключать после 5 минут бездействия</item>
+        <item>Выключать после 10 минут бездействия</item>
+    </string-array>
+	<string-array name="wifi_hotsopt_mode_entries">
+        <item>Всегда</item>
+        <item>Выключать после 5 минут бездействия</item>
+        <item>Выключать после 10 минут бездействия</item>
+    </string-array>
+	<string-array name="cellcular2wifi_entries">
+        <item>Автоматическое подключение</item>
+        <item>Подключение вручную</item>
+        <item>Всегда спрашивать</item>
+    </string-array>
+	<string-array name="screen_color_setting">
+        <item>По-умолчанию</item>
+        <item>Яркий</item>
+        <item>Свой</item>
+    </string-array>
+	<string-array name="user_content_ratings_entries">
+        <item>Сверхразум</item>
+        <item>Человек</item>
+        <item>Неандерталец</item>
+        <item>Шимпандзе</item>
+        <item>Обезьяна</item>
+    </string-array>
+	<string-array name="agps_reset_type_entries">
+        <item>ГОРЯЧО</item>
+        <item>ТЕПЛО</item>
+        <item>ХОЛОДНО</item>
+    </string-array>
+	<string-array name="agps_network_entries">
+        <item>Домашняя сеть</item>
+        <item>Общедоступная сеть</item>
+    </string-array>
 </resources>
