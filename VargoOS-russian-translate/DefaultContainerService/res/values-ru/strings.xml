@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="service_name">Помощник доступа к пакетам</string>
+    <string name="service_name">Мастер доступа к пакетам</string>
 </resources>
+
 

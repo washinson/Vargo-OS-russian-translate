@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Местоположение предохранителя</string>
+    <string name="app_label">Геоданные из нескольких источников</string>
 </resources>
+
 

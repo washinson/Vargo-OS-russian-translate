@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="app_install_location_entries">
-    <item>Пусть система решает</item>
+    <item>Автоматически</item>
     <item>Внутренняя память устройства</item>
     <item>Съемная карта SD</item>
   </string-array>

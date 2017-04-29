@@ -3,12 +3,12 @@
     <string name="app_label">Загрузки</string>
     <string name="download_title_sorted_by_date">Загрузки – по дате</string>
     <string name="download_title_sorted_by_size">Загрузки – по размеру</string>
-    <string name="no_downloads">Нет загрузок.</string>
-    <string name="missing_title">&lt;Неизвестно></string>
+    <string name="no_downloads">Нет загрузок</string>
+    <string name="missing_title" />
     <string name="button_sort_by_size">Сортировать по размеру</string>
     <string name="button_sort_by_date">Сортировать по дате</string>
-    <string name="download_queued">В очереди</string>
-    <string name="download_running">В процессе</string>
+    <string name="download_queued">"В очереди "</string>
+    <string name="download_running">"Загружается "</string>
     <string name="download_success">Завершено</string>
     <string name="download_error">Сбой</string>
     <string name="dialog_title_not_available">Невозможно загрузить файл</string>
@@ -27,22 +27,15 @@
     <string name="keep_queued_download">Сохранить</string>
     <string name="cancel_running_download">Отмена</string>
     <string name="retry_download">Повторить</string>
-    <string name="deselect_all">Отменить все</string>
+    <string name="deselect_all">Отменить выбор всех</string>
     <string name="select_all">Выбрать все</string>
-    <string name="selected_count">%1$d из %2$d</string>
+    <string name="selected_count">" %1$d из %2$d"</string>
     <string name="download_share_dialog">Способ отправки</string>
-    <string name="action_consumes_rights">Будут использованы права на использование этого носителя</string>
-    <string name="drm_cannot_share_multiple">Некоторые из выбранных файлов защищены DRM-файлом, значит, не могут быть отправлены</string>
-    <string name="drm_cannot_share">Выбранный файл защищен от пересылки по протоколу DRM</string>
-    <string name="dialog_title">Скачать</string>
-    <string name="paused_dialog_msg">Вы хотите приостановить загрузку?</string>
-    <string name="resume_dialog_msg">Вы хотите продолжить загрузку?</string>
+    <string name="dialog_title">Загрузка</string>
+    <string name="paused_dialog_msg">Приостановить загрузку?</string>
+    <string name="resume_dialog_msg">Продолжить загрузку?</string>
     <string name="cancle_download">Отменить загрузку</string>
     <string name="download_pause">Приостановлено</string>
-    <string name="download_failed_no_network">Ожидание подключения к сети</string>
+    <string name="download_failed_no_network">Нет интернет-соединения</string>
     <string name="download_failed_no_space">Недостаточно места</string>
-    <string name="dialog_title_conform_delete">Удалить?</string>
-    <string name="download_percent">%d %%</string>
 </resources>
-
-

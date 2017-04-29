@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="calendar_storage">Хранение календаря</string>
-    <string name="upgrade_msg">Обновление базы данных календаря.</string>
+    <string name="calendar_storage">Память календаря</string>
+    <string name="upgrade_msg">Обновление базы данных календаря...</string>
     <string name="calendar_default_name">По умолчанию</string>
-    <string name="calendar_info">Информация о календарях</string>
-    <string name="calendar_info_error">ошибка</string>
+    <string name="calendar_info">Сведения о календаре</string>
+    <string name="calendar_info_error">Ошибка</string>
     <string name="calendar_info_no_calendars">Нет календарей</string>
-    <string name="calendar_info_events">События: %1$d</string>
-    <string name="calendar_info_events_dirty">События: %1$d, несохраненные: %2$d</string>
+    <string name="calendar_info_events">Мероприятий: %1$d</string>
+    <string name="calendar_info_events_dirty">Мероприятий: %1$d; не сохранено: %2$d</string>
     <string name="provider_label">Календарь</string>
     <string name="debug_tool_delete_button">Удалить сейчас</string>
-    <string name="debug_tool_start_button">Начало</string>
-    <string name="debug_tool_message">Вы собираетесь сделать 1) сделать копию своей базы данных календаря на SD-карте / USB-накопителе, которая доступна для чтения любым приложением, и 2) отправить ее по электронной почте. Не забудьте удалить копию, как только вы успешно скопировали ее с устройства или получили электронное письмо.</string>
-    <string name="debug_tool_email_sender_picker">Выберите программу для отправки вашего файла</string>
-    <string name="debug_tool_email_subject">Добавлен календарь Db</string>
-    <string name="debug_tool_email_body">К моей базе данных Календаря прилагаются все мои встречи и личные данные. Обращаться осторожно.</string>
+    <string name="debug_tool_start_button">Начать</string>
+    <string name="debug_tool_message">Вы собираетесь 1) скопировать базу данных календаря на SD-карту/USB-накопитель, которые доступны для чтения всем приложениям, и 2) отправить ее по электронной почте. Не забудьте удалить копию после того, как она будет перенесена с устройства или получена по электронной почте.</string>
+    <string name="debug_tool_email_sender_picker">Выберите приложение</string>
+    <string name="debug_tool_email_subject">БД Календаря прилагается</string>
+    <string name="debug_tool_email_body">К сообщению приложена база данных календаря со всеми встречами и личной информацией. Обращайтесь с ней осторожно.</string>
 </resources>
+
+
 

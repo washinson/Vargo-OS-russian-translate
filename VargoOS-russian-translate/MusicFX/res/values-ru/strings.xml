@@ -2,15 +2,15 @@
 <resources>
     <string name="app_name">MusicFX</string>
     <string name="no_effects">Эффекты недоступны.</string>
-    <string name="main_toggle_effects_title">Звуковые эффекты</string>
-    <string name="eq_dialog_title">Snapdragon Audio +</string>
-    <string name="headset_plug">Подключите наушники для этих эффектов.</string>
-    <string name="bass_boost_strength">Усиление басов</string>
+    <string name="main_toggle_effects_title">Аудиоэффекты</string>
+    <string name="eq_dialog_title">Эквалайзер</string>
+    <string name="headset_plug">Чтобы услышать эти эффекты, подключите наушники.</string>
+    <string name="bass_boost_strength">Усиление нижних частот</string>
     <string name="virtualizer_strength">Объемный звук</string>
     <string name="pr_title">Реверберация:</string>
-    <string name="pr_summary">Дополнительные эффекты реверберации комнаты</string>
-    <string name="pr_dialog_title">Предустановка реверберации</string>
-    <string name="setup">Настроить</string>
+    <string name="pr_summary">Дополнительные эффекты реверберации в помещении</string>
+    <string name="pr_dialog_title">Шаблон ревербератора</string>
+    <string name="setup">Настройка</string>
     <string name="normal">Нормальный</string>
     <string name="classical">Классический</string>
     <string name="dance">Танец</string>
@@ -19,19 +19,20 @@
     <string name="heavy_metal">Тяжелый металл</string>
     <string name="hip_hop">Хип-хоп</string>
     <string name="jazz">Джаз</string>
-    <string name="pop">Pop</string>
-    <string name="rock">рок</string>
-    <string name="ci_extreme">Электронный</string>
-    <string name="user">Пользовательский</string>
-    <string name="none">Никто</string>
+    <string name="pop">Поп</string>
+    <string name="rock">Рок</string>
+    <string name="ci_extreme">Электроника</string>
+    <string name="user">Своя настройка</string>
+    <string name="none">Ничего</string>
     <string name="smallroom">Маленькая комната</string>
-    <string name="mediumroom">MediumRoom</string>
+    <string name="mediumroom">Средняя комната</string>
     <string name="largeroom">Большая комната</string>
-    <string name="mediumhall">Средний</string>
-    <string name="largehall">LargeHall</string>
+    <string name="mediumhall">Средний зал</string>
+    <string name="largehall">Огромный зал</string>
     <string name="plate">Пластина</string>
-    <string name="eq_custom">Для настройки выберите «Обычная».</string>
-    <string name="power_on_prompt">Нажмите кнопку питания в правом верхнем углу.</string>
-    <string name="picker_title">Панель управления музыкальными эффектами</string>
+    <string name="eq_custom">Для настройки выберите «Своя настройка».</string>
+    <string name="power_on_prompt">Нажмите кнопку в правом верхнем углу.</string>
+    <string name="picker_title">Управление звуковыми эффектами</string>
 </resources>
+
 

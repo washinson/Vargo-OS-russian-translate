@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Фонарик</string>
     <string name="action_settings">Настройки</string>
-    <string name="no_support_flas_hlight">Проблесковый свет не может быть зажжен, что является следствием Мобильный телефон не поддерживает!</string>
-    <string name="no_application">Его нельзя использовать, потому что камера является исключением!</string>
+    <string name="no_support_flas_hlight">Фонарик не может быть включен, потому что устройство его не поддерживает!</string>
+    <string name="no_application">Фонарик нельзя использовать, потому что камера используется!</string>
 </resources>
 

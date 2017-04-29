@@ -1,3 +1,6 @@
+с(--) уже переведено и не нуждается в исправлении
+без(--) не переведено и нуждается в переводе
+
 -- AntHalService
 -- audioweakup
 -- AVargoDestroy
@@ -5,20 +8,118 @@
 -- BackupRestoreConfirmation
 -- BaseServiceHQ
 -- BasicDreams
+-- Bluetooth
+-- BluetoothExt
 -- Browser
+-- CalendarLocalAccount
+-- CalendarProvider
+-- CaptivePortalLogin
+-- CarrierCacheService
+-- CarrierLoadService
+-- CertInstaller
+-- ConfigurationClient
 -- Contacts
+-- ContactsProvider
+-- DefaultContainerService
+-- DeviceInfo
 -- Dialer
+-- DocumentsUI
+-- DownloadProvider
+-- DownloadProviderUi
+EngineeringMode
+-- ExternalStorageProvider
+FineOSCalculator
+FineOSCleanMasterSDK
+FineOSDeskClock
 -- FineOSFileExplorer
 -- FineOSGallery
 -- FineOSHome
+FineOSInfo
+FineOSMirror
+FineOSMusic
+FineOSNote
+FineOSNotifyManager
+FineOSPhotoEditor
+-- fineos-res
+FineOSSoundRecorder
+FineOSSystemManager
 -- FineOSTheme
+FineOSVideoPlayer
 -- FineOSWeather
+-- flashlight
+FM2
 -- FotaUpdate
+-- FotaUpdateReboot
+fp
+-- framework-res
+-- FusedLocation
+Galaxy4
+GestureMgr
+GlobalNetworkLocation
 -- GooglePinyinIME
+HQEngineerCode
+-- HTMLViewer
+HuohouVoice
+-- InputDevices
+InterfacePermissions
+-- KeyChain
 -- LatinIME
+-- LiveWallpapers
+-- LiveWallpapersPicker
+LockBimuyu
+LunarInfoProvider
+-- ManagedProvisioning
+-- MediaProvider
 -- Mms
--- ThirdFonts
--- VargoYingyin
--- Vtalkie
--- WpsMail
+-- MusicFX
+NetworkNavigation
+NetworkSetting
+-- NfcNci
+-- NoiseField
+OmaDrmUiController
+-- PackageInstaller
+PacProcessor
+PhoneComponentInfo
+PhoneFeatures
+-- PhotoTable
+-- PrintSpooler
+-- Protips
+ProxyHandler
+QComQMIPermissions
+RawDataTest_BOE
+RawDataTest_TDI
+RuntimeTest
+SecProtect
 -- Settings
+-- SettingsProvider
+Setupwizard
+SetupwizardBrowser
+-- Shell
+SnapdragonCamera
+Stk
+-- SystemUI
+-- Tag
+-- Telecom
+-- TelephonyProvider
+TeleService
+ThePaper
+-- ThirdFonts
+UserDictionaryProvider
+VargoAppStore
+VargoGallery
+VargoGameHall
+VargoWeather
+-- VargoYingyin
+-- VisualizationWallpapers
+-- VpnDialogs
+-- Vtalkie
+Vtime
+-- WallpaperCropper
+WapiCertInstaller
+-- webview
+WeiKong
+-- WpsMail
+XunfeiIME
+YepFactoryKit
+YepSetProp
+ZKLockEngine

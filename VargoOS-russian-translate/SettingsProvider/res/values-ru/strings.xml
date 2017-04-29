@@ -25,8 +25,9 @@
     <string name="def_immersive_mode_confirmations">confirmed</string>
     <string name="def_device_name">%1$s %2$s</string>
     <string name="def_device_name_simple">%1$s</string>
-    <string name="app_label">Хранение настроек</string>
+    <string name="app_label">Хранилище настроек</string>
     <string name="name_sim1">SIM1</string>
     <string name="name_sim2">SIM2</string>
 </resources>
+
 

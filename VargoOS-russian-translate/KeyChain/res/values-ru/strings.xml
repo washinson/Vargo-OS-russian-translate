@@ -2,12 +2,13 @@
 <resources>
     <string name="app_name">Брелок</string>
     <string name="title_no_certs">Сертификаты не найдены</string>
-    <string name="title_select_cert">Выберите сертификат</string>
-    <string name="requesting_application">Приложение %s запросило сертификат. Выбор сертификата позволит приложению использовать эту идентификацию с серверами в настоящее время и в будущем.</string>
-    <string name="requesting_server">Приложение идентифицировало запрашивающий сервер как %s, но вы должны предоставить ему доступ только к сертификату, если вы доверяете этому приложению.</string>
-    <string name="install_new_cert_message">Вы можете установить сертификаты из файла PKCS#12 с расширением %1$s или %2$s, расположенным во внешнем хранилище.</string>
+    <string name="title_select_cert">Выбор сертификата</string>
+    <string name="requesting_application">Приложение %s запросило сертификат. Выберите сертификат, чтобы разрешить приложению использовать это удостоверение для серверов сейчас и в будущем.</string>
+    <string name="requesting_server">Приложение идентифицировало запрашивающий сервер как %s. Однако если оно является доверенным, вам всего лишь необходимо предоставить ему доступ к сертификату.</string>
+    <string name="install_new_cert_message">Можно установить сертификаты из файла PKCS#12 с расширением %1$s или %2$s, который находится во внешнем хранилище.</string>
     <string name="install_new_cert_button_label">Установить</string>
-    <string name="allow_button">Позволять</string>
-    <string name="deny_button">Отрицать</string>
+    <string name="allow_button">Разрешить</string>
+    <string name="deny_button">Отклонить</string>
 </resources>
+
 
