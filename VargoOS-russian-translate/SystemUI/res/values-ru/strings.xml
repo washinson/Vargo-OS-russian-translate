@@ -475,8 +475,8 @@
     <string name="weather_city_default">Пекин</string>
     <string name="unlock_tip_slide">Проведите, чтобы разблокировать</string>
     <string name="unlock_tip_camera">Проведите пальцем вверх, чтобы открыть приложение камера</string>
-    <string name="text1">Проведите, чтобы разблокировать</string>
-    <string name="label_date">%1$sМесяц%2$sдень</string>
+    <string name="text1">Проведите</string>
+    <string name="label_date">%1$s Месяц %2$ sдень</string>
     <string name="defalt_lockscreen">com.huaqin.launcherEx.theme.huaqin</string>
     <string name="defalt_lockWallpaper">com.huaqin.launcherEx.theme.huaqin</string>
     <string name="wday_year_month_day" formatted="false">%s, %s %s %s</string>
@@ -549,8 +549,8 @@
     <string name="week_day_moth_year">EE-d-MMM-yyyy</string>
     <string name="year_moth_day_week">yyyy-MMM-d-EE</string>
     <string name="moth">yyyy-MMM-d-EE</string>
-    <string name="text2">to</string>
-    <string name="text3">unlock</string>
+    <string name="text2">для</string>
+    <string name="text3">разблокировки</string>
     <string name="text4" />
     <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name" />
