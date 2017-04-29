@@ -1946,12 +1946,12 @@
     <string name="power_usage_level_and_status" msgid="7449847570973811784">%1$s – %2$s</string>
     <string name="power_discharge_remaining" msgid="4925678997049911808">Батарея будет разряжена через %1$s</string>
     <string name="power_charge_remaining" msgid="6132074970943913135">Батарея будет заряжена через %1$s</string>
-    <string name="power_discharging_duration" msgid="1605929174734600590">%1$s – осталось около %2$s</string>
+    <string name="power_discharging_duration" msgid="1605929174734600590">%1$s</string>
     <string name="power_charging" msgid="1779532561355864267">%1$s – %2$s</string>
-    <string name="power_charging_duration" msgid="2853265177761520490">%1$s – %2$s до полной зарядки</string>
-    <string name="power_charging_duration_ac" msgid="3969186192576594254">%1$s – %2$s до полной зарядки (от сети)</string>
-    <string name="power_charging_duration_usb" msgid="182405645340976546">%1$s – %2$s до полной зарядки (через USB)</string>
-    <string name="power_charging_duration_wireless" msgid="1829295708243159464">%1$s – %2$s до полной зарядки (беспроводная)</string>
+    <string name="power_charging_duration" msgid="2853265177761520490">%1$s</string>
+    <string name="power_charging_duration_ac" msgid="3969186192576594254">%1$s (от сети)</string>
+    <string name="power_charging_duration_usb" msgid="182405645340976546">%1$s (через USB)</string>
+    <string name="power_charging_duration_wireless" msgid="1829295708243159464">%1$s (беспроводная)</string>
     <string name="power_usage_list_summary" msgid="2409288197839512482">Использование с момента полной зарядки</string>
     <string name="battery_since_unplugged" msgid="338073389740738437">Расход заряда батареи с момента отключения от сети питания</string>
     <string name="battery_since_reset" msgid="7464546661121187045">Расход заряда батареи с момента перезагрузки</string>
