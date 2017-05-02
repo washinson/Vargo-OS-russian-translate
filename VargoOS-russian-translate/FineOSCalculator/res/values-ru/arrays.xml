@@ -22,19 +22,19 @@
   <string-array name="operatorDescs">
     <item>Левая круглая скобка</item>
     <item>Правая круглая скобка</item>
-    <item>факториал</item>
+    <item>Факториал</item>
     <item>Натуральный логарифм</item>
-    <item>логарифм</item>
-    <item>квадратный корень</item>
-    <item>деленное на</item>
-    <item>умножается на</item>
+    <item>Логарифм</item>
+    <item>Квадратный корень</item>
+    <item>Деление на</item>
+    <item>Умножение на</item>
     <item>Плюс</item>
-    <item>минус</item>
+    <item>Минус</item>
     <item>Точка</item>
-    <item>мощность</item>
-    <item>Касательный</item>
-    <item>синус</item>
-    <item>косинус</item>
+    <item>Power</item>
+    <item>Тангенс</item>
+    <item>Синус</item>
+    <item>Косинус</item>
     <item>Пи</item>
     <item>Равно</item>
   </string-array>

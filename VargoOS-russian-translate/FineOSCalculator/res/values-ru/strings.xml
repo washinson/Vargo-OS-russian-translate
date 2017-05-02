@@ -2,7 +2,7 @@
 <resources>
     <string name="mtk_clear">C</string>
     <string name="app_name">Калькулятор</string>
-    <string name="error">ошибка</string>
+    <string name="error">Ошибка</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -40,27 +40,27 @@
     <string name="power">^</string>
     <string name="factorial">!</string>
     <string name="basic">Основная панель</string>
-    <string name="advanced">Панель «Дополнительно»</string>
-    <string name="clear_history">Чистая история</string>
-    <string name="text_copied_toast">Текст скопирован.</string>
+    <string name="advanced">Расширенная панель</string>
+    <string name="clear_history">Очистить историю</string>
+    <string name="text_copied_toast">Текст скопирован</string>
     <string name="leftParenDesc">Левая круглая скобка</string>
     <string name="rightParenDesc">Правая круглая скобка</string>
-    <string name="factorialDesc">факториал</string>
+    <string name="factorialDesc">Факториал</string>
     <string name="lnDesc">Натуральный логарифм</string>
-    <string name="lgDesc">логарифм</string>
-    <string name="sqrtDesc">квадратный корень</string>
-    <string name="divDesc">делить</string>
-    <string name="mulDesc">Умножать</string>
+    <string name="lgDesc">Логарифм</string>
+    <string name="sqrtDesc">Квадратный корень</string>
+    <string name="divDesc">Деление</string>
+    <string name="mulDesc">Умножение</string>
     <string name="plusDesc">Плюс</string>
-    <string name="minusDesc">минус</string>
+    <string name="minusDesc">Минус</string>
     <string name="dotDesc">Точка</string>
-    <string name="powerDesc">мощность</string>
+    <string name="powerDesc">Power</string>
     <string name="delDesc">Удалить</string>
-    <string name="clearDesc">Чисто</string>
-    <string name="tanDesc">Касательный</string>
-    <string name="sinDesc">синус</string>
-    <string name="cosDesc">косинус</string>
-    <string name="eDesc">«Номер Эйлера»</string>
+    <string name="clearDesc">Очистить</string>
+    <string name="tanDesc">Тангенс</string>
+    <string name="sinDesc">Синус</string>
+    <string name="cosDesc">Косинус</string>
+    <string name="eDesc">«Число Эйлера»</string>
     <string name="piDesc">Пи</string>
     <string name="equalDesc">Равно</string>
     <item type="string" name="APKTOOL_DUMMY_3f">false</item>
@@ -559,4 +559,3 @@
     <item type="string" name="APKTOOL_DUMMY_22c">false</item>
     <item type="string" name="APKTOOL_DUMMY_22d">false</item>
 </resources>
-
