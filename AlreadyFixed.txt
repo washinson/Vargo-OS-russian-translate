@@ -26,17 +26,17 @@
 -- DocumentsUI
 -- DownloadProvider
 -- DownloadProviderUi
-EngineeringMode
+-- EngineeringMode
 -- ExternalStorageProvider
-FineOSCalculator
+-- FineOSCalculator
 FineOSCleanMasterSDK
-FineOSDeskClock
+-- FineOSDeskClock
 -- FineOSFileExplorer
 -- FineOSGallery
 -- FineOSHome
 FineOSInfo
 FineOSMirror
-FineOSMusic
+-- FineOSMusic
 FineOSNote
 FineOSNotifyManager
 FineOSPhotoEditor
