@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="whitelistTotal">
-    <item quantity="other">Разрешить перезагрузке приложений %d</item>
+    <item quantity="other">Разрешить %d перезагружать приложения</item>
   </plurals>
   <plurals name="blacklistTotal">
-    <item quantity="other">Отключение %d приложений для перезагрузки</item>
+    <item quantity="other">Запретить %d перезагружать приложения</item>
   </plurals>
 </resources>
