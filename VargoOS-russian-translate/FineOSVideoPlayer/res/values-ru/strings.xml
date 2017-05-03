@@ -2,19 +2,19 @@
 <resources>
     <string name="video_list_empty_new">Записать время потока</string>
     <string name="sdcard_shared_message">USB-накопитель занят</string>
-    <string name="primary_storage">Первичная карта памяти</string>
-    <string name="secondary_storage">Карта вспомогательного накопителя</string>
+    <string name="primary_storage">Основная карта памяти</string>
+    <string name="secondary_storage">Вспомогательная карта памяти</string>
     <string name="storage_phone">Телефон</string>
     <string name="storage_sdcard">SD Card</string>
     <string name="hotknot">HotKnot</string>
     <string name="need_turn_on_hotknot">Пожалуйста, сначала включите hotknot.</string>
     <string name="title_activity_hot_knot_dialog">HotKnotDialogActivity</string>
-    <string name="hotknot_hint">Закройте два телефона своими лицами и включите hotknot.</string>
+    <string name="hotknot_hint">Расположите оба телефона экран к экрану и включите hotknot.</string>
     <string name="video_app_name">Видео проигрыватель</string>
     <string name="scanning">Сканирование SD-карты...</string>
     <string name="sdcard_missing_message">На вашем телефоне нет установленной SD-карты.</string>
     <string name="video_list_empty">На SD-карте нет видео.</string>
-    <string name="detail_title">Title: %1$s</string>
+    <string name="detail_title">Название: %1$s</string>
     <string name="detail_date_taken">Взято: %1$s</string>
     <string name="detail_path">Путь: %1$s</string>
     <string name="detail_filesize">Размер файла: %1$s</string>
@@ -23,13 +23,5 @@
     <string name="delete">Удалить</string>
     <string name="delete_tip">Удалить %1$s?</string>
     <string name="delete_progress">Удаление %1$s...</string>
-    <item type="string" name="APKTOOL_DUMMY_17">false</item>
-    <item type="string" name="APKTOOL_DUMMY_18">false</item>
-    <item type="string" name="APKTOOL_DUMMY_19">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1e">false</item>
 </resources>
 
