@@ -44,7 +44,7 @@ FineOSPhotoEditor
 FineOSSoundRecorder
 FineOSSystemManager
 -- FineOSTheme
-FineOSVideoPlayer
+-- FineOSVideoPlayer
 -- FineOSWeather
 -- flashlight
 FM2
