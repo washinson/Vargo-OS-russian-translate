@@ -35,14 +35,14 @@
 -- FineOSGallery
 -- FineOSHome
 FineOSInfo
-FineOSMirror
+-- FineOSMirror
 -- FineOSMusic
 FineOSNote
-FineOSNotifyManager
+-- FineOSNotifyManager
 FineOSPhotoEditor
 -- fineos-res
-FineOSSoundRecorder
-FineOSSystemManager
+-- FineOSSoundRecorder
+-- FineOSSystemManager
 -- FineOSTheme
 -- FineOSVideoPlayer
 -- FineOSWeather
