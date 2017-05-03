@@ -53,7 +53,7 @@ FM2
 fp
 -- framework-res
 -- FusedLocation
-Galaxy4
+-- Galaxy4
 GestureMgr
 GlobalNetworkLocation
 -- GooglePinyinIME
