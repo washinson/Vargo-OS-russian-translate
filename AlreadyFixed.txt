@@ -29,7 +29,7 @@
 -- EngineeringMode
 -- ExternalStorageProvider
 -- FineOSCalculator
-FineOSCleanMasterSDK
+-- FineOSCleanMasterSDK
 -- FineOSDeskClock
 -- FineOSFileExplorer
 -- FineOSGallery
