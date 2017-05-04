@@ -1,74 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">RuntimeTest</string>
-    <string name="name_desp">RunTime Test: выберите, что вы хотите проверить, затем нажмите Start</string>
-    <string name="name_reboot">перезагружать</string>
+    <string name="name_desp">RunTime Test: выберите, что вы хотите проверить, затем нажмите Старт</string>
+    <string name="name_reboot">Перезагрузка</string>
     <string name="name_emmc">EMMC</string>
     <string name="name_memory">Память</string>
     <string name="name_battery">Батарея</string>
     <string name="name_audio">Аудио</string>
-    <string name="name_video">видео</string>
+    <string name="name_video">Видео</string>
     <string name="name_camera">Камера</string>
-    <string name="name_lcd">ЖК-дисплей</string>
+    <string name="name_lcd">Дисплей</string>
     <string name="name_s3">S3</string>
     <string name="name_2d">2D</string>
     <string name="name_3d">3D</string>
-    <string name="name_cpu">ЦПУ</string>
-    <string name="name_bt">блютуз</string>
-    <string name="name_wifi">вай-фай</string>
-    <string name="name_sdcard">SD Card</string>
+    <string name="name_cpu">CPU</string>
+    <string name="name_bt">Bluetooth</string>
+    <string name="name_wifi">Wi-Fi</string>
+    <string name="name_sdcard">SD-карта</string>
     <string name="name_pic">Картина</string>
     <string name="name_vib">Вибратор</string>
-    <string name="name_speaker">Оратор</string>
-    <string name="name_receiver">Получатель</string>
+    <string name="name_speaker">Динамик</string>
+    <string name="name_receiver">Ресивер</string>
     <string name="name_mic">Микрофон</string>
     <string name="buttontext_selectall">Выбрать все</string>
     <string name="buttontext_clearall">Очистить все</string>
-    <string name="buttontext_starttest">Начало</string>
+    <string name="buttontext_starttest">Старт</string>
     <string name="buttontext_setting">Настройка</string>
     <string name="setting_title">Настройка RuntimTest</string>
-    <string name="name_setting_time">Измените время теста как хотите (минуты).</string>
-    <string name="name_setting_count">Измените счетчик тестов как хотите.</string>
+    <string name="name_setting_time">Измените время теста как хотите (минуты)</string>
+    <string name="name_setting_count">Измените счетчик тестов как хотите</string>
     <string name="buttontext_default">Значение по умолчанию</string>
     <string name="buttontext_ok">ОК</string>
     <string name="buttontext_cancel">Отмена</string>
-    <string name="status_not_test">Вбежать<b>not test</b></string>
-    <string name="status_success">Испытание на рунине<b>success</b></string>
-    <string name="status_failed">Испытание на рунине<b>failed</b></string>
+    <string name="status_not_test">Выполнить <b>не тест</b></string>
+    <string name="status_success">Выполненеие теста <b>успешно</b></string>
+    <string name="status_failed">Выполненеие теста <b>провалено</b></string>
     <string name="s3_text_disp">Тест S3 продолжается.........</string>
-    <string name="charged_not_connected_msg">Зарядное устройство не подключено! Сначала подключите зарядное устройство.</string>
-    <string name="charged_not_connected_correct">Зарядное устройство подключено неправильно. Пожалуйста, сначала подключите зарядное устройство.</string>
+    <string name="charged_not_connected_msg">Зарядное устройство не подключено! Сначала подключите зарядное устройство</string>
+    <string name="charged_not_connected_correct">Зарядное устройство подключено неправильно. Пожалуйста, сначала подключите зарядное устройство</string>
     <string name="textPowerIndText">"Мощность
 Процент:"</string>
-    <string name="textCpuIndText">«Процент Cpu
+    <string name="textCpuIndText">"Процент CPU
 (Максимум):"</string>
-    <string name="textTestResultIndText">«Финал
-Результат: "</string>
-    <string name="casestate_begin">Тестирование... |</string>
+    <string name="textTestResultIndText">"Финалльный
+Результат:"</string>
+    <string name="casestate_begin">Тестирование...</string>
     <string name="casestate_finished">Готово</string>
-    <string name="casestate_failed">Не смогли</string>
+    <string name="casestate_failed">Неудачно</string>
     <string name="casestate_aborted">Прервано</string>
-    <string name="caseresult_none">Никто</string>
-    <string name="caseresult_success">Успех</string>
+    <string name="caseresult_none">Нет</string>
+    <string name="caseresult_success">Успешно</string>
     <string name="state_enable">Включено</string>
     <string name="state_disable">Отключено</string>
-    <string name="action_enabling">Включение... € |</string>
-    <string name="action_disabling">Отключение... |</string>
-    <string name="state_mounted">Навесной</string>
+    <string name="action_enabling">Включение...</string>
+    <string name="action_disabling">Отключение...</string>
+    <string name="state_mounted">Смонтировано</string>
     <string name="state_unmounted">Размонтировано</string>
-    <string name="action_mounting">Крепление... |</string>
-    <string name="action_unmounting">Размонтирование... |</string>
-    <string name="vibrate_pattern">Шаблон: %1$ss off, %2$ss on</string>
-    <string name="picture_loading">Загрузка изображения... |</string>
-    <string name="saving">Сохранение результата... |</string>
-    <string name="testing_speaker">Звук должен быть слышен из динамика.</string>
-    <string name="testing_receiver">Звук должен быть услышан от приемника.</string>
-    <string name="message_recording">Запись... |</string>
+    <string name="action_mounting">Монтирование...</string>
+    <string name="action_unmounting">Размонтирование...</string>
+    <string name="vibrate_pattern">Шаблон: %1$ss выкл., %2$ss вкл.</string>
+    <string name="picture_loading">Загрузка изображения...</string>
+    <string name="saving">Сохранение результата...</string>
+    <string name="testing_speaker">Звук должен быть слышен из динамика</string>
+    <string name="testing_receiver">Звук должен быть слышен от приемника</string>
+    <string name="message_recording">Запись...</string>
     <string name="record_saved_file">Файл сохранен в %1$s</string>
-    <string name="mmi_not_done_msg">Тест MMI не завершен! Пожалуйста, сначала проведите MMI-тест.</string>
-    <string name="reboottest">«Текущий тест:
- Перезагрузка "</string>
-    <string name="battery_charge_tip">Низкий уровень заряда %1$d%% после начала полного автоматического тестирования.</string>
+    <string name="mmi_not_done_msg">Тест MMI не завершен! Пожалуйста, сначала проведите MMI-тест</string>
+    <string name="reboottest">"Текущий тест
+ Перезагрузка"</string>
+    <string name="battery_charge_tip">Низкий уровень заряда %1$d%% после начала полного автоматического тестирования</string>
     <string name="stop_runin_test">Режим экономии</string>
 </resources>
-
