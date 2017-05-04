@@ -54,49 +54,49 @@ fp
 -- framework-res
 -- FusedLocation
 -- Galaxy4
-GestureMgr
-GlobalNetworkLocation
+-- GestureMgr
+-- GlobalNetworkLocation
 -- GooglePinyinIME
-HQEngineerCode
+-- HQEngineerCode
 -- HTMLViewer
 HuohouVoice
 -- InputDevices
-InterfacePermissions
+-- InterfacePermissions
 -- KeyChain
 -- LatinIME
 -- LiveWallpapers
 -- LiveWallpapersPicker
-LockBimuyu
+-- LockBimuyu
 LunarInfoProvider
 -- ManagedProvisioning
 -- MediaProvider
 -- Mms
 -- MusicFX
 NetworkNavigation
-NetworkSetting
+-- NetworkSetting
 -- NfcNci
 -- NoiseField
-OmaDrmUiController
+-- OmaDrmUiController
 -- PackageInstaller
 PacProcessor
-PhoneComponentInfo
-PhoneFeatures
+-- PhoneComponentInfo
+-- PhoneFeatures
 -- PhotoTable
 -- PrintSpooler
 -- Protips
 ProxyHandler
 QComQMIPermissions
-RawDataTest_BOE
-RawDataTest_TDI
-RuntimeTest
-SecProtect
+-- RawDataTest_BOE
+-- RawDataTest_TDI
+-- RuntimeTest
+-- SecProtect
 -- Settings
 -- SettingsProvider
 Setupwizard
 SetupwizardBrowser
 -- Shell
 SnapdragonCamera
-Stk
+-- Stk
 -- SystemUI
 -- Tag
 -- Telecom
