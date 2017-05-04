@@ -78,14 +78,14 @@ NetworkNavigation
 -- NoiseField
 -- OmaDrmUiController
 -- PackageInstaller
-PacProcessor
+-- PacProcessor
 -- PhoneComponentInfo
 -- PhoneFeatures
 -- PhotoTable
 -- PrintSpooler
 -- Protips
-ProxyHandler
-QComQMIPermissions
+-- ProxyHandler
+-- QComQMIPermissions
 -- RawDataTest_BOE
 -- RawDataTest_TDI
 -- RuntimeTest
