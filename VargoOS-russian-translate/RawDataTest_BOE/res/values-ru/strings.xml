@@ -9,13 +9,12 @@
     <string name="red_settings_device_enabled_node_text">Атрибут с включенным устройством</string>
     <string name="red_settings_sysfs_enabled">false</string>
     <string name="title_activity_f54">F54Activity</string>
-    <string name="start_button">Начало</string>
+    <string name="start_button">Старт</string>
     <string name="title_activity_blue_tooth">Тест BlueTooth</string>
     <string name="action_settings">Настройки</string>
-    <string name="btn_start">整机TP测试</string>
-    <string name="processing_msg">测试中请勿触摸TP</string>
-    <string name="pass_msg">通过</string>
-    <string name="fail_msg">失败</string>
-    <string name="error_msg">读取测试数据异常</string>
+    <string name="btn_start">Испытание TP</string>
+    <string name="processing_msg">Не прикасатесь к TP во время теста</string>
+    <string name="pass_msg">ОК</string>
+    <string name="fail_msg">Провал</string>
+    <string name="error_msg">Читение аномалий тестовых данных</string>
 </resources>
-
