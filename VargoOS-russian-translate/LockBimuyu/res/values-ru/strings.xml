@@ -3,5 +3,5 @@
     <string name="ok">@android:string/ok</string>
     <string name="system_ui_date_pattern" />
     <string name="app_name">bimuyuLock</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Привет мир!</string>
 </resources>
