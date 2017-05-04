@@ -17,7 +17,7 @@
     <string name="start_boway_sale">*#2264482*#</string>
     <string name="test_start_runin">*#6688#</string>
     <string name="hw_project_test_display">*#8375#</string>
-    <string name="app_name">Режим двигателя</string>
+    <string name="app_name">Инженерный режим</string>
     <string name="hello_world">Привет мир!</string>
     <string name="action_settings">Настройки</string>
     <string name="engineer_title">Интерфейс запроса инженерных инструкций</string>
@@ -31,19 +31,18 @@
     <string name="product_version">Версия продукта</string>
     <string name="build_version">Номер ревизии</string>
     <string name="master_clear_title">Сброс данных</string>
-    <string name="master_clear_desc">«Это приведет к удалению всех данных с вашего телефона»<b>internal storage</b>", including:
+    <string name="master_clear_desc">"Это приведет к удалению всех данных с "<b>памяти</b>" вашего телефона, включая:
 
-"<li>Your Google account</li>"
-"<li>System and app data and settings</li>"
-"<li>Downloaded apps</li></string>
+"<li>Ваш Google аккаунт</li>"
+"<li>Данные приложений и настройки</li>"
+"<li>Загруженные приложения</li></string>
     <string name="menu_noContact">Нет назначенного контакта</string>
     <string name="device_id">Идентификатор устройства</string>
     <string name="menu_callNumber">Позвонить: %s</string>
-    <string name="simContacts_emptyLoading">Чтение с SIM-карты... |</string>
+    <string name="simContacts_emptyLoading">Чтение SIM-карты...</string>
     <string name="simContacts_title">Управление контактами на SIM-карте</string>
     <string name="meid">MEID</string>
     <string name="imei">IMEI</string>
     <string name="uuid">UUID</string>
     <string name="battery_low_restore_factoryset">Невозможно восстановить заводские настройки, батарея разряжена!</string>
 </resources>
-
