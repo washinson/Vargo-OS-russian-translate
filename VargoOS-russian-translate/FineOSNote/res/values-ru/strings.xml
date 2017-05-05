@@ -20,7 +20,7 @@
     <string name="please_enter_name">Введите название</string>
     <string name="please_enter_content">Укажите содержание</string>
     <string name="no_file_text">Папка пуста</string>
-    <string name="note_tips_1">Нажмите кнопку "Добавит", чтобы добавить заметки</string>
+    <string name="note_tips_1">Нажмите кнопку "Добавить", чтобы добавить заметки</string>
     <string name="note_tips_2">Можно добавить непосредственно в соответствующую папку</string>
     <string name="move_note_warning">Переместить в другую папку?</string>
     <string name="save_note_warning">Сохранить изменения?</string>
