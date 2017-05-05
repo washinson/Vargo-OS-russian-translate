@@ -20,11 +20,10 @@
     <string name="please_enter_name">Введите название</string>
     <string name="please_enter_content">Укажите содержание</string>
     <string name="no_file_text">Папка пуста</string>
-    <string name="note_tips_1">Нажмите кнопку «Добавить», чтобы добавить заметки.</string>
+    <string name="note_tips_1">Нажмите кнопку "Добавит", чтобы добавить заметки</string>
     <string name="note_tips_2">Можно добавить непосредственно в соответствующую папку</string>
-    <string name="move_note_warning">Переместить в обычае folderï¼Ÿ</string>
+    <string name="move_note_warning">Переместить в другую папку?</string>
     <string name="save_note_warning">Сохранить изменения?</string>
     <string name="hint_invalid_file_name">Неверное имя файла!</string>
     <string name="file_name_already_exists">Имя файла уже существует!</string>
 </resources>
-
