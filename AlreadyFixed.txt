@@ -104,7 +104,7 @@ SetupwizardBrowser
 -- TeleService
 ThePaper
 -- ThirdFonts
-UserDictionaryProvider
+-- UserDictionaryProvider
 VargoAppStore
 VargoGallery
 VargoGameHall
