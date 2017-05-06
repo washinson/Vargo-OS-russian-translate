@@ -5,20 +5,20 @@
     <string name="install_default">Свободно</string>
     <string name="app_name">FineOSInfo</string>
     <string name="tb_munion_tip_download_prefix">Скачивание:</string>
-    <string name="umeng_common_action_info_exist">Приложение уже загружено в список.</string>
-    <string name="umeng_common_info_interrupt">Dowload прерван.</string>
+    <string name="umeng_common_action_info_exist">Приложение уже загружено в список</string>
+    <string name="umeng_common_info_interrupt">Загузка прервана</string>
     <string name="umeng_common_action_pause">Пауза</string>
-    <string name="umeng_common_action_continue">Продолжать</string>
+    <string name="umeng_common_action_continue">Продолжить</string>
     <string name="umeng_common_action_cancel">Отмена</string>
     <string name="umeng_common_download_notification_prefix">Скачивание:</string>
     <string name="umeng_common_pause_notification_prefix">Пауза:</string>
-    <string name="umeng_common_start_download_notification">Начало загрузки.</string>
-    <string name="umeng_common_start_patch_notification">Запуск патча.</string>
-    <string name="umeng_common_network_break_alert">Убедитесь, что вы подключены к Интернету, загрузка не удалась.</string>
+    <string name="umeng_common_start_download_notification">Начало загрузки</string>
+    <string name="umeng_common_start_patch_notification">Запуск патча</string>
+    <string name="umeng_common_network_break_alert">Убедитесь, что вы подключены к Интернету, загрузка не удалась</string>
     <string name="umeng_common_download_failed">Ошибка загрузки!</string>
-    <string name="umeng_common_download_finish">Загрузка завершена, нажмите, чтобы установить ее.</string>
-    <string name="umeng_common_patch_finish">Патч закончен, нажмите, чтобы установить его.</string>
-    <string name="umeng_common_silent_download_finish">Новая версия готова, нажмите, чтобы установить ее.</string>
+    <string name="umeng_common_download_finish">Загрузка завершена, нажмите, чтобы установить</string>
+    <string name="umeng_common_patch_finish">Патч загружен, нажмите, чтобы установить его</string>
+    <string name="umeng_common_silent_download_finish">Новая версия готова, нажмите, чтобы установить ее</string>
     <string name="umeng_common_icon">icon</string>
     <string name="UMBreak_Network">Убедитесь, что вы подключены к Интернету, сбой обновления</string>
     <string name="UMUpdateTitle">Найдена новая версия</string>
@@ -26,13 +26,12 @@
     <string name="UMUpdateContent">Обновить содержимое</string>
     <string name="UMUpdateSize">Обновить размер:</string>
     <string name="UMTargetSize">Целевой размер:</string>
-    <string name="UMGprsCondition">(Предупреждение: не условие WIFI)</string>
+    <string name="UMGprsCondition">(Предупреждение: условие WIFI не соблюдено)</string>
     <string name="UMUpdateNow">Обновить сейчас</string>
     <string name="UMAppUpdate">Обновление приложения</string>
     <string name="UMNotNow">Не сейчас</string>
-    <string name="UMIgnore">Индор это</string>
+    <string name="UMIgnore">Игнорировать</string>
     <string name="UMToast_IsUpdating">Обновление...</string>
-    <string name="UMDialog_InstallAPK">Последняя версия загружена, установлен сейчас?</string>
+    <string name="UMDialog_InstallAPK">Последняя версия загружена, установить сейчас?</string>
     <string name="UMUpdateCheck">2.6.0.1.20150312</string>
 </resources>
-

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">网络位置</string>
-    <string name="app_label">网络位置</string>
-    <string name="location_warning_title">位置许可</string>
-    <string name="location_warning_title_first">位置许可</string>
-    <string name="location_warning_title_close">位置许可</string>
-    <string name="location_warning_message">"打开百度网络定位服务功能后，您将允许百度的网络定位服务收集匿名地点数据。系统可能会将部分数据加密存储在您的设备上。即使您的设备未运行任何应用程序，该服务也会加密并收集此类数据。当加密收集数据时将会产生数据流量费用。加密收集的数据将用于反馈位置信息以及提高定位性能和精确度，我们承诺不会将收集的数据提供给第三方或用于提供服务之外的其他目的。收集的数据包括： 
-- 所要测量的周边WLAN AP的ID、信号强度信息 
-- 所要测量的周边基站的ID、信号强度信息（GSM网的情况） 
-- 所要测量的周边基站的ID、信号强度信息（CDMA 网的情况）。"</string>
-    <string name="location_warning_message1">打开百度网络定位服务功能后，您将允许百度的网络定位服务收集匿名地点数据。系统可能会将部分数据加密存储在您的设备上。即使您的设备未运行任何应用程序，该服务也会加密并收集此类数据。</string>
-    <string name="location_warning_message2">当加密收集数据时将会产生数据流量费用。加密收集的数据将用于反馈位置信息以及提高定位性能和精确度，我们承诺不会将收集的数据提供给第三方或用于提供服务之外的其他目的。收集的数据包括：</string>
-    <string name="location_warning_message3">所要测量的周边WLAN AP的ID、信号强度信息</string>
-    <string name="location_warning_message4">所要测量的周边基站的ID、信号强度信息（GSM网的情况和CDMA 网的情况）</string>
+    <string name="app_name">Сетевое расположение</string>
+    <string name="app_label">Сетевое расположение</string>
+    <string name="location_warning_title">Лицензия</string>
+    <string name="location_warning_title_first">Лицензия</string>
+    <string name="location_warning_title_close">Лицензия</string>
+    <string name="location_warning_message">"Открывая сети Байду службы Геолокации, вы позволяете сети baidu и сервисам определения местоположения, собирать анонимные данные о местоположении. Система может быть частью хранимых данных в зашифрованном виде на вашем устройстве. Даже если на вашем устройстве не работает какое-либо приложение, служба шифрует и собирать такие данные. При шифровании, когда данные собираются, может расходовать ваш интернет-трафик. При шифровании, собранные данные будут использованы для установки обратной связи информации, а также для повышения производительности и точности позиционирования, и мы обещаем, что собраные данные не будут переданы третьим лицам или использоваться для оказания услуг, иных, кроме целевых. Собранные данные включают в себя: 
+- Информация о точке доступа Wi-Fi, информация о мощности сигнала.
+- Информация о периферийной базовой станции вашего оператора, силе сигнала сети GSM. 
+- Информация о периферийной базовой станции вашего оператора, силе сигнала сети CDMA."</string>
+    <string name="location_warning_message1">Открывая сети baidu службы Геолокации, вы позволяете сети baidu и сервисам определения местоположения, собирать анонимные данные о местоположении. Система может быть частью хранимых данных в зашифрованном виде на вашем устройстве. Даже если на вашем устройстве не работает какое-либо приложение, служба шифрует и собирать такие данные.</string>
+    <string name="location_warning_message2">При шифровании, когда данные собираются, может расходовать ваш интернет-трафик. При шифровании, собранные данные будут использованы для установки обратной связи информации, а также для повышения производительности и точности позиционирования, и мы обещаем, что собраные данные не будут переданы третьим лицам или использоваться для оказания услуг, иных, кроме целевых. Собранные данные включают в себя: </string>
+    <string name="location_warning_message3">Информация о точке доступа Wi-Fi, информация о мощности сигнала</string>
+    <string name="location_warning_message4">Информация о периферийной базовой станции вашего оператора, силе сигнала сети GSM и CDMA</string>
     <string name="location_warning_message5">-</string>
-    <string name="location_close_warning_message">关闭网络定位服务部分应用将无法定位。</string>
-    <string name="location_first_warning_message">为了给您带来更好的用户体验，系统会开启网络定位服务。</string>
-    <string name="location_warning_title_1">同意记录地点信息</string>
-    <string name="location_warning_title_first_1">同意记录地点信息</string>
-    <string name="location_warning_title_close_1">同意记录地点信息</string>
-    <string name="location_warning_message_1">允许百度的位置服务收集匿名地点数据。系统可能会将部分数据存储在您的设备上。即使您的设备未运行任何应用，该服务也会收集此类数据。当收集数据时将会产生一定的流量费用。</string>
-    <string name="location_warning_message_one">允许通过 GPS 和/或 NLP 功能开启位置服务。</string>
-    <string name="location_warning_message_two">NLP 功能安装完成并开启后，内容提供商将收集匿名位置数据。这可能会产生额外费用。</string>
-    <string name="location_warning_message_three">同意前先点击查看相关内容</string>
-    <string name="always_wifi_scan_tip_four">即使在 WLAN 关闭时，也启用始终允许扫描附近 WLAN。</string>
-    <string name="never_show_tip">不再显示</string>
-    <string name="always_wifi_scan_tip_tittle">总是允许扫描</string>
-    <string name="always_wifi_scan_tip_content">即使在WLAN关闭时，也允许网络定位服务和应用程序扫描WLAN</string>
-    <string name="always_dialog_scan_tip_prompt">不再提示</string>
-    <string name="agree">同意</string>
-    <string name="disagree">不同意</string>
-    <string name="close_agree">确定</string>
-    <string name="close_disagree">取消</string>
+    <string name="location_close_warning_message">Отключено Местоположение, часть услуг приложение не сможет обнаружить</string>
+    <string name="location_first_warning_message">Для того, чтобы принести вам лучший пользовательский опыт, система включит Местоположение</string>
+    <string name="location_warning_title_1">Согласие на запись информации о местоположении</string>
+    <string name="location_warning_title_first_1">Согласие на запись информации о местоположении</string>
+    <string name="location_warning_title_close_1">Согласие на запись информации о местоположении</string>
+    <string name="location_warning_message_1">Разрешить сети baidu собирать анонимные данные о местоположении. Система может быть частью данных, хранящихся на вашем устройстве. Даже если на вашем устройстве не запучено никаких приложений, сервис также будет собирать эти данные. При сборе данных будет немного расходоваться интернеи-трафик</string>
+    <string name="location_warning_message_one">Допускается включение GPS и/или NLP функции геолокации</string>
+    <string name="location_warning_message_two">Функциональность NLP после завершения установки и после открытия продолжится, контент-провайдер будет собирать анонимные данные о местоположении. Это может повлечь за собой дополнительные расходы.</string>
+    <string name="location_warning_message_three">Нажмите для просмотра соответствующего контента о предварительном согласии</string>
+    <string name="always_wifi_scan_tip_four">Даже если Wi-Fi не включен, также позволять сканировать ближайшие беспроводные сети</string>
+    <string name="never_show_tip">Больше не показывать</string>
+    <string name="always_wifi_scan_tip_tittle">Всегда разрешать сканирование</string>
+    <string name="always_wifi_scan_tip_content">Даже если Wi-Fi не включен, также позволять сканировать ближайшие беспроводные сети</string>
+    <string name="always_dialog_scan_tip_prompt">Больше не показывать</string>
+    <string name="agree">Согласен</string>
+    <string name="disagree">Отказаться</string>
+    <string name="close_agree">Согласен</string>
+    <string name="close_disagree">Отказаться</string>
     <string name="sanxing">124i</string>
     <string name="changhong">nl1036</string>
 </resources>
