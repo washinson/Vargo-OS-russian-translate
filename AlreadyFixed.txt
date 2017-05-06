@@ -34,12 +34,12 @@
 -- FineOSFileExplorer
 -- FineOSGallery
 -- FineOSHome
-FineOSInfo
+-- FineOSInfo
 -- FineOSMirror
 -- FineOSMusic
-FineOSNote
+-- FineOSNote
 -- FineOSNotifyManager
-FineOSPhotoEditor
+-- FineOSPhotoEditor
 -- fineos-res
 -- FineOSSoundRecorder
 -- FineOSSystemManager
@@ -47,10 +47,10 @@ FineOSPhotoEditor
 -- FineOSVideoPlayer
 -- FineOSWeather
 -- flashlight
-FM2
+-- FM2
 -- FotaUpdate
 -- FotaUpdateReboot
-fp
+-- fp
 -- framework-res
 -- FusedLocation
 -- Galaxy4
@@ -95,13 +95,13 @@ NetworkNavigation
 Setupwizard
 SetupwizardBrowser
 -- Shell
-SnapdragonCamera
+-- SnapdragonCamera
 -- Stk
 -- SystemUI
 -- Tag
 -- Telecom
 -- TelephonyProvider
-TeleService
+-- TeleService
 ThePaper
 -- ThirdFonts
 UserDictionaryProvider
@@ -115,7 +115,7 @@ VargoWeather
 -- Vtalkie
 Vtime
 -- WallpaperCropper
-WapiCertInstaller
+-- WapiCertInstaller
 -- webview
 WeiKong
 -- WpsMail
