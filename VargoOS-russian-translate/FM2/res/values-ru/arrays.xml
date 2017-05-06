@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="ster_mon_entries">
     <item>Стерео</item>
@@ -36,291 +36,189 @@
   <string-array name="search_category_rbds_entries">
     <item>Все станции</item>
     <item>Взрослые хиты</item>
-    <item>Классический</item>
+    <item>Классика</item>
     <item>Классический рок</item>
     <item>Колледж</item>
-    <item>Страна</item>
-    <item>Крайняя необходимость</item>
+    <item>Кантри</item>
+    <item>Экстренные</item>
     <item>Экстренное испытание</item>
     <item>Иностранный язык</item>
     <item>Информация</item>
     <item>Джаз</item>
     <item>Новости</item>
     <item>Ностальгия</item>
-    <item>Oldies</item>
-    <item>Личность</item>
-    <item>Общественный</item>
+    <item>Старое</item>
+    <item>Личное</item>
+    <item>Общее</item>
     <item>Религиозная музыка</item>
     <item>Форумные игры</item>
     <item>Ритм и блюз</item>
-    <item>рок</item>
-    <item>Мягкий</item>
+    <item>Рок</item>
+    <item>Легкое</item>
     <item>Легкий рок</item>
-    <item>Мягкий ритм и блюз</item>
-    <item>Виды спорта</item>
-    <item>Говорить</item>
+    <item>Легкий ритм и блюз</item>
+    <item>Спортивные</item>
+    <item>Разговоры</item>
     <item>Топ 40</item>
     <item>Погода</item>
   </string-array>
-  <string-array name="search_category_rbds_values">
-    <item>0</item>
-    <item>7</item>
-    <item>15</item>
-    <item>6</item>
-    <item>23</item>
-    <item>10</item>
-    <item>31</item>
-    <item>30</item>
-    <item>18</item>
-    <item>2</item>
-    <item>14</item>
-    <item>1</item>
-    <item>13</item>
-    <item>11</item>
-    <item>21</item>
-    <item>22</item>
-    <item>19</item>
-    <item>20</item>
-    <item>16</item>
-    <item>5</item>
-    <item>12</item>
-    <item>8</item>
-    <item>17</item>
-    <item>3</item>
-    <item>4</item>
-    <item>9</item>
-    <item>29</item>
-  </string-array>
   <string-array name="search_category_rds_entries">
-	<item>Все станции</item>
-	<item>Культура</item>
-	<item>Текущие события</item>
-	<item>Детские программы</item>
-	<item>Кантри</item>
-	<item>Документальные</item>
-	<item>Драма</item>
-	<item>Легкая музыка</item>
-	<item>Образование</item>
-	<item>Экстренный вызов</item>
-	<item>Аварийный тест</item>
-	<item>Финансы</item>
-	<item>Фольклор</item>
-	<item>Информация</item>
-	<item>Джаз</item>
-	<item>Легкая классическая</item>
-	<item>Досуг</item>
-	<item>Новости</item>
-	<item>Национальная музыкальная</item>
-	<item>Другая музыка</item>
-	<item>Старые хиты</item>
-	<item>Телефон</item>
-	<item>Поп-музыка</item>
-	<item>Религия</item>
-	<item>Рок музыка</item>
-	<item>Наука</item>
-	<item>Серьезная классическая</item>
-	<item>Социальные вопросы</item>
-	<item>Спорт</item>
-	<item>Путешествие</item>
-	<item>Разнообразный</item>
-	<item>Погода</item>
-  </string-array>
-  <string-array name="search_category_rds_values">
-    <item>0</item>
-    <item>7</item>
-    <item>2</item>
-    <item>18</item>
-    <item>25</item>
-    <item>29</item>
-    <item>6</item>
-    <item>12</item>
-    <item>5</item>
-    <item>31</item>
-    <item>30</item>
-    <item>17</item>
-    <item>28</item>
-    <item>3</item>
-    <item>24</item>
-    <item>13</item>
-    <item>23</item>
-    <item>1</item>
-    <item>26</item>
-    <item>15</item>
-    <item>27</item>
-    <item>21</item>
-    <item>10</item>
-    <item>20</item>
-    <item>11</item>
-    <item>8</item>
-    <item>14</item>
-    <item>19</item>
-    <item>4</item>
-    <item>22</item>
-    <item>9</item>
-    <item>16</item>
+    <item>Все станции</item>
+    <item>Культура</item>
+    <item>Деловые</item>
+    <item>Детские программы</item>
+    <item>Музыка кантри</item>
+    <item>Документальный</item>
+    <item>Драма</item>
+    <item>Легкая музыка</item>
+    <item>Образование.</item>
+    <item>Экстренные</item>
+    <item>Экстренное испытание</item>
+    <item>Финансы</item>
+    <item>Народная музыка</item>
+    <item>Информация</item>
+    <item>Джаз</item>
+    <item>Легкая классическая</item>
+    <item>Досуг</item>
+    <item>Новости</item>
+    <item>Национальная музыка</item>
+    <item>Прочее</item>
+    <item>Музыка старых времен</item>
+    <item>Для телефонов</item>
+    <item>Поп-музыка</item>
+    <item>Религия</item>
+    <item>Рок музыка</item>
+    <item>Наука</item>
+    <item>Серьезная классическая</item>
+    <item>Социальные вопросы</item>
+    <item>Спорт</item>
+    <item>Путешествия</item>
+    <item>В перемешку</item>
+    <item>Погода</item>
   </string-array>
   <string-array name="presetlist_edit_category">
-	<item>Переименовать</item>
-	<item>Авто-выбор</item>
-	<item>Удалить</item>
+    <item>Переименовать</item>
+    <item>Автовыбор</item>
+    <item>Удалить</item>
   </string-array>
   <string-array name="regional_band_entries">
-	<item>Северная Америка</item>
-	<item>Европа</item>
-	<item>Япония</item>
-	<item>Япония</item>
-	<item>Австралия</item>
-	<item>Австрия</item>
-	<item>Бельгия</item>
-	<item>Бразилия</item>
-	<item>Китай</item>
-	<item>Чехия</item>
-	<item>Дания</item>
-	<item>Финляндия</item>
-	<item>Франция</item>
-	<item>Германия</item>
-	<item>Греция</item>
-	<item>Гонконг</item>
-	<item>Индия</item>
-	<item>Ирландия</item>
-	<item>Италия</item>
-	<item>Корея</item>
-	<item>Мексика</item>
-	<item>Нидерланды</item>
-	<item>Новая Зеландия</item>
-	<item>Норвегия</item>
-	<item>Польша</item>
-	<item>Португалия</item>
-	<item>Россия</item>
-	<item>Сингапур</item>
-	<item>Словакия</item>
-	<item>Испания</item>
-	<item>Швейцария</item>
-	<item>Швеция</item>
-	<item>Тайвань</item>
-	<item>Турция</item>
-	<item>Великобритания</item>
-	<item>США</item>
-	<item>Пользовательский диапазон</item>
-  </string-array>
-  <string-array name="regional_band_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-    <item>5</item>
-    <item>6</item>
-    <item>7</item>
-    <item>8</item>
-    <item>9</item>
-    <item>10</item>
-    <item>11</item>
-    <item>12</item>
-    <item>13</item>
-    <item>14</item>
-    <item>15</item>
-    <item>16</item>
-    <item>17</item>
-    <item>18</item>
-    <item>19</item>
-    <item>20</item>
-    <item>21</item>
-    <item>22</item>
-    <item>23</item>
-    <item>24</item>
-    <item>25</item>
-    <item>26</item>
-    <item>27</item>
-    <item>28</item>
-    <item>29</item>
-    <item>30</item>
-    <item>31</item>
-    <item>32</item>
-    <item>33</item>
-    <item>34</item>
-    <item>35</item>
-    <item>36</item>
+    <item>Северная Америка</item>
+    <item>Европа</item>
+    <item>Япония</item>
+    <item>Япония (широкий)</item>
+    <item>Австралия</item>
+    <item>Австрия</item>
+    <item>Бельгия</item>
+    <item>Бразилия</item>
+    <item>Китай</item>
+    <item>Чешский</item>
+    <item>Дания</item>
+    <item>Финляндия</item>
+    <item>Франция</item>
+    <item>Германия</item>
+    <item>Греция</item>
+    <item>Гонконг</item>
+    <item>Индия</item>
+    <item>Ирландия</item>
+    <item>Италия</item>
+    <item>Корея</item>
+    <item>Мексика</item>
+    <item>Нидерланды</item>
+    <item>Новая Зеландия</item>
+    <item>Норвегия</item>
+    <item>Польша</item>
+    <item>Португалия</item>
+    <item>Россия</item>
+    <item>Сингапур</item>
+    <item>Словакия</item>
+    <item>Испания</item>
+    <item>Швейцария</item>
+    <item>Швеция</item>
+    <item>Тайвань</item>
+    <item>Турция</item>
+    <item>Великобритания</item>
+    <item>Соединенные Штаты</item>
+    <item>Пользовательский диапазон</item>
   </string-array>
   <string-array name="regional_band_summary">
-	<item>Северная Америка (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
-	<item>Европа (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Япония (76.0MHz To 90.0MHz In 100 Khz Steps)</item>
-	<item>Япония(Wide) (90.0MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Австралия (87.7MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Австрия(87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Бельгия (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Бразилия (87.8MHz To 108.0MHz In 200 Khz Step)</item>
-	<item>Китай (87.0MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Чехия (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Дания (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Финляндия (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Франция (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Германия (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Греция (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Гонг Конг (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Индия (91.0MHz To 106.4MHz In 100 Khz Steps)</item>
-	<item>Ирландия (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Италия (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Корея (87.5MHz To 108.0MHz In 200 Khz Steps)</item>
-	<item>Мексика (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
-	<item>Голландия (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Новая Зеландия (88.0MHz To 107.0MHz In 100 Khz Steps)</item>
-	<item>Норвегия (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Польша(88.0MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Португалия (87.5MHz To 108.0MHz In 50 Khz Steps)</item>
-	<item>Россия (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Сингапур (88.0MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Словакия (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Испания (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Швецария(87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Швеция (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Тайвань (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Турция (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>Великобритания (87.5MHz To 108.0MHz In 100 Khz Steps)</item>
-	<item>США (88.1MHz To 107.9MHz In 200 Khz Steps)</item>
-	<item>Пользовательский диапазон</item>
+    <item>Северная Америка (87,5 МГц до 108,0 МГц, шаг по 200 кГц)</item>
+    <item>Европа (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Япония (76,0 МГц до 90,0 МГц, шаг по 100 кГц)</item>
+    <item>Япония (широкоформатный) (от 90,0 МГц до 108,0 МГц, шаг по 50 кГц)</item>
+    <item>Австралия (87,7 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Австрия (87,5 МГц до 108,0 МГц, шаг по 50 кГц)</item>
+    <item>Бельгия (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Бразилия (87,5 МГц, до 108,0 МГц, шаг по 200 кГц)</item>
+    <item>Китай (87,0 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Чешский (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Дания (87,5 МГц до 108,0 МГц, шаг по 50 кГц)</item>
+    <item>Финляндия (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Франция (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Германия (87,5 МГц до 108,0 МГц, шаг по 50 кГц)</item>
+    <item>Греция (87,5 МГц до 108,0 МГц, шаг по 50 кГц)</item>
+    <item>Гонконг (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Индия (91,0 МГц до 106,4 МГц, шаг по 100 кГц)</item>
+    <item>Ирландия (87,5 МГц до 108,0 МГц, шаг по 50 кГц)</item>
+    <item>Италия (87,5 МГц до 108,0 МГц, шаг по 50 кГц)</item>
+    <item>Корея (87,5 МГц до 108,0 МГц, шаг по 200 кГц)</item>
+    <item>Мексика (88,1 МГц до 107,9 МГц, шаг по 200 кГц)</item>
+    <item>Нидерланды (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Новая Зеландия (88,0 МГц до 107,0 МГц, шаг по 100 кГц)</item>
+    <item>Норвегия (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Польша (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Португалия (87,5 МГц до 108,0 МГц, шаг по 50 кГц)</item>
+    <item>Россия (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Сингапур (88,0 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Словакия (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Испания (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Швейцария (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Швеция (87,5 МГц до 108,0 МГц, шаг по  100 кГц)</item>
+    <item>Тайвань (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Турция (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Соединенное Королевство (87,5 МГц до 108,0 МГц, шаг по 100 кГц)</item>
+    <item>Соединенные Штаты Америки (88,1 МГц до 107,9 МГц, шаг по 200 кГц)</item>
+    <item>Пользовательский диапазон</item>
   </string-array>
   <string-array name="rf_cfg">
-	<item>Получить параметры текущей станции</item>
-	<item>Получить станции Параметры Повторите 20 раз</item>
-	<item>Получить параметры поиска станций</item>
-	<item>Получить параметры полосы развертки FM</item>
-	<item>Настройка параметров производительности</item>
+    <item>Получить текущие параметры станции</item>
+    <item>Получить параметры станции. Повторить 20 раз</item>
+    <item>Получить параметры поисковой станции</item>
+    <item>Получить параметры развертки диапазона FM</item>
+    <item>Настройка параметров производительности</item>
   </string-array>
   <string-array name="cfg_rf1">
-	<item>Установка FM RSSI Delta</item>
-	<item>Установить порог сигнала</item>
-	<item>Радиочастотная Статистика</item>
+    <item>Установить FM RSSI Delta</item>
+    <item>Установить порог сигнала</item>
+    <item>Статистика RF</item>
   </string-array>
   <string-array name="cfg_rf2">
-	<item>Установить количество образцов SINR</item>
-	<item>Установка SINR порога</item>
-	<item>Установить порог IntfDetoutLow</item>
-	<item>Установить порог IntfDetoutHigh</item>
-	<item>Радиочастотная Статистика</item>
-	<item>Set RmssiFirstStage</item>
-	<item>Set CF0Th12</item>
-	<item>Set SearchAlgo Type</item>
-	<item>Get SINR Samples Count</item>
-	<item>Get SINR Threshold</item>
-	<item>Get SinrFirstStage</item>
-	<item>Get RmssiFirstStage</item>
-	<item>Get CF0Th12</item>
-	<item>Get Search Algo Type</item>
-	<item>Set AfJmpRmssi Threshold</item>
-	<item>Set GoodChRmssi Threshold</item>
-	<item>Set AfJmpRmssi Samples count</item>
-	<item>Get AfJmpRmssi Threshold</item>
-	<item>Get GoodChRmssi Threshold</item>
-	<item>Get AfJmpRmssi Samples count</item>
-	<item>Радиочастотная Статистика</item>
-	<item>Set RXREPEAT Count</item>
+    <item>Задать количество отсчетов SINR</item>
+    <item>Установка порога SINR</item>
+    <item>Установить порог IntfDetoutLow</item>
+    <item>Установить IntfDetoutHigh Threshold</item>
+    <item>Установить SinrFirstStage</item>
+    <item>Установить RmssiFirstStage</item>
+    <item>Установить CF0Th12</item>
+    <item>Установить тип SearchAlgo</item>
+    <item>Получить количество отсчетов SINR</item>
+    <item>Получить порог SINR</item>
+    <item>Получить SinrFirstStage</item>
+    <item>Получить RmssiFirstStage</item>
+    <item>Получить CF0Th12</item>
+    <item>Поиск по типу Algo</item>
+    <item>Установить порог AfJmpRmssi</item>
+    <item>Установить порог GoodChRmssi</item>
+    <item>Установить количество образцов AfJmpRmssi</item>
+    <item>Получить порог AfJmpRmssi</item>
+    <item>Получить порог GoodChRmssi</item>
+    <item>Получить количество образцов AfJmpRmssi</item>
+    <item>Статистика RF</item>
+    <item>Установить счетчик RXREPEAT</item>
   </string-array>
   <string-array name="stats_options">
-	<item>Выбрать вариант</item>
-	<item>Настройка Параметров поиска FM</item>
-	<item>Радиочастотная Статистика</item>
+    <item>Выберите вариант</item>
+    <item>Настройка параметров производительности</item>
+    <item>Статистика RF</item>
   </string-array>
   <string-array name="channel_spacing_val">
     <item>2</item>
@@ -333,7 +231,7 @@
     <item>200 кГц</item>
   </string-array>
   <string-array name="band_sweep_methods">
-	<item>Вручную</item>
-	<item>Из файла</item>
+    <item>Руководство</item>
+    <item>Из файла</item>
   </string-array>
 </resources>
