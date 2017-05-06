@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <plurals name="whitelistTotal">
-    <item quantity="other">Разрешено перезагружать устройство: %d</item>
+    <item quantity="other">Автозапуск разрешен: %d</item>
   </plurals>
   <plurals name="blacklistTotal">
-    <item quantity="other">Запрещено перезагружать устройство: %d</item>
+    <item quantity="other">Автозапуск запрещен: %d</item>
   </plurals>
 </resources>
