@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Zooking LockScreen</string>
-    <string name="app_name_meizu">动态主题服务</string>
-    <string name="wallpaper_name">掌酷动态壁纸</string>
-    <string name="wallpaper_description">掌酷动态壁纸，多种动态和静态壁纸资源随心换！</string>
-    <string name="wallpaper_author">深圳掌酷软件有限公司</string>
+    <string name="app_name">Экран блокировки Zooking</string>
+    <string name="app_name_meizu">Динамическая тема</string>
+    <string name="wallpaper_name">Живые обои</string>
+    <string name="wallpaper_description">Разнообразные живые и статические обои на ваш выбор!</string>
+    <string name="wallpaper_author">Zooking LTD.</string>
 </resources>
-
