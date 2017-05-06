@@ -28,7 +28,7 @@
     <string name="tether_settings_title_usb_bluetooth">Модем</string>
     <string name="tether_settings_title_all">Tethering &amp; Точка доступа</string>
     <string name="power_range_text">Диапазон мощности</string>
-    <string name="onekey_savepower_text">Настройки питания/string>
+    <string name="onekey_savepower_text">Настройки питания</string>
     <string name="onekey_savepower_onclickhint_text">Нажмите для просмотра настроек энергосберегающего режима.</string>
     <string name="auto_savepower_text">Умная мощность</string>
     <string name="strMinute">Минута</string>

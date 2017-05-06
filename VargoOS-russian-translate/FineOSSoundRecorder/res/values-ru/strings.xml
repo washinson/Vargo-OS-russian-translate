@@ -48,7 +48,7 @@
     <string name="input_filename">Введите новое имя файла</string>
     <string name="input_validate">Неверное имя файла</string>
     <string name="save_record">Сохранить</string>
-    <string name="no_record_file">Без записи</string>
+    <string name="no_record_file">Нет записей</string>
     <string name="select_all">Выбрать все</string>
     <string name="unselect_all">Отменить выбор</string>
     <string name="default_time_format">00:00:00</string>

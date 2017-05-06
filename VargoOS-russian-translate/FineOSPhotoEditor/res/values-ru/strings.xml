@@ -216,7 +216,7 @@
     <string name="straighten">Выпрямить</string>
     <string name="crop">Обрезать</string>
     <string name="rotate">Повернуть</string>
-    <string name="mirror">Зеркало</string>
+    <string name="mirror">Повернуть</string>
     <string name="negative">Негатив</string>
     <string name="none">Нет</string>
     <string name="edge">Края</string>
