@@ -1,87 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <array name="fp_bg_ary">
-    <item>@drawable/fp_1</item>
-    <item>@drawable/fp_2</item>
-    <item>@drawable/fp_3</item>
-    <item>@drawable/fp_4</item>
-    <item>@drawable/fp_5</item>
-    <item>@drawable/fp_6</item>
-    <item>@drawable/fp_7</item>
-    <item>@drawable/fp_8</item>
-    <item>@drawable/fp_9</item>
-    <item>@drawable/fp_10</item>
-    <item>@drawable/fp_11</item>
-    <item>@drawable/fp_12</item>
-    <item>@drawable/fp_13</item>
-    <item>@drawable/fp_14</item>
-  </array>
   <string-array name="menu_array">
-    <item>Переименование</item>
+    <item>Переименовать</item>
     <item>Удалить</item>
   </string-array>
-    <string-array name="filter_apk">
-        <item>apk</item>
-    </string-array>
-    <string-array name="filter_audio">
-        <item>mp3</item>
-        <item>aac</item>
-        <item>wav</item>
-        <item>wma</item>
-        <item>m4a</item>
-        <item>mid</item>
-        <item>mka</item>
-        <item>ape</item>
-        <item>ogg</item>
-        <item>amr</item>
-    </string-array>
-    <string-array name="filter_vidio">
-        <item>avi</item>
-        <item>asf</item>
-        <item>wmv</item>
-        <item>flv</item>
-        <item>mkv</item>
-        <item>mov</item>
-        <item>3gp</item>
-        <item>mp4</item>
-        <item>ts</item>
-    </string-array>
-    <string-array name="filter_pic">
-        <item>bmp</item>
-        <item>jpg</item>
-        <item>jpeg</item>
-        <item>png</item>
-        <item>gif</item>
-        <item>tif</item>
-        <item>tiff</item>
-    </string-array>
-    <string-array name="filter_doc">
-        <item>doc</item>
-        <item>docx</item>
-    </string-array>
-    <string-array name="filter_pdf">
-        <item>pdf</item>
-    </string-array>
-    <string-array name="filter_excel">
-        <item>xls</item>
-        <item>xlsx</item>
-    </string-array>
-    <string-array name="filter_ppt">
-        <item>ppt</item>
-        <item>pptx</item>
-    </string-array>
-    <string-array name="filter_txt">
-        <item>txt</item>
-    </string-array>
-    <string-array name="filter_zip">
-        <item>zip</item>
-        <item>rar</item>
-        <item>jar</item>
-        <item>cab</item>
-        <item>tar</item>
-    </string-array>
+
   <string-array name="filter_list">
-    <item>Весь файл</item>
+    <item>Все файлы</item>
     <item>Apk-файл</item>
     <item>Аудиофайл</item>
     <item>Файл документа</item>
