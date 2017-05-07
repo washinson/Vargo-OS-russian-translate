@@ -6,13 +6,13 @@
     <string name="UMGprsCondition">(Подсказка: нет WIFI)</string>
     <string name="UMIgnore">Игнорировать эту версию</string>
     <string name="UMNewVersion">Последняя версия:</string>
-    <string name="UMNotNow">Снова</string>
+    <string name="UMNotNow">Не сейчас</string>
     <string name="UMTargetSize">Размер новой версии:</string>
     <string name="UMToast_IsUpdating">Обновление...</string>
     <string name="UMUpdateCheck">2.5.0.20141210</string>
     <string name="UMUpdateContent">Обновление содержимого</string>
     <string name="UMUpdateNow">Обновить сейчас</string>
-    <string name="UMUpdateSize">Только скачать:</string>
+    <string name="UMUpdateSize">Размер обновления:</string>
     <string name="UMUpdateTitle">Откройте для себя новые версии</string>
     <string name="about_words">"Программа для управления бытовой техникой с помощью ИК излучателя"</string>
     <string name="abs__action_bar_home_description">Домой</string>
