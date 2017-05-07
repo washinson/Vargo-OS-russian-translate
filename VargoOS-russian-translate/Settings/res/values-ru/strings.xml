@@ -3116,8 +3116,8 @@
     <string name="vargo_account_new_phone">Установить новый номер</string>
     <string name="vargo_settings_gps_on">Включено</string>
     <string name="vargo_settings_gps_off">Выключить</string>
-    <string name="vargo_settings_status_open">Включить</string>
-    <string name="vargo_settings_status_close">Выключить</string>
+    <string name="vargo_settings_status_open">Выключить</string>
+    <string name="vargo_settings_status_close">Включить</string>
     <string name="vargo_settings_account_login">Авторизоваться</string>
     <string name="vargo_settings_account_input_hint">Введите имя своей учетной записи (адрес электронной почты)</string>
     <string name="vargo_settings_account_input_hint_0">Введите пароль своей учетной записи</string>
