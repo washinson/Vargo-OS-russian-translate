@@ -175,8 +175,8 @@
 	<string name="profile_menu_delete_title">Удалить</string>
 	<string name="profile_menu_triggers_title">Изменить триггеры</string>
 	<string name="profile_action_none">Бездействие</string>
-	<string name="profile_action_disabled">Выключить</string>
-	<string name="profile_action_enable">Включить</string>
+	<string name="profile_action_disabled">Включить</string>
+	<string name="profile_action_enable">Выключить</string>
 	<string name="profile_trigger_a2dp_connect">Подключение A2DP</string>
 	<string name="profile_trigger_a2dp_disconnect">Отключение A2DP</string>
 	<string name="profile_tabs_wifi">Wi-Fi</string>
@@ -995,9 +995,9 @@
     <string name="link_speed_label">Скорость соединения:</string>
     <string name="scan_list_label">Результаты сканирования:</string>
     <string name="wifi_state_disabling">Отключение</string>
-    <string name="wifi_state_disabled">Включить</string>
+    <string name="wifi_state_disabled">Выключить</string>
     <string name="wifi_state_enabling">Включение</string>
-    <string name="wifi_state_enabled">Отключить</string>
+    <string name="wifi_state_enabled">Включить</string>
     <string name="wifi_state_unknown">Неизвестный</string>
     <string name="wifi_config_info">Конфигурация Wi-Fi</string>
     <string name="config_list_label">Настроенные сети</string>
@@ -1545,7 +1545,7 @@
     <string name="uninstall_all_users_text" msgid="851857393177950340">Удалить для всех пользователей</string>
     <string name="install_text" msgid="884360662922471113">Установить</string>
     <string name="disable_text" msgid="6544054052049395202">Включить</string>
-    <string name="enable_text" msgid="9217362512327828987">Отключить</string>
+    <string name="enable_text" msgid="9217362512327828987">Выключить</string>
     <string name="clear_user_data_text" msgid="5597622864770098388">Стереть данные</string>
     <string name="app_factory_reset" msgid="6635744722502563022">Удалить обновления</string>
     <string name="auto_launch_enable_text" msgid="2652825923953591251">Это приложение по умолчанию используется для некоторых действий.</string>
@@ -2499,8 +2499,8 @@
     <string name="vpn_config_list_title">Список файлов конфигурации VPN</string>
     <string name="trusted_credentials_system_tab">Система</string>
     <string name="trusted_credentials_user_tab">Пользователь</string>
-    <string name="trusted_credentials_disable_label">Отключить</string>
-    <string name="trusted_credentials_enable_label">Включить</string>
+    <string name="trusted_credentials_disable_label">Включить</string>
+    <string name="trusted_credentials_enable_label">Выключить</string>
     <string name="trusted_credentials_remove_label">Удалить</string>
     <string name="trusted_credentials_enable_confirmation">Включить сертификат ЦС системы?</string>
     <string name="trusted_credentials_disable_confirmation">Отключить сертификат ЦС системы?</string>
@@ -2514,8 +2514,8 @@
     <string name="close_dialog">ОК</string>
     <string name="sim_enabler_title">Поддержка SIM-карт</string>
     <string name="sim_enabler_summary"> %1$s</string>
-    <string name="sim_enabled">Отключить</string>
-    <string name="sim_disabled">Включить</string>
+    <string name="sim_enabled">Включить</string>
+    <string name="sim_disabled">Выключить</string>
     <string name="sim_missing">Отсутствует или ошибка</string>
     <string name="sim_enabler_need_enable_sim">Вы активировали SIM-карту?</string>
     <string name="sim_enabler_need_disable_sim">Вы отключили SIM-карту, вы уверены?</string>
@@ -3036,12 +3036,12 @@
     <string name="wakeup_settings_title">Пробуждение голосом</string>
     <string name="lockpassword_pin_must_be_4_digits">PIN-код должен содержать %d цифр</string>
     <string name="wifi_more_v">Больше..</string>
-    <string name="wifi_enable">Включить</string>
-    <string name="wifi_disable">Выключить</string>
+    <string name="wifi_enable">Выключить</string>
+    <string name="wifi_disable">Включить</string>
     <string name="nfc_settings">NFC</string>
     <string name="bluetooth_more">Больше..</string>
-    <string name="bluetooth_enable">Включить</string>
-    <string name="bluetooth_disable">Выключить</string>
+    <string name="bluetooth_enable">Выключить</string>
+    <string name="bluetooth_disable">Включить</string>
     <string name="header_category_interact">Взаимосвязь</string>
     <string name="generate_category_generate">Основные</string>
     <string name="generate_category_notification">Уведомления</string>

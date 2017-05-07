@@ -10,5 +10,4 @@ VargoGallery
 VargoGameHall
 VargoWeather
 Vtime
-WeiKong
 XunfeiIME
