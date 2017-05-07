@@ -117,7 +117,7 @@ Vtime
 -- WallpaperCropper
 -- WapiCertInstaller
 -- webview
-WeiKong
+-- WeiKong
 -- WpsMail
 XunfeiIME
 -- YepFactoryKit
