@@ -1,2 +1,13 @@
-LunarInfoProvider
+BaseServiceHQ
 HuohouVoice
+LunarInfoProvider
+NetworkNavigation
+Setupwizard
+SetupwizardBrowser
+ThePaper
+VargoAppStore
+VargoGallery
+VargoGameHall
+VargoWeather
+Vtime
+XunfeiIME

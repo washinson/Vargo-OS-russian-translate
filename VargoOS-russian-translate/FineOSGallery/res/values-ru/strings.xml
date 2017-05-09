@@ -85,7 +85,7 @@
     <string name="cover_title_fresh">Молодость</string>
     <string name="cover_title_morden">Модерн</string>
     <string name="cover_title_tidy">Свежесть</string>
-    <string name="crop">Урожай</string>
+    <string name="crop">Кадрировать</string>
     <string name="crop_action">Кадрировать</string>
     <string name="crop_label">Обрезать фотографию</string>
     <string name="crop_save_text">ОК</string>
