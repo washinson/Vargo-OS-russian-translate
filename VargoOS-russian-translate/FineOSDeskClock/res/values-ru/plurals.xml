@@ -2,15 +2,15 @@
 <resources>
   <plurals name="alarm_alert_snooze_set">
     <item quantity="other">Отложено на %d минут</item>
-    <item quantity="one">Отсрочка в течение 1 минуты</item>
+    <item quantity="one">Отложено на 1 минуту</item>
   </plurals>
   <plurals name="snooze_duration">
     <item quantity="other">%d мин.</item>
     <item quantity="one">1 минута</item>
   </plurals>
   <plurals name="snooze_picker_label">
-    <item quantity="other">Минуты</item>
-    <item quantity="one">Минута</item>
+    <item quantity="other">минуты</item>
+    <item quantity="one">минута</item>
   </plurals>
   <plurals name="Nhours_description">
     <item quantity="other">%d ч.</item>
@@ -29,8 +29,7 @@
     <item quantity="one">1 минута</item>
   </plurals>
   <plurals name="alarm_delete_confirmation">
-    <item quantity="other">Удалить выбранные сигналы?</item>
-    <item quantity="one">Удалить выбранный сигнал?</item>
+    <item quantity="other">Удалить выбранные будильники?</item>
+    <item quantity="one">Удалить выбранный будильник?</item>
   </plurals>
-  <item type="plurals" name="APKTOOL_DUMMY_8">false</item>
 </resources>

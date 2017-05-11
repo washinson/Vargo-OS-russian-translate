@@ -260,20 +260,4 @@
     <string name="radial_numbers_typeface">sans-serif</string>
     <string name="sans_serif">sans-serif</string>
     <string name="day_of_week_label_typeface">sans-serif</string>
-    <item type="string" name="APKTOOL_DUMMY_3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_f2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_f3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_f4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_f5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_f6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_f7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_f8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_f9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_fa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_fb">false</item>
 </resources>
