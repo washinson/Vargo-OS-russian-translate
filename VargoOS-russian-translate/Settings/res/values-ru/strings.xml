@@ -118,13 +118,13 @@
 	<string name="hardware_keys_power_end_call_title">Завершить вызов</string>
 	<string name="hardware_keys_power_end_call_summary">Завершить вызов</string>
 	<string name="home_answer_ringing_call_title">Ответ на вызов</string>
-	<string name="home_answer_ringing_call_summary">Нажатие кнопки «домой» отвечает на текущий входящий вызов</string>
+	<string name="home_answer_ringing_call_summary">Нажатие кнопки \"домой\" отвечает на текущий входящий вызов</string>
 	<string name="volbtn_cursor_control_title">Управление курсором клавиатуры</string>
 	<string name="volbtn_cursor_control_off">Отключено</string>
 	<string name="volbtn_cursor_control_on">Громкость вверх/вниз перемещает курсор влево/вправо</string>
 	<string name="volbtn_cursor_control_on_reverse">Громкость вверх/вниз перемещает курсор вправо/влево</string>
 	<string name="button_wake_title">Разбудить</string>
-	<string name="home_wake_summary">Нажатие кнопки «Домой» разбудит ваше устройство</string>
+	<string name="home_wake_summary">Нажатие кнопки \"Домой\" разбудит ваше устройство</string>
 	<string name="volbtn_wake_device_title">Устройство пробуждения</string>
 	<string name="volbtn_wake_device_summary">Нажатие любой из кнопок громкости приведет к пробуждению вашего устройства</string>
 	<string name="show_battery_percent_title">Показывать процент заряда батареи</string>
@@ -133,7 +133,7 @@
 	<string name="blacklist_edit_dialog_title">Изменить записи в черном списке</string>
 	<string name="blacklist_prefs">Настройки</string>
 	<string name="blacklist_button_delete">Удалить</string>
-	<string name="blacklist_empty_text">"У вас нет номеров в черном списке. Добавьте запись, нажав кнопку «Добавить» (+)"</string>
+	<string name="blacklist_empty_text">"У вас нет номеров в черном списке. Добавьте запись, нажав кнопку \"Добавить\" (+)"</string>
 	<string name="blacklist_disabled_empty_text">Чтобы включить черный список и/или сообщения с определенных номеров, включите черный список</string>
 	<string name="blacklist_summary_disabled">Отключено</string>
 	<string name="blacklist_summary">Входящие вызовы и сообщения с телефонных номеров в черном списке будут заблокированы</string>
@@ -577,7 +577,7 @@
     <string name="crypt_keeper_warn_wipe" msgid="2738374897337991667">Внимание! Осталось попыток: ^1. Если вам не удастся выполнить авторизацию, память устройства будет очищена.</string>
     <string name="crypt_keeper_enter_password" msgid="2223340178473871064">Введите пароль</string>
     <string name="crypt_keeper_failed_title" msgid="7133499413023075961">Сбой шифрования</string>
-    <string name="crypt_keeper_failed_summary" product="default" msgid="3083477162766772532">"Данные на вашем телефоне больше недоступны из-за того, что шифрование было прервано. 
+    <string name="crypt_keeper_failed_summary" product="default" msgid="3083477162766772532">"Данные на вашем телефоне больше недоступны из-за того, что шифрование было прервано.
 
 Чтобы дальше использовать устройство, нужно сбросить настройки. После этого вы сможете восстановить все данные, для которых в аккаунте Google были созданы резервные копии."</string>
     <string name="crypt_keeper_data_corrupt_title" msgid="8759119849089795751">Не удалось расшифровать</string>
@@ -2276,7 +2276,7 @@
     <string name="settings_backup_summary" msgid="7916877705938054035">Резервная копия настроек.</string>
     <string name="sync_menu_sync_now" msgid="6154608350395805683">Синхронизировать</string>
     <string name="sync_menu_sync_cancel" msgid="8292379009626966949">Отменить синхронизацию</string>
-    <string name="sync_one_time_sync" msgid="6766593624598183090">"Нажмите, чтобы начать синхронизацию 
+    <string name="sync_one_time_sync" msgid="6766593624598183090">"Нажмите, чтобы начать синхронизацию
 %1$s"</string>
     <string name="sync_gmail" msgid="714886122098006477">Gmail</string>
     <string name="sync_calendar" msgid="9056527206714733735">Календарь</string>
@@ -2524,7 +2524,7 @@
     <string name="sim_enabler_need_switch_data_service">Вы отключите его и переключитесь на SIM %1$s для служб передачи данных, вы уверены?</string>
     <string name="sim_enabler_airplane_on">ERROR, режим полета включен!</string>
     <string name="sim_enabler_in_call">ОШИБКА, звоните!</string>
-    <string name="sim_enabler_both_inactive">«Ошибка, невозможно отключить все SIM-карты»</string>
+    <string name="sim_enabler_both_inactive">\"Ошибка, невозможно отключить все SIM-карты\"</string>
     <string name="sim_enabler_enabling">Активация..</string>
     <string name="sim_enabler_disabling">Отключение..</string>
     <string name="sub_activate_success">Успешно активирован</string>
@@ -2541,7 +2541,7 @@
     <string name="ssl_ca_cert_warning" msgid="2045866713601984673">Сеть может отслеживаться</string>
     <string name="done_button" msgid="1991471253042622230">Готово</string>
     <string name="ssl_ca_cert_dialog_title" msgid="5339377665264149395">Отслеживание сети</string>
-    <string name="ssl_ca_cert_info_message" msgid="4583879256548819713">"Устройство зарегистрировано в домене 
+    <string name="ssl_ca_cert_info_message" msgid="4583879256548819713">"Устройство зарегистрировано в домене
 %s.
 
 Администратор может отслеживать ваши действия в интернет-сервисах, включая электронную почту, приложения и защищенные веб-сайты.
@@ -2964,9 +2964,9 @@
     <string name="hotspot_settings_desc">Точка доступа Wi-Fi может передавать данные этого телефона через Интернет с другими ПК/мобильными устройствами через Wi-Fi</string>
     <string name="hotspot_settings_indication">После включения точки доступа Wi-Fi другие ПК/мобильные устройства могут подключиться к ней и начать использовать Интернет, выполнив следующие шаги:</string>
     <string name="hotspot_settings_indication_step1">1. Включите Wi-Fi на ПК/мобильном устройстве</string>
-    <string name="hotspot_settings_indication_step2">2. Найдите « %s» в списке сетей Wi-Fi</string>
-    <string name="hotspot_settings_indication_step3_ssid">3. Выберите « %s»</string>
-    <string name="hotspot_settings_indication_step3_all" formatted="false">3. Выберите « %s» и «Enter» в поле «Пароль»</string>
+    <string name="hotspot_settings_indication_step2">2. Найдите \" %s\" в списке сетей Wi-Fi</string>
+    <string name="hotspot_settings_indication_step3_ssid">3. Выберите \" %s\"</string>
+    <string name="hotspot_settings_indication_step3_all" formatted="false">3. Выберите \" %s\" и \"Enter\" в поле \"Пароль\"</string>
     <string name="hotspot_settings_indication_step4">4. Начните использовать Интернет на ПК/мобильном устройстве</string>
     <string name="hotspot_turn_on_hint">Чтобы использовать точку доступа Wi-Fi, включите ее</string>
     <string name="switch_data_subscription">Предпочтение по умолчанию установлено в SIM %1$s</string>
@@ -3042,13 +3042,13 @@
     <string name="bluetooth_more">Больше..</string>
     <string name="bluetooth_enable">Выключить</string>
     <string name="bluetooth_disable">Включить</string>
-    <string name="header_category_interact">Взаимосвязь</string>
+    <string name="header_category_interact">WiDi</string>
     <string name="generate_category_generate">Основные</string>
     <string name="generate_category_notification">Уведомления</string>
     <string name="generate_category_tone">Звук</string>
     <string name="generate_category_display">Дисплей</string>
-    <string name="generate_category_disturb">Режим «Не беспокоить»</string>
-    <string name="nfc_user_tips_words">Пожалуйста, верхней части экрана, рядом 
+    <string name="generate_category_disturb">Режим \"Не беспокоить\"</string>
+    <string name="nfc_user_tips_words">Пожалуйста, верхней части экрана, рядом
 в области кредитной карты</string>
     <string name="vargo_check_upgrade">Обновление ПО</string>
     <string name="vargo_1th_section">Столбец 1</string>
@@ -3090,10 +3090,10 @@
     <string name="vargo_vcloud_sync_vtime">vTime</string>
     <string name="vargo_vcloud_sync_vwork">vWork</string>
     <string name="vargo_vcloud_sync_browser">Браузер</string>
-    <string name="vargo_account_title">Идентификатор Vargo</string>
+    <string name="vargo_account_title">Аккаунт Vargo</string>
     <string name="vargo_account_phone">Мобильный</string>
     <string name="vargo_account_logout">Выйти</string>
-    <string name="vargo_account_logout_vargoid">Выйти из идентификатора Vargo</string>
+    <string name="vargo_account_logout_vargoid">Выйти из аккаунта Vargo</string>
     <string name="vargo_plug_album">Альбом</string>
     <string name="vargo_plug_album_sync">Синхронизация локальных фотографий с облачным альбомом</string>
     <string name="vargo_plug_album_sync_summary">Если вы включили, вы сможете вовремя просмотреть и поделиться информацией о фотографиях на других телефонах</string>
@@ -3274,59 +3274,9 @@
     <string name="wifi_assistant_title_message">Помощник Google Wi-Fi автоматически связывает вас с наилучшей доступной беспроводной локальной сетью</string>
     <string name="wifi_assistant_explanation_message">Помощник Google Wi-Fi обнаруживает доступные сети и подключает ваше устройство к устройству с лучшей скоростью и надежностью</string>
     <string name="wifi_assistant_vpn_message">Чтобы защитить ваши данные, помощник Google Wi-Fi Assistant может обеспечить безопасное VPN-подключение через серверы Google</string>
-    <string name="wifi_assistant_dialog_message">Wi-Fi Assistant хочет настроить VPN-соединение, которое позволяет ему контролировать сетевой трафик. Принимайте его только в том случае, если вы доверяете источнику»</string>
-    <string name="wifi_assistant_permission_accepted">Вы дали «Помощник Google Wi-Fi Assistant» разрешение на установление VPN-соединения. Это означает, что это приложение может отслеживать сетевой трафик</string>
+    <string name="wifi_assistant_dialog_message">Wi-Fi Assistant хочет настроить VPN-соединение, которое позволяет ему контролировать сетевой трафик. Принимайте его только в том случае, если вы доверяете источнику\"</string>
+    <string name="wifi_assistant_permission_accepted">Вы дали \"Помощник Google Wi-Fi Assistant\" разрешение на установление VPN-соединения. Это означает, что это приложение может отслеживать сетевой трафик</string>
     <string name="wifi_assistant_setting_title">Помощник Wi-Fi</string>
     <string name="wifi_assistant_setting_summary">Помощник Google Wi-Fi</string>
-    <item type="string" name="APKTOOL_DUMMY_c65">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c67">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c68">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c6b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c6c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c6d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c6e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c6f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c76">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c77">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c78">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c79">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c7a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c7b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c7c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c7d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c7e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c7f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c80">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c81">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c82">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c83">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c84">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c85">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c86">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c87">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c88">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c89">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c8a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c8b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c8c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c8d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c8e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c8f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c90">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c91">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c92">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c93">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c94">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c95">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c96">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c97">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c98">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c99">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c9a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c9b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c9c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c9d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c9e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_c9f">false</item>
 </resources>
 
