@@ -3176,14 +3176,14 @@
     <string name="vargo_cloud_regist_login_text">Учетные записи Vargo могут облегчить вашу синхронизацию и резервное копирование SMS, контактов, фотографий и других данных мобильного телефона, получить доступ к vPhone, vMessage, внутренней связи и другим услугам безопасной связи, обладать персонализированной облачной блокировкой, удалением облака, облачным позиционированием и другими службами облачной безопасности</string>
     <string name="vargo_cloud_regist_login_text_2">Учетные записи Vargo могут облегчить вашу синхронизацию и резервное копирование SMS, контактов, фотографий и других данных мобильного телефона, обладать персонализированной облачной блокировкой, удалением облака, облачным позиционированием и другими службами облачной безопасности</string>
     <string name="vargo_cloud_regist_login_vtime_text">Управляйте своим временем жизни, рабочим временем и т.д. Упорядочивайте через управление графиком vTime, напоминания и записки. Вы не пропустите ни одного критического момента из-за различных ролей секретаря, предоставленного iVargo</string>
-    <string name="vargo_login_page_login_use_exits">Войти в существующую учетную запись</string>
+    <string name="vargo_login_page_login_use_exits">Войти в существующий аккаунт</string>
     <string name="vargo_login_page_regist">Регистрация нового аккаунта</string>
     <string name="vargo_regist_page_edt_email_hint">Пожалуйста, введите Ваш адрес электронной почты</string>
     <string name="vargo_regist_page_edt_password_hint">Введите пароль</string>
     <string name="vargo_regist_page_edt_password_confirm_hint">Подтвердите пароль</string>
     <string name="vargo_regist_page_tv_hint">Ваш пароль должен содержать от 8 до 16 символов и содержать как цифру, так и букву. Буквы чувствительны к регистру</string>
     <string name="vargo_regist_page_btn_next">Далее</string>
-    <string name="vargo_remote_lock_screen">Телефон удаленно заблокирован через Vcloud, пожалуйста, раздлокируйте для дальнейшего использования</string>
+    <string name="vargo_remote_lock_screen">Телефон удаленно заблокирован через Vcloud, пожалуйста, разблокируйте для дальнейшего использования</string>
     <string name="vargo_active_mobile">Активируйте свой телефон</string>
     <string name="vargo_active_redetect">Реобнаружение</string>
     <string name="vargo_active_activate">Активировать</string>
