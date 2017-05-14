@@ -52,8 +52,8 @@
     <string name="china_unicom_two">China Unicom 02</string>
     <string name="china_telecom_one">China Telecom 01</string>
     <string name="china_telecom_two">China Telecom 02</string>
-    <string name="title_dialog_duration">Звонок окончен</string>
-    <string name="duration_format">%1$d часов %2$d мин. %3$d сек.</string>
+    <string name="title_dialog_duration">Звонок завершен </string>
+    <string name="duration_format">%1$d час. %2$d мин. %3$d сек.</string>
     <string name="alert_title">Оповещение</string>
     <string name="message_not_registered_in_tdd">Невозможно зарегистрироваться в службе только для данных 4G, выйти?</string>
     <string name="message_tdd_data_only">Текущий режим только 4G, не может обеспечить это действие, хотите выйти из режима только 4G?</string>
